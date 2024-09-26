@@ -1,0 +1,442 @@
+{
+    "title-phrases": [
+        {
+            "phrases": "saludar a alguien",
+            "type": [
+                {
+                    "name-type": "formal",
+                    "phrases": [
+                        {
+                            "phrase": "Hello",
+                            "translation": "(Hola)"
+                        },
+                        {
+                            "phrase": "Hello [Name]",
+                            "translation": "(Hola Stiv)"
+                        },
+                        {
+                            "phrase": "How are you?",
+                            "translation": "(¿Cómo está?)"
+                        },
+                        {
+                            "phrase": "How are you doing?",
+                            "translation": " (¿Qué tal?)"
+                        },
+                        {
+                            "phrase": "How have you been?",
+                            "translation": "(¿Cómo ha estado?)"
+                        },
+                        {
+                            "phrase": "Good Morning!",
+                            "translation": "(¡Buenos días!)"
+                        },
+                        {
+                            "phrase": "Good Afternoon!",
+                            "translation": " (¡Buenas tardes!)"
+                        },
+                        {
+                            "phrase": "Good Evening!",
+                            "translation": " (¡Buenas noches!)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "informal",
+                    "phrases": [
+                        {
+                            "phrase": "Hi!",
+                            "translation": "(¡Hola!)"
+                        },
+                        {
+                            "phrase": "Hey!",
+                            "translation": "(¡Hey!)"
+                        },
+                        {
+                            "phrase": "What’s up?",
+                            "translation": "(¿Qué hay?)"
+                        },
+                        {
+                            "phrase": "How’s it going?",
+                            "translation": "(¿Cómo vas?)"
+                        },
+                        {
+                            "phrase": "What’s new?",
+                            "translation": "(¿Qué hay de nuevo?)"
+                        },
+                        {
+                            "phrase": "What have you been up to?",
+                            "translation": "(¿En qué has estado?)"
+                        },
+                        {
+                            "phrase": "How are ya?",
+                            "translation": " (¿Cómo estás?)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "phrases": "Despedidas",
+            "type": [
+                {
+                    "name-type": "Formal",
+                    "phrases": [
+                        {
+                            "phrase": "Good-Bye",
+                            "translation": "(Adiós)"
+                        },
+                        {
+                            "phrase": "Have a nice day!",
+                            "translation": "(¡Tenga un buen día!)"
+                        },
+                        {
+                            "phrase": "It was nice seeing you again.",
+                            "translation": " (Fue bueno verte de nuevo.)"
+                        },
+                        {
+                            "phrase": "I look forward to seeing you again",
+                            "translation": "(Espero verte otra vez.)"
+                        },
+                        {
+                            "phrase": "Take care.",
+                            "translation": "(Cuídese.)"
+                        },
+                        {
+                            "phrase": "Good night! ",
+                            "translation": "(¡Buenas noches!)"
+                        },
+                        {
+                            "phrase": "Good Afternoon!",
+                            "translation": " (¡Buenas tardes!)"
+                        },
+                        {
+                            "phrase": "Good Evening!",
+                            "translation": " (¡Buenas noches!)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Informal",
+                    "phrases": [
+                        {
+                            "phrase": "Bye",
+                            "translation": "(Chao/Chau)"
+                        },
+                        {
+                            "phrase": "Bye-Bye",
+                            "translation": "(Chao/Chau)"
+                        },
+                        {
+                            "phrase": "See you later! Or- See you soon!",
+                            "translation": "(¡Te veo luego! O - ¡Te veo pronto!)"
+                        },
+                        {
+                            "phrase": "Talk to you later",
+                            "translation": "(Hablamos luego.)"
+                        },
+                        {
+                            "phrase": "Take it easy. ",
+                            "translation": "(Tómalo con calma.)"
+                        },
+                        {
+                            "phrase": "I’ve got to get going.",
+                            "translation": " (Me tengo que ir.)"
+                        },
+                        {
+                            "phrase": "I’ve got to run",
+                            "translation": "(Tengo prisa, me tengo que ir.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Muy Informal",
+                    "phrases": [
+                        {
+                            "phrase": "Check you later.",
+                            "translation": " (Hablamos más tarde.)"
+                        },
+                        {
+                            "phrase": "I’m out. Or- I’m out of here.",
+                            "translation": " (Me voy. O – Me voy de aquí.)"
+                        },
+                        {
+                            "phrase": "I’m off.",
+                            "translation": " (Me voy.)"
+                        },
+                        {
+                            "phrase": "I’ve gotta take off",
+                            "translation": "(Tengo que irme.)"
+                        },
+                        {
+                            "phrase": "See ya",
+                            "translation": "(Nos vemos.)"
+                        },
+                        {
+                            "phrase": "Peace",
+                            "translation": " (Paz)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "phrases": "Presentarse",
+            "type": [
+                {
+                    "name-type": "Introducing Yourself (Prepararse a usted mismo)",
+                    "phrases": [
+                        {
+                            "phrase": "Hello, I’m ___________.",
+                            "translation": "(Hola, soy ___________.)"
+                        },
+                        {
+                            "phrase": "I am ____________.",
+                            "translation": " (Yo soy _____./Me llamo____.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Introducing Someone Else (Formal) (Presentar a alguien más (formal)",
+                    "phrases": [
+                        {
+                            "phrase": "This is ______. He/She is my co-worker.",
+                            "translation": "(Este/a es ______. Él/Ella es mi compañero/a de trabajo.)"
+                        },
+                        {
+                            "phrase": "This is _____. He/She is _____.",
+                            "translation": "(Este/a es________. Él/Ella es _______. )"
+                        },
+                        {
+                            "phrase": "I’d like to introduce you to _______, the _______at ________.",
+                            "translation": "(Me gustaría presentarle a_______, el _______en ________. )"
+                        },
+                        {
+                            "phrase": "I would like you to meet ________.",
+                            "translation": "( Me gustaría que conociera a ________. )"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Introducing Someone Else (Informal) (Presentar a alguien más (Informal))",
+                    "phrases": [
+                        {
+                            "phrase": "This is ___________.",
+                            "translation": "(Este es ___________.)"
+                        },
+                        {
+                            "phrase": "This is my friend _______.",
+                            "translation": "(Este es mi amigo _______.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Ejemplos de presentaciones",
+                    "phrases": [
+                        {
+                            "phrase": "Hi! I’m Elizabeth, Eric’s cousin.",
+                            "translation": "(- ¡Hola! Soy Elizabeth, la prima de Eric.)"
+                        },
+                        {
+                            "phrase": " Hey, I’m Betsy. I’m the new project manager.",
+                            "translation": "(- Hey, soy Betsy. Soy la nueva gerente delproyecto.)"
+                        },
+                        {
+                            "phrase": " This is Carl. He is our new IT manager.",
+                            "translation": "(- Este es Carl. Él es nuestro nuevo gerente en TIC.)"
+                        },
+                        {
+                            "phrase": "This is my girlfriend Paula.",
+                            "translation": "(- Esta es mi novia Paula.)"
+                        },
+                        {
+                            "phrase": "I’d like you to meet Anna. She has been a friend of mine for ten years.",
+                            "translation": "(- Me gustaría que conocieras a Anna. Ella ha sido mi amiga por 10 años.)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "phrases": "Hablar de gustos",
+            "type": [
+                {
+                    "name-type": "Formal",
+                    "phrases": [
+                        {
+                            "phrase": "I like…",
+                            "translation": "(Me gusta…)"
+                        },
+                        {
+                            "phrase": "I enjoy…",
+                            "translation": "(Disfruto… )"
+                        },
+                        {
+                            "phrase": "My favorite _________ is…",
+                            "translation": "(Mi _________ favorito/a es…)"
+                        },
+                        {
+                            "phrase": "I love…",
+                            "translation": "(Amo…)"
+                        },
+                        {
+                            "phrase": "I really like/love…",
+                            "translation": "(De verdad me gusta/amo…)"
+                        },
+                        {
+                            "phrase": "I adore…",
+                            "translation": "(Adoro…)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Ejemplos",
+                    "phrases": [
+                        {
+                            "phrase": "I like pizza.",
+                            "translation": " (- Me gusta la pizza.)"
+                        },
+                        {
+                            "phrase": "I like to read books by Dr. Seuss.",
+                            "translation": "(- Me gusta leer los libros del Dr. Seuss.)"
+                        },
+                        {
+                            "phrase": " Peter enjoys running in the snow",
+                            "translation": "(- Peter disfruta correr en la nieve.)"
+                        },
+                        {
+                            "phrase": "I enjoy this peace and quiet. ",
+                            "translation": "(- Disfruto esta paz y tranquilidad.)"
+                        },
+                        {
+                            "phrase": "I love eating sushi. It is so delicious.",
+                            "translation": "(- Amo comer sushi. Es muy rico.)"
+                        },
+                        {
+                            "phrase": " I love learning new things.",
+                            "translation": "(- Amo aprender nuevas cosas.)"
+                        },
+                        {
+                            "phrase": " Bob really loves the new morning program on NBC.",
+                            "translation": " (- Bob de verdad ama el nuevo programa matutino en NBC.)"
+                        },
+                        {
+                            "phrase": " I really like taking long walks in on the beach.",
+                            "translation": "(- Me gusta mucho dar largos paseos en la playa.)"
+                        },
+                        {
+                            "phrase": "I adore Maria. She is such a nice girl.",
+                            "translation": "(- Adoro a María. Es una chica muy dulce.)"
+                        },
+                        {
+                            "phrase": "My favorite movie is Top Gun. It is full of action.",
+                            "translation": "(- Mi película favorita es “Top Gun”. Está repleta de acción.)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "phrases": "Hablar de los desagrados"
+        },
+        {
+            "phrases": "¿A qué te dedicas?/Trabajos"
+        },
+        {
+            "phrases": "¿Qué estás haciendo ahora mismo?"
+        },
+        {
+            "phrases": "Hablar del Pasado"
+        },
+        {
+            "phrases": "Hablar del Futuro"
+        },
+        {
+            "phrases": "Rutinas"
+        },
+        {
+            "phrases": "Pasatiempos & Tiempo Libre"
+        },
+        {
+            "phrases": "Familia"
+        },
+        {
+            "phrases": "Relaciones"
+        },
+        {
+            "phrases": "Características Personales"
+        },
+        {
+            "phrases": "Comida"
+        },
+        {
+            "phrases": "El Clima"
+        },
+        {
+            "phrases": "Transporte"
+        },
+        {
+            "phrases": "Decir la hora"
+        },
+        {
+            "phrases": "Direcciones"
+        },
+        {
+            "phrases": "Calendario"
+        },
+        {
+            "phrases": "Números"
+        },
+        {
+            "phrases": "¿De dónde eres? / Nacionalidades"
+        },
+        {
+            "phrases": "Supermercado"
+        },
+        {
+            "phrases": "Restaurante o Cafetería"
+        },
+        {
+            "phrases": "Ropa y Zapatos"
+        },
+        {
+            "phrases": "Estar enfermo, médicos y hospitales"
+        },
+        {
+            "phrases": "Crimen, Seguridad y Policía"
+        },
+        {
+            "phrases": "Problemas/Consejos"
+        },
+        {
+            "phrases": "Haciendo Planes / Haciendo Excusas"
+        },
+        {
+            "phrases": "Invitaciones"
+        },
+        {
+            "phrases": "Hablar sobre sus sentimientos"
+        },
+        {
+            "phrases": "Poniendose de acuerdo y en desacuerdo"
+        },
+        {
+            "phrases": "Similitudes y diferencias"
+        },
+        {
+            "phrases": "Declarando Su Opinión"
+        },
+        {
+            "phrases": "Quejándose"
+        },
+        {
+            "phrases": "Solicitud de información/pedir algo"
+        },
+        {
+            "phrases": "Hacer preguntas"
+        },
+        {
+            "phrases": "Las interjecciones"
+        }
+        
+    ]
+}

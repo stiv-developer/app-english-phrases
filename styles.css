@@ -1,0 +1,22 @@
+.phrase{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction:row ;
+    align-items: center;
+
+}
+
+.p-phrase{
+    /* border: 1px solid green; */
+    padding-left: 5px;
+    margin: 0px;
+}
+
+.bi-circle-fill{
+    /* border: 1px solid blue; */
+    font-size: 10px;
+}
+
+.p-phrase-translate{
+    padding-left: 15px;
+}
