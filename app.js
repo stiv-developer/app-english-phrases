@@ -13,12 +13,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 let accordionItemHTML = `
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#${itemId}" aria-expanded="true" aria-controls="${itemId}">
+                            <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#${itemId}" aria-expanded="false" aria-controls="${itemId}">
                                 ${item.phrases}
                             </button>
                         </h2>
-                        <div id="${itemId}" class="accordion-collapse collapse ${index === 0 ? 'show' : ''}" aria-labelledby="heading${index}">
+                        <div id="${itemId}" class="accordion-collapse collapse  aria-labelledby="heading${index}">
                             <div class="accordion-body">
                                 <!-- Phrases will be injected here -->
                             </div>
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (item.type) {
                     // Loop through 'formal' and 'informal'
                     item.type.forEach(typeItem => {
-                        const typeHTML = `<h4>${typeItem['name-type']}</h4>`;
+                        const typeHTML = `<h5>${typeItem['name-type']}<span> prueba</span></h5>`;
                         bodyContainer.innerHTML += typeHTML;
 
                         // Loop through each phrase and append it to the container
@@ -42,10 +42,10 @@ document.addEventListener('DOMContentLoaded', function () {
                             const phraseHTML = `
                                 <div class="group-phrase">
                                     <div class="phrase">
-                                        <i class="bi bi-circle-fill"></i>
-                                        <p class="p-phrase fw-semibold">${phraseItem.phrase}</p>
+                                        <i class="bi bi-circle-fill "></i>
+                                        <p class="p-phrase fw-semibold ">${phraseItem.phrase}</p>
                                     </div>
-                                    <p class="p-phrase-translate fw-lighter">${phraseItem.translation}</p>
+                                    <p class="p-phrase-translate  text-secondary-emphasis">${phraseItem.translation}</p>
                                 </div>
                             `;
                             bodyContainer.innerHTML += phraseHTML;

@@ -1,10 +1,10 @@
 {
     "title-phrases": [
         {
-            "phrases": "saludar a alguien",
+            "phrases": "Saludar a alguien",
             "type": [
                 {
-                    "name-type": "formal",
+                    "name-type": "Formal",
                     "phrases": [
                         {
                             "phrase": "Hello",
@@ -41,7 +41,7 @@
                     ]
                 },
                 {
-                    "name-type": "informal",
+                    "name-type": "Informal",
                     "phrases": [
                         {
                             "phrase": "Hi!",
@@ -183,7 +183,8 @@
             "phrases": "Presentarse",
             "type": [
                 {
-                    "name-type": "Introducing Yourself (Prepararse a usted mismo)",
+                    "name-type": "Introducing Yourself",
+                    "name-type-translation":"(Prepararse a usted mismo)",
                     "phrases": [
                         {
                             "phrase": "Hello, I’m ___________.",
@@ -196,7 +197,8 @@
                     ]
                 },
                 {
-                    "name-type": "Introducing Someone Else (Formal) (Presentar a alguien más (formal)",
+                    "name-type": "Introducing Someone Else (Formal)",
+                    "name-type-translation":"(Presentar a alguien más (formal)",
                     "phrases": [
                         {
                             "phrase": "This is ______. He/She is my co-worker.",
@@ -217,7 +219,8 @@
                     ]
                 },
                 {
-                    "name-type": "Introducing Someone Else (Informal) (Presentar a alguien más (Informal))",
+                    "name-type": "Introducing Someone Else (Informal)",
+                    "name-type-translation":"(Presentar a alguien más (Informal))",
                     "phrases": [
                         {
                             "phrase": "This is ___________.",
