@@ -842,34 +842,604 @@
             ]
         },
         {
-            "phrases": "Pasatiempos & Tiempo Libre"
+            "phrases": "Pasatiempos & Tiempo Libre",
+            "type": [
+                {
+                    "name-type": "Sentence",
+                    "phrases": [
+                        {
+                            "phrase": "What do you like to do for fun?",
+                            "translation": "¿Qué te gusta hacer para divertirte?"
+                        },
+                        {
+                            "phrase": "What do you like to do in your free time?",
+                            "translation": "¿Qué te gusta hacer en tu tiempo libre?"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Maneras comunes de responder a estas preguntas son:",
+                    "phrases": [
+                        {
+                            "phrase": "In my free time, I…",
+                            "translation": "En mi tiempo libre, yo…"
+                        },
+                        {
+                            "phrase": "I like _______ in my free time.",
+                            "translation": "(Me gusta ___________ en mi tiempo libre.)"
+                        },
+                        {
+                            "phrase": "I _______ every week",
+                            "translation": "(Yo ___________ cada semana.)"
+                        },
+                        {
+                            "phrase": "I am learning to…",
+                            "translation": "(Estoy aprendiendo a…)"
+                        },
+                        {
+                            "phrase": "When I’m not working, I like to… ",
+                            "translation": "(Cuando no estoy trabajando, me gusta…)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "In my free time, I like to work out at the gym. ",
+                            "translation": "En mi tiempo libre, me gusta entrenar en el gimnasio."
+                        },
+                        {
+                            "phrase": "I like to spend time with my family and friends in my free time.",
+                            "translation": "(Me gusta pasar tiempo con mi familia y amigos en mi tiempo libre.)"
+                        },
+                        {
+                            "phrase": "I am learning to play the guitar.",
+                            "translation": "(Estoy aprendiendo a tocar guitarra.)"
+                        },
+                        {
+                            "phrase": "When I’m not working, I like to run and play soccer.",
+                            "translation": "(Cuando no estoy trabajando, me gusta correr y jugar fútbol.)"
+                        },
+                        {
+                            "phrase": "I like to read novels in my free time.",
+                            "translation": "(Me gusta leer novelas en mi tiempo libre.)"
+                        },
+                        {
+                            "phrase": "I go to a cooking class every week.",
+                            "translation": "(Voy a clases de cocina cada semana.)"
+                        },
+                        {
+                            "phrase": "I am learning to knit. I not very good at it yet but I am getting better",
+                            "translation": "(Estoy aprendiendo a tejer. No soy muy bueno aún pero voy mejorando.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Familia"
+            "phrases": "Familia",
+            "type": [
+                {
+                    "name-type": "Phrases To Talk about Your Family",
+                    "phrases": [
+                        {
+                            "phrase": "There are ____ people in my family.",
+                            "translation": "Hay ____ personas en mi familia."
+                        },
+                        {
+                            "phrase": "I live with my _______ and _______.",
+                            "translation": "Vivo con mi_____ y _______."
+                        },
+                        {
+                            "phrase": "I have _______ brothers and sisters.",
+                            "translation": "Tengo _______ hermanos y hermanas. "
+                        },
+                        {
+                            "phrase": "I have ______ children.",
+                            "translation": "Tengo ______ hijos"
+                        },
+                        {
+                            "phrase": "I have a small/large family.",
+                            "translation": "Tengo una pequeña/gran familia."
+                        },
+                        {
+                            "phrase": "I live close to my family.",
+                            "translation": "Vivo cerca de mi familia."
+                        },
+                        {
+                            "phrase": "I live far away from my family. ",
+                            "translation": "Vivo lejos de mi familia."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Preguntas que puede hacerle a alguien acerca de su familia:",
+                    "phrases": [
+                        {
+                            "phrase": "How many children do you have?",
+                            "translation": "¿Cuántos hijos tienes?"
+                        },
+                        {
+                            "phrase": "Do you have a large (or small) family?",
+                            "translation": "¿Tiene una gran (o pequeña) familia?"
+                        },
+                        {
+                            "phrase": "Do you live near your extended family?",
+                            "translation": "¿Vives cerca de tu familia extendida?"
+                        },
+                        {
+                            "phrase": "Did you grow up here?",
+                            "translation": "¿Creciste aquí?)"
+                        },
+                        {
+                            "phrase": "How many siblings do you have? ",
+                            "translation": "¿Cuántos hermanos tienes?"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Relaciones"
+            "phrases": "Relaciones",
+            "type": [
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "After a horrible break up and divorce, I am happy to be single again.",
+                            "translation": "(Después de un horrible rompimiento y divorcio, estoy feliz de estar soltero otra vez.)"
+                        },
+                        {
+                            "phrase": " We have been happily married for 10 years.",
+                            "translation": "(Hemos estado felizmente casados por 10 años.)"
+                        },
+                        {
+                            "phrase": " My brother is not in a relationship. He likes to hook up with random girls.",
+                            "translation": "(Mi hermano no está en una relación. A él le gusta tener sexo con chicas al azar.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Preguntas para hacerle a alguien acerca de su relación",
+                    "phrases": [
+                        {
+                            "phrase": "Are you single?",
+                            "translation": " (¿Eres soltero?)"
+                        },
+                        {
+                            "phrase": "How long have you been married (together)?",
+                            "translation": "(¿Cuánto tiempo llevan casados (juntos)?)"
+                        },
+                        {
+                            "phrase": "When did you get divorced?",
+                            "translation": "(¿Cuándo se divorciaron?)"
+                        },
+                        {
+                            "phrase": "Have you been friends for a long time?",
+                            "translation": "(¿Han sido amigos por mucho tiempo?)"
+                        },
+                        {
+                            "phrase": "How did you meet each other?",
+                            "translation": " (¿Cómo se conocieron?)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Características Personales"
+            "phrases": "Comida",
+            "type": [
+                {
+                    "name-type": "Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "My favorite food is______.",
+                            "translation": "(Mi comida favorita es_____.)"
+                        },
+                        {
+                            "phrase": "My least favorite food is __________.",
+                            "translation": "Mi comida menos favorita es _______."
+                        },
+                        {
+                            "phrase": "I like to eat ______.",
+                            "translation": "(Me gusta comer ______.)"
+                        },
+                        {
+                            "phrase": "I don’t like to eat _______.",
+                            "translation": "(No me gusta comer _____.)"
+                        },
+                        {
+                            "phrase": "I have never tried __________.",
+                            "translation": "(Nunca he probado _______.)"
+                        },
+                        {
+                            "phrase": "I like to cook _________.",
+                            "translation": "(Me gusta cocinar _______.)"
+                        },
+                        {
+                            "phrase": "My _____ cooks the best __________.",
+                            "translation": "(Mi _______ cocina el/la mejor _____. )"
+                        },
+                        {
+                            "phrase": "I don’t know how to cook _______.",
+                            "translation": "(No sé cómo cocinar________.)"
+                        },
+                        {
+                            "phrase": "I would like to learn to cook ________. ",
+                            "translation": "(Me gustaría aprender a cocinar _____.)"
+                        },
+                        {
+                            "phrase": "I don’t cook.",
+                            "translation": "(No cocino.)"
+                        },
+                        {
+                            "phrase": "I only know how to cook ________ and ________. ",
+                            "translation": "(Solo sé cómo cocinar____ y ______.)"
+                        },
+                        {
+                            "phrase": "This is delicious.",
+                            "translation": "(Esto está delicioso.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "My favorite food is spaghetti with meatballs.",
+                            "translation": "Mi comida favorita es espagueti con albóndigas."
+                        },
+                        {
+                            "phrase": "My least favorite food is sushi.",
+                            "translation": "Mi comida menos favorita es el sushi."
+                        },
+                        {
+                            "phrase": " I like to eat Chinese food.",
+                            "translation": "Me gusta comer comida china."
+                        },
+                        {
+                            "phrase": "I like to cook Mexican food. Spicy food is my favorite.",
+                            "translation": "Me gusta cocinar comida mexicana. La comida picante es mi favorita."
+                        },
+                        {
+                            "phrase": "My mom cooks the best potato salad.",
+                            "translation": "Mi mamá cocina la mejor ensalada de papas."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Questions To Ask About Food and Cooking",
+                    "phrases": [
+                        {
+                            "phrase": "What’s your favorite food?",
+                            "translation": "¿Cuál es tu comida favorita?"
+                        },
+                        {
+                            "phrase": "What kind of food do you like?",
+                            "translation": "¿Qué clases de comidas te gustan?"
+                        },
+                        {
+                            "phrase": " Do you like _______ food?",
+                            "translation": "¿Te gusta la comida _______ ?"
+                        },
+                        {
+                            "phrase": " Are you a good cook?",
+                            "translation": "¿Eres un buen cocinero?"
+                        },
+                        {
+                            "phrase": "What are you good at cooking?",
+                            "translation": "¿En qué eres bueno cocinando?"
+                        },
+                        {
+                            "phrase": "Have you ever tried ______?",
+                            "translation": "¿Has probado __________?"
+                        },
+                        {
+                            "phrase": "Can you give me the recipe for this?",
+                            "translation": "¿Puedes darme la receta de esto?"
+                        },
+                        {
+                            "phrase": "What is in this food?",
+                            "translation": "¿Qué hay en esta comida?"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Comida"
+            "phrases": "El Clima",
+            "type": [
+                {
+                    "name-type": "Common Phrases about the Weather",
+                    "phrases": [
+                        {
+                            "phrase": "It’s sunny. ",
+                            "translation": "(Está soleado.)"
+                        },
+                        {
+                            "phrase": "It’s cloudy..",
+                            "translation": "(Está nublado.)"
+                        },
+                        {
+                            "phrase": "It’s rainy.",
+                            "translation": "(Está llovioso.)"
+                        },
+                        {
+                            "phrase": "It’s hot out today. ",
+                            "translation": "Está muy caliente hoy)"
+                        },
+                        {
+                            "phrase": "It’s freezing today..",
+                            "translation": "Hoy está congelado."
+                        },
+                        {
+                            "phrase": "I hate ____ weather. (cold, hot, rainy, etc.)",
+                            "translation": "(Odio el clima ____. (Frío, caliente, lluvioso, etc.)"
+                        },
+                        {
+                            "phrase": "I love this weather. ",
+                            "translation": "Amo este clima."
+                        },
+                        {
+                            "phrase": "I’m sick and tired of this weather",
+                            "translation": "Estoy enfermo y cansado de este clima."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Questions to Ask About the Weather",
+                    "phrases": [
+                        {
+                            "phrase": "What’s the weather like today?",
+                            "translation": "¿Cómo está el clima hoy?"
+                        },
+                        {
+                            "phrase": "Is it going to ______? (rain, snow, be hot, be cold, storm, etc.) ",
+                            "translation": "(¿Va a ______? (Llover, nevar, estar caliente, estar frío, haber una tormenta, etc.))"
+                        },
+                        {
+                            "phrase": "Do you like this weather?",
+                            "translation": "¿Te gusta este clima?"
+                        },
+                        {
+                            "phrase": "Do you like hot weather?",
+                            "translation": "(¿Te gusta el clima caluroso?)"
+                        },
+                        {
+                            "phrase": "When will this weather ever end?",
+                            "translation": "¿Cuándo va a terminar este clima?)"
+                        },
+                        {
+                            "phrase": "Is it supposed to _______ tomorrow? (rain, snow, be hot, etc.)",
+                            "translation": "¿Se supone que va a _______ mañana? (llover, nevar, hacer calor, etc.)"
+                        },
+                        {
+                            "phrase": "What’s your favorite season?",
+                            "translation": "¿Cuál es tu estación favorita?"
+                        },
+                        {
+                            "phrase": "Isn’t it beautiful today?",
+                            "translation": "¿No es este un hermoso día"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "El Clima"
+            "phrases": "Transporte",
+            "type": [
+                {
+                    "name-type": "Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I take the bus to _____ every day. ",
+                            "translation": "(Tomo el bus para _____ todos los días.)"
+                        },
+                        {
+                            "phrase": "I drive to ________ every day.",
+                            "translation": "(Manejo a ________ cada día.)"
+                        },
+                        {
+                            "phrase": "I rarely ________ to work. It is too far away",
+                            "translation": "(Raramente yo ________ al trabajo. Es muy lejos.)"
+                        },
+                        {
+                            "phrase": "I don’t take the ______. It does not have a reliable schedule.",
+                            "translation": "(Yo no tomo el ______. No tiene un horario confiable.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I take the bus to work every day. ",
+                            "translation": "Tomo el bus al trabajo todos los días."
+                        },
+                        {
+                            "phrase": "My commute takes two hours. There is always a lot of traffic.",
+                            "translation": "Mi viaje diario toma dos horas. Siempre hay mucho tráfico."
+                        },
+                        {
+                            "phrase": "I ride my bike to work. ",
+                            "translation": "Manejo mi bicicleta al trabajo."
+                        },
+                        {
+                            "phrase": " We usually walk to stores. If we have to go far we drive in the car",
+                            "translation": "Usualmente, caminamos a las tiendas. Si tenemos que irnos lejos, manejamos en el carro."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Questions to Ask about Transportation",
+                    "phrases": [
+                        {
+                            "phrase": "How do you get to school?",
+                            "translation": "¿Cómo te vas a la escuela?"
+                        },
+                        {
+                            "phrase": "How do you get to work?",
+                            "translation": "¿Cómo te vas al trabajo?"
+                        },
+                        {
+                            "phrase": "Do you take public transportation?",
+                            "translation": "¿Tomas el transporte público?"
+                        },
+                        {
+                            "phrase": "Do you have a long/short commute?",
+                            "translation": "¿Tienes un largo/corto viaje diario?"
+                        },
+                        {
+                            "phrase": "Do you drive to work every day?",
+                            "translation": "¿Manejas al trabajo todos los días?"
+                        },
+                        {
+                            "phrase": "Do you use public transportation?",
+                            "translation": "¿Usas el transporte público?"
+                        },
+                        {
+                            "phrase": "Where’s the closest bus stop to here?",
+                            "translation": "(¿Dónde está la parada de autobús más cercana?)"
+                        },
+                        {
+                            "phrase": "Does this bus/train go to ___?",
+                            "translation": "¿Este bus/tren va a ___?"
+                        },
+                        {
+                            "phrase": "What time does the next _____ come? (bus, train, etc.)",
+                            "translation": "(¿A qué hora viene el siguiente _____? (bus, tren, etc.))"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Transporte"
+            "phrases": "Decir la hora",
+            "type": [
+                {
+                    "name-type": "Questions You Can Ask about Time",
+                    "phrases": [
+                        {
+                            "phrase": "What time is it?",
+                            "translation": "¿Qué hora es?"
+                        },
+                        {
+                            "phrase": "What time do you work?",
+                            "translation": "¿A qué hora trabajas?"
+                        },
+                        {
+                            "phrase": "What time do you go to school?",
+                            "translation": "¿A qué hora vas a la escuela?"
+                        },
+                        {
+                            "phrase": "What time do you get out of school?",
+                            "translation": "¿A qué hora sales del colegio?"
+                        },
+                        {
+                            "phrase": "What time does the movie start?",
+                            "translation": "¿A qué hora empieza la película?"
+                        },
+                        {
+                            "phrase": "What time does the class end?",
+                            "translation": "¿A qué hora termina la clase?"
+                        },
+                        {
+                            "phrase": "When does the aerobics class meet?",
+                            "translation": "¿A qué hora es la clase aeróbica?"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Decir la hora"
+            "phrases": "Direcciones",
+            "type": [
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "The school is in between South Ave. and Birch Street.",
+                            "translation": "(La escuela está entre la Avenida Sur y la calle Birch)"
+                        },
+                        {
+                            "phrase": "Go straight for three blocks and then turn right. It is the third house from the corner",
+                            "translation": "(Vaya derecho por tres cuadras y luego cruce a la derecha. Es la tercera casa desde la esquina)"
+                        },
+                        {
+                            "phrase": "McDonalds is opposite Taco Bell in the food court at the mall.",
+                            "translation": "(McDonald’s está opuesto a Taco Bell en la corte de la comida en el centro comercial.)"
+                        },
+                        {
+                            "phrase": "I live close to West Tower on Broadway Ave.",
+                            "translation": "(Yo vivo cerca de West Tower en la Avenida Broadway.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Questions Used to Ask for/Give Directions",
+                    "phrases": [
+                        {
+                            "phrase": "Where is ___________?",
+                            "translation": "¿Dónde está ___________?"
+                        },
+                        {
+                            "phrase": "How do you get to _______?",
+                            "translation": "¿Cómo se llega a _______?"
+                        },
+                        {
+                            "phrase": "Where is the nearest _______?",
+                            "translation": "(¿Dónde está el _______ más cercano?)"
+                        },
+                        {
+                            "phrase": "Can you tell me how to get to _____?",
+                            "translation": "¿Me puede decir cómo llegar a _____?"
+                        },
+                        {
+                            "phrase": "Could you tell me where the _______ is?",
+                            "translation": "¿Podría decirme donde está el _______?"
+                        },
+                        {
+                            "phrase": "Is there a ________ close by?",
+                            "translation": "¿Hay un ________ cerca?"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Direcciones"
-        },
-        {
-            "phrases": "Calendario"
+            "phrases": "Calendario",
+            "type": [
+                {
+                    "name-type": "Questions about the Calendar",
+                    "phrases": [
+                        {
+                            "phrase": "What day is today?",
+                            "translation": "(¿Qué día es hoy?)"
+                        },
+                        {
+                            "phrase": "What is today’s date?",
+                            "translation": "(¿Cuál es la fecha de hoy?)"
+                        },
+                        {
+                            "phrase": "What day do you ___________?",
+                            "translation": "¿Qué día te ___________?"
+                        },
+                        {
+                            "phrase": "How many days do you _____ a week? (work, go to school, study, etc.)",
+                            "translation": " (¿Cuántos días _____ a la semana? (Trabajas, vas a la escuela, estudias, etc.))"
+                        },
+                        {
+                            "phrase": "What year were you born?",
+                            "translation": "¿En qué año naciste?"
+                        },
+                        {
+                            "phrase": "What year did you _______? (go to Brazil, move to New York, etc.)",
+                            "translation": "(¿En qué año _______? (fuiste a Brasil, te mudaste a Nueva York, etc.))"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "phrases": "Números"
