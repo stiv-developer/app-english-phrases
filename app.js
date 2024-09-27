@@ -34,7 +34,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (item.type) {
                     // Loop through 'formal' and 'informal'
                     item.type.forEach(typeItem => {
-                        const typeHTML = `<h5>${typeItem['name-type']}<span> prueba</span></h5>`;
+                        const nameTypeTranslation = typeItem['name-type-translation'] ? `<span class="fs-6 text-success"> ${typeItem['name-type-translation']}</span>` : '';
+                        const typeHTML = `<h5>${typeItem['name-type']}${nameTypeTranslation}</h5>`;
                         bodyContainer.innerHTML += typeHTML;
 
                         // Loop through each phrase and append it to the container
