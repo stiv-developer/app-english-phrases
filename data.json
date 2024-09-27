@@ -339,22 +339,507 @@
             ]
         },
         {
-            "phrases": "Hablar de los desagrados"
+            "phrases": "Hablar de los desagrados",
+            "type": [
+                {
+                    "name-type": "Formal",
+                    "phrases": [
+                        {
+                            "phrase": "I don’t like…",
+                            "translation": "(No me gusta…)"
+                        },
+                        {
+                            "phrase": "I don’t enjoy…",
+                            "translation": "(No disfruto…)"
+                        },
+                        {
+                            "phrase": "I dislike…",
+                            "translation": " (Me desagrada…*"
+                        },
+                        {
+                            "phrase": "I hate…",
+                            "translation": " (Odio…)"
+                        },
+                        {
+                            "phrase": "My least favorite ________ is…",
+                            "translation": "(Mi ________ menos favorito es…)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Ejemplos",
+                    "phrases": [
+                        {
+                            "phrase": "I don’t like fish.",
+                            "translation": "(No me gusta el pescado.)"
+                        },
+                        {
+                            "phrase": "I don’t like to pick up after my kids.",
+                            "translation": " (No me gusta pasar por mis hijos.)"
+                        },
+                        {
+                            "phrase": "I don’t enjoy eating spicy food.",
+                            "translation": "(No disfruto comer comida picante.)"
+                        },
+                        {
+                            "phrase": "I don’t enjoy talking to my boss.",
+                            "translation": "(No disfruto hablar con mi jefe.)"
+                        },
+                        {
+                            "phrase": "I dislike this song.",
+                            "translation": " (Me desagrada esta canción.*)"
+                        },
+                        {
+                            "phrase": "I hate bugs.",
+                            "translation": "(Odio a los bichos.)"
+                        },
+                        {
+                            "phrase": "I hate crying babies. They give me a headache.",
+                            "translation": "(Odio a los bebés llorones. Me dan dolor de cabeza.)"
+                        },
+                        {
+                            "phrase": "My least favorite food is spinach.",
+                            "translation": "(Mi comida menos favorita es la espinaca.)"
+                        },
+                        {
+                            "phrase": "My least favorite season is winter.",
+                            "translation": " (Mi estación menos preferida es el invierno.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "¿A qué te dedicas?/Trabajos"
+            "phrases": "¿A qué te dedicas?/Trabajos",
+            "type": [
+                {
+                    "name-type": "What do you do?",
+                    "phrases": [
+                        {
+                            "phrase": "What do you work in?",
+                            "translation": "(¿En qué trabajas?)"
+                        },
+                        {
+                            "phrase": "What do you do for a living?",
+                            "translation": "(¿Qué haces en la vida?)"
+                        },
+                        {
+                            "phrase": "How do you spend most of your time?",
+                            "translation": " (¿Cómo pases la mayor parte de tu tiempo?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Posibles maneras de responder",
+                    "phrases": [
+                        {
+                            "phrase": "I’m a …",
+                            "translation": "(Soy un/a…)"
+                        },
+                        {
+                            "phrase": "I am…",
+                            "translation": "(Yo soy un/a…)"
+                        },
+                        {
+                            "phrase": "I work as a…",
+                            "translation": "(Trabajo de…)"
+                        }
+                    
+                    ]
+                },
+                {
+                    "name-type": "Ejemplos de oraciones",
+                    "phrases": [
+                        {
+                            "phrase": "I’m a teacher. ",
+                            "translation": "(Soy profesor.)"
+                        },
+                        {
+                            "phrase": "I’m a full time student.",
+                            "translation": "(Soy estudiante a tiempo completo.)"
+                        },
+                        {
+                            "phrase": "I’m a stay at home mom",
+                            "translation": "(Soy ama de casa.)"
+                        }
+                        ,
+                        {
+                            "phrase": "I work as an engineer.",
+                            "translation": "(Trabajo como ingeniero.)"
+                        },
+                        {
+                            "phrase": "I am in between jobs right now. ",
+                            "translation": "(Estoy en medio de puestos de trabajo ahora mismo.)"
+                        },
+                        {
+                            "phrase": "I am a retired nurse.",
+                            "translation": "(Soy enfermera retirada.)"
+                        },
+                        {
+                            "phrase": "I’m a college student and work part-time as a bartender",
+                            "translation": "(Soy estudiante universitario y trabajo de bar ténder medio tiempo.)"
+                        },
+                        {
+                            "phrase": "I work in a paper factory.",
+                            "translation": "(Trabajo en una fábrica de papel.)"
+                        },
+                        {
+                            "phrase": "I work in sales for a large telecommunications company.",
+                            "translation": "(Trabajo en ventas para una gran compañía de telecomunicaciones.)"
+                        }
+                    
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "¿Qué estás haciendo ahora mismo?"
+            "phrases": "¿Qué estás haciendo ahora mismo?",
+            "type": [
+                {
+                    "name-type": "Ejemplos",
+                    "phrases": [
+                        {
+                            "phrase": "I am reading a book.",
+                            "translation": " (Estoy leyendo un libro.)"
+                        },
+                        {
+                            "phrase": "I am practicing English.",
+                            "translation": "(Estoy practicando inglés.)"
+                        },
+                        {
+                            "phrase": "I am talking on the phone.",
+                            "translation": " (Estoy hablando por teléfono.)"
+                        },
+                        {
+                            "phrase": "I am learning to speak English.",
+                            "translation": "(Estoy aprendiendo a hablar inglés.)"
+                        },
+                        {
+                            "phrase": "I am writing a note.",
+                            "translation": " (Estoy escribiendo una nota.)"
+                        },
+                        {
+                            "phrase": "I am cooking dinner",
+                            "translation": "(Estoy cocinando la cena.)"
+                        },
+                        {
+                            "phrase": "I am cleaning the kitchen.",
+                            "translation": "(Estoy limpiando la cocina.)"
+                        },
+                        {
+                            "phrase": "I am washing clothes.",
+                            "translation": "(Estoy lavando la ropa.)"
+                        },
+                        {
+                            "phrase": "I am driving to work.",
+                            "translation": "(Estoy manejando al trabajo.)"
+                        },
+                        {
+                            "phrase": "I am at work.",
+                            "translation": "(Estoy en el trabajo.)"
+                        },
+                        {
+                            "phrase": "I am making an appointment.",
+                            "translation": "(Estoy haciendo una cita.)"
+                        },
+                        {
+                            "phrase": "I am paying bills online.",
+                            "translation": "(Estoy pagando las cuentas en línea.)"
+                        },
+                        {
+                            "phrase": "I am chatting with my friends on Skype.",
+                            "translation": "(Estoy charlando con mis amigos vía Skype.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Otros Ejemplos",
+                    "phrases": [
+                        {
+                            "phrase": "Nothing",
+                            "translation": "(Nada)"
+                        },
+                        {
+                            "phrase": "Nothing much",
+                            "translation": "(Nada interesante)"
+                        },
+                        {
+                            "phrase": "Not much",
+                            "translation": " (No mucho)"
+                        }
+                    
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Hablar del Pasado"
+            "phrases": "Hablar del Pasado",
+            "type": [
+                {
+                    "name-type": "Verbos más comunes utilizados para referirse al Pasado",
+                    "phrases": [
+                        {
+                            "phrase": "I went…",
+                            "translation": " (Fui…)"
+                        },
+                        {
+                            "phrase": "I ate…",
+                            "translation": "(Comí…)"
+                        },
+                        {
+                            "phrase": "I was…",
+                            "translation": "(Estaba…/Era…)"
+                        },
+                        {
+                            "phrase": "I read…",
+                            "translation": "(Leí…)"
+                        },
+                        {
+                            "phrase": "I played…",
+                            "translation": " (Jugué…)"
+                        },
+                        {
+                            "phrase": "I saw…",
+                            "translation": "(Vi…)"
+                        },
+                        {
+                            "phrase": "I talked to…",
+                            "translation": "(Hablé con…)"
+                        },
+                        {
+                            "phrase": "I worked…",
+                            "translation": "(Trabajé…)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Otros Ejemplos",
+                    "phrases": [
+                        {
+                            "phrase": "I went to work.",
+                            "translation": "(Fui al trabajo.)"
+                        },
+                        {
+                            "phrase": "I ate spaghetti for lunch.",
+                            "translation": "(Comí espagueti para el almuerzo.)"
+                        },
+                        {
+                            "phrase": "I read two books over the weekend.",
+                            "translation": "(Leí dos libros esta semana.)"
+                        },
+                        {
+                            "phrase": "I saw a movie.",
+                            "translation": "(Vi una película.)"
+                        },
+                        {
+                            "phrase": "I talked to my friend.",
+                            "translation": "(Hablé con mi amigo.)"
+                        }
+                    
+                    ]
+                },
+                {
+                    "name-type": "List of Common ‘Times’ in the Past",
+                    "phrases": [
+                        {
+                            "phrase": "Yesterday…",
+                            "translation": "(Ayer…)"
+                        },
+                        {
+                            "phrase": "Two days ago…",
+                            "translation": "(Dos días atrás…)"
+                        },
+                        {
+                            "phrase": "Seven years ago…",
+                            "translation": "(Hace siete años…)"
+                        },
+                        {
+                            "phrase": "An hour ago…",
+                            "translation": "(Hace una hora…)"
+                        },
+                        {
+                            "phrase": "A little bit ago…",
+                            "translation": "(Un poco atrás…/Hace un rato…)"
+                        },
+                        {
+                            "phrase": "Last week…",
+                            "translation": "(La semana pasada…)"
+                        },
+                        {
+                            "phrase": "Last month…",
+                            "translation": "(El mes pasado…))"
+                        },
+                        {
+                            "phrase": "Last year…",
+                            "translation": "(El año pasado…)"
+                        },
+                        {
+                            "phrase": "When I was a kid…",
+                            "translation": "(Cuando era un niño…)"
+                        },
+                        {
+                            "phrase": "When I was growing up…",
+                            "translation": "(Cuando estaba creciendo…)"
+                        }
+                    
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Hablar del Futuro"
+            "phrases": "Hablar del Futuro",
+            "type": [
+                {
+                    "name-type": "Las dos frases más comunes para referirse al futuro son",
+                    "phrases": [
+                        {
+                            "phrase": "I will…",
+                            "translation": " (Yo + verbo en el futuro…)"
+                        },
+                        {
+                            "phrase": "I am going to…",
+                            "translation": "(Voy a …)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "List of Common ‘Times’ in the Future",
+                    "phrases": [
+                        {
+                            "phrase": "Tomorrow…",
+                            "translation": "(Mañana…)"
+                        },
+                        {
+                            "phrase": "Next week…",
+                            "translation": "(La semana que viene/entra…)"
+                        },
+                        {
+                            "phrase": "Next month…",
+                            "translation": "(El mes que viene…)"
+                        },
+                        {
+                            "phrase": "Next year…",
+                            "translation": "(El próximo año…)"
+                        },
+                        {
+                            "phrase": "In a few years…",
+                            "translation": "(En unos años…)"
+                        },
+                        {
+                            "phrase": "When I retire…",
+                            "translation": "(Cuando me retire…)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I will go on vacation in June.",
+                            "translation": "(Yo me iré de vacaciones en junio.)"
+                        },
+                        {
+                            "phrase": "I will meet with my friends on Friday.",
+                            "translation": "(Me encontraré con mis amigos el viernes.)"
+                        },
+                        {
+                            "phrase": "I will go shopping next week.",
+                            "translation": "(Iré de compras la semana que viene.))"
+                        },
+                        {
+                            "phrase": "Tomorrow I am going swimming. ",
+                            "translation": "(Mañana voy a nadar.)"
+                        },
+                        {
+                            "phrase": "Next year I am moving to Boston.",
+                            "translation": "(El año que viene, me mudaré a Boston.)"
+                        },
+                        {
+                            "phrase": "I am going to get married in a few years.",
+                            "translation": " (Voy a casarme en unos pocos años.)"
+                        },
+                        {
+                            "phrase": "When I retire I am going to travel a lot.",
+                            "translation": "(Cuando me retire, voy a viajar mucho.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Rutinas"
+            "phrases": "Rutinas",
+            "type": [
+                {
+                    "name-type": "Wake up, go to sleep, brush your teeth, take a bath/shower, use the internet, cok, lean, drive, talk to a spouse/partner, study, read, etc",
+                    "phrases": [
+                        {
+                            "phrase": "I ______ every day.",
+                            "translation": " (Yo ________ cada día.)"
+                        },
+                        {
+                            "phrase": "On ____ and ________, I ________.",
+                            "translation": "(Los _____ y_______, yo _____. )"
+                        },
+                        {
+                            "phrase": "Every _________, I ___________.",
+                            "translation": "(Todos los _______, yo ______.)"
+                        },
+                        {
+                            "phrase": "I ___________ three times a week.",
+                            "translation": "(Yo _______ tres veces a la semana.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I wake up at 7am. ",
+                            "translation": "Me despierto a las 7:00 a. m."
+                        },
+                        {
+                            "phrase": "I work out four days a week.",
+                            "translation": "(Hago ejercicio cuatro días a la semana.)"
+                        },
+                        {
+                            "phrase": "I play baseball every Sunday.",
+                            "translation": "(Juego béisbol cada domingo.)"
+                        },
+                        {
+                            "phrase": "I go to work every day.",
+                            "translation": "(Voy al trabajo todos los días.)"
+                        },
+                        {
+                            "phrase": "I go to school five days a week. ",
+                            "translation": "(oy al colegio cinco días a la semana.)"
+                        },
+                        {
+                            "phrase": "I brush my teeth every day.",
+                            "translation": "(Me cepillo los dientes todos los días.)"
+                        },
+                        {
+                            "phrase": "I drink coffee every morning.",
+                            "translation": "(Bebo café cada mañana.)"
+                        },
+                        {
+                            "phrase": "On Tuesdays and Thursdays, I go to English class.",
+                            "translation": "(Los martes y jueves, voy a clases de inglés.)"
+                        },
+                        {
+                            "phrase": "I take a shower every night.",
+                            "translation": "(Tomo un baño cada noche.)"
+                        },
+                        {
+                            "phrase": "II eat three times a day.",
+                            "translation": "(Como tres veces al día..)"
+                        },
+                        {
+                            "phrase": "I go to Italy every summer",
+                            "translation": "(Voy a Italia cada verano.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "phrases": "Pasatiempos & Tiempo Libre"
@@ -394,7 +879,8 @@
         },
         {
             "phrases": "Supermercado"
-        },
+        }
+        ,
         {
             "phrases": "Restaurante o Cafetería"
         },
