@@ -1,7 +1,8 @@
 {
     "title-phrases": [
         {
-            "phrases": "Saludar a alguien",
+            "phrases": "Greeting Someone",
+            "phrases-translation":"Saludar a alguien",
             "type": [
                 {
                     "name-type": "Formal",
@@ -76,7 +77,8 @@
             ]
         },
         {
-            "phrases": "Despedidas",
+            "phrases": "Saying Good-Bye",
+            "phrases-translation":"Despedidas",
             "type": [
                 {
                     "name-type": "Formal",
@@ -180,7 +182,8 @@
             ]
         },
         {
-            "phrases": "Presentarse",
+            "phrases": "Introductions",
+            "phrases-translation":"Presentarse",
             "type": [
                 {
                     "name-type": "Introducing Yourself",
@@ -260,7 +263,8 @@
             ]
         },
         {
-            "phrases": "Hablar de gustos",
+            "phrases": "Talking about Likes",
+            "phrases-translation":"Hablar de gustos",
             "type": [
                 {
                     "name-type": "Formal",
@@ -339,7 +343,8 @@
             ]
         },
         {
-            "phrases": "Hablar de los desagrados",
+            "phrases": "Talking about Dislikes",
+            "phrases-translation":"Hablar de los desagrados",
             "type": [
                 {
                     "name-type": "Formal",
@@ -410,7 +415,8 @@
             ]
         },
         {
-            "phrases": "¿A qué te dedicas?/Trabajos",
+            "phrases": "What do you do? /Jobs",
+            "phrases-translation":"¿A qué te dedicas?/Trabajos?",
             "type": [
                 {
                     "name-type": "What do you do?",
@@ -493,7 +499,8 @@
             ]
         },
         {
-            "phrases": "¿Qué estás haciendo ahora mismo?",
+            "phrases": "What Are You Doing Right Now?",
+            "phrases-translation":"¿Qué estás haciendo ahora mismo?",
             "type": [
                 {
                     "name-type": "Ejemplos",
@@ -573,7 +580,8 @@
             ]
         },
         {
-            "phrases": "Hablar del Pasado",
+            "phrases": "Talking about the Past",
+            "phrases-translation":"Hablar del Pasado",
             "type": [
                 {
                     "name-type": "Verbos más comunes utilizados para referirse al Pasado",
@@ -687,7 +695,8 @@
             ]
         },
         {
-            "phrases": "Hablar del Futuro",
+            "phrases": "Talking about the Future",
+            "phrases-translation":"Hablar del Futuro",
             "type": [
                 {
                     "name-type": "Las dos frases más comunes para referirse al futuro son",
@@ -767,7 +776,8 @@
             ]
         },
         {
-            "phrases": "Rutinas",
+            "phrases": "Routines",
+            "phrases-translation":"Rutinas",
             "type": [
                 {
                     "name-type": "Wake up, go to sleep, brush your teeth, take a bath/shower, use the internet, cok, lean, drive, talk to a spouse/partner, study, read, etc",
@@ -842,7 +852,8 @@
             ]
         },
         {
-            "phrases": "Pasatiempos & Tiempo Libre",
+            "phrases": "Hobbies & Free Time",
+            "phrases-translation":"Pasatiempos & Tiempo Libre",
             "type": [
                 {
                     "name-type": "Sentence",
@@ -918,7 +929,8 @@
             ]
         },
         {
-            "phrases": "Familia",
+            "phrases": "Family",
+            "phrases-translation":"Familia",
             "type": [
                 {
                     "name-type": "Phrases To Talk about Your Family",
@@ -981,7 +993,8 @@
             ]
         },
         {
-            "phrases": "Relaciones",
+            "phrases": "Relationships",
+            "phrases-translation":"Relaciones",
             "type": [
                 {
                     "name-type": "Example Sentences",
@@ -1028,7 +1041,8 @@
             ]
         },
         {
-            "phrases": "Comida",
+            "phrases": "Food",
+            "phrases-translation":"Comida",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -1148,7 +1162,8 @@
             ]
         },
         {
-            "phrases": "El Clima",
+            "phrases": "Weather",
+            "phrases-translation":"El Clima",
             "type": [
                 {
                     "name-type": "Common Phrases about the Weather",
@@ -1227,7 +1242,8 @@
             ]
         },
         {
-            "phrases": "Transporte",
+            "phrases": "Transportation",
+            "phrases-translation":"Transporte",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -1315,7 +1331,8 @@
             ]
         },
         {
-            "phrases": "Decir la hora",
+            "phrases": "Telling Time",
+            "phrases-translation":"Decir la hora",
             "type": [
                 {
                     "name-type": "Questions You Can Ask about Time",
@@ -1353,7 +1370,8 @@
             ]
         },
         {
-            "phrases": "Direcciones",
+            "phrases": "Directions",
+            "phrases-translation":"Direcciones",
             "type": [
                 {
                     "name-type": "Example Sentences",
@@ -1408,7 +1426,8 @@
             ]
         },
         {
-            "phrases": "Calendario",
+            "phrases": "Calendar",
+            "phrases-translation":"Calendario",
             "type": [
                 {
                     "name-type": "Questions about the Calendar",
@@ -1442,7 +1461,8 @@
             ]
         },
         {
-            "phrases": "Números",
+            "phrases": "Numbers",
+            "phrases-translation":"Números",
             "type": [
                 {
                     "name-type": "How many ______?",
@@ -1493,7 +1513,8 @@
             ]
         },
         {
-            "phrases": "¿De dónde eres? / Nacionalidades",
+            "phrases": "Where are you from?/Nationalities",
+            "phrases-translation":"¿De dónde eres? / Nacionalidades?",
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
@@ -1582,7 +1603,8 @@
             ]
         },
         {
-            "phrases": "TV y Peliculas",
+            "phrases": "TV & Movies",
+            "phrases-translation":"TV y Peliculas",
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
@@ -1671,7 +1693,8 @@
             ]
         },
         {
-            "phrases": "Vecindarios y Casas",
+            "phrases": "Neighborhoods and Houses",
+            "phrases-translation":"Vecindarios y Casas",
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
@@ -1761,7 +1784,8 @@
         }
         ,
         {
-            "phrases": "Supermercado",
+            "phrases": "Grocery Shopping",
+            "phrases-translation":"Supermercado",
             "type": [
                 {
                     "name-type": "Asking for something: (Pedir algo)",
@@ -1788,7 +1812,8 @@
         }
         ,
         {
-            "phrases": "Restaurante o Cafetería",
+            "phrases": "Restaurant or Coffee Shop",
+            "phrases-translation":"Restaurante o Cafetería",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -1878,7 +1903,8 @@
             ]
         },
         {
-            "phrases": "Ropa y Zapatos",
+            "phrases": "Clothes and Shoes",
+            "phrases-translation":"Ropa y Zapatos",
             "type": [
                 {
                     "name-type": "Looking for Something",
@@ -1949,7 +1975,8 @@
             ]
         },
         {
-            "phrases": "Estar enfermo, médicos y hospitales",
+            "phrases": "Being Sick, Doctors and Hospitals",
+            "phrases-translation":"Estar enfermo, médicos y hospitales",
             "type": [
                 {
                     "name-type": "Problems: (Problemas)",
@@ -2000,7 +2027,8 @@
             ]
         },
         {
-            "phrases": "Crimen, Seguridad y Policía",
+            "phrases": "Crime, Safety and Police",
+            "phrases-translation":"Crimen, Seguridad y Policía",
             "type": [
                 {
                     "name-type": "In Case of an Emergency",
@@ -2031,7 +2059,8 @@
             ]
         },
         {
-            "phrases": "Problemas/Consejos",
+            "phrases": "Problems/Advice",
+            "phrases-translation":"Problemas/Consejos",
             "type": [
                 {
                     "name-type": "Asking about a problem",
@@ -2103,7 +2132,8 @@
             ]
         },
         {
-            "phrases": "Haciendo Planes / Haciendo Excusas",
+            "phrases": "Making Plans/Making Excuses",
+            "phrases-translation":"Haciendo Planes / Haciendo Excusas",
             "type": [
                 {
                     "name-type": "Ask",
@@ -2205,7 +2235,8 @@
             ]
         },
         {
-            "phrases": "Invitaciones",
+            "phrases": "Invitations",
+            "phrases-translation":"Invitaciones",
             "type": [
                 {
                     "name-type": "Inviting Someone to do Something",
@@ -2273,7 +2304,8 @@
             ]
         },
         {
-            "phrases": "Hablar sobre sus sentimientos",
+            "phrases": "Talking about Your Feelings",
+            "phrases-translation":"Hablar sobre sus sentimientos",
             "type": [
                 {
                     "name-type": "Asking Someone ‘How they are?’",
@@ -2379,7 +2411,8 @@
             ]
         },
         {
-            "phrases": "Poniendose de acuerdo y en desacuerdo",
+            "phrases": "Agreeing and Disagreeing",
+            "phrases-translation":"Poniendose de acuerdo y en desacuerdo",
             "type": [
                 {
                     "name-type": "The most common ways to agree",
@@ -2461,7 +2494,8 @@
             ]
         },
         {
-            "phrases": "Similitudes y diferencias",
+            "phrases": "Similarities and Differences",
+            "phrases-translation":"Similitudes y diferencias",
             "type": [
                 {
                     "name-type": "Sentence Starters to Talk about Similarities",
@@ -2558,7 +2592,8 @@
             ]
         },
         {
-            "phrases": "Declarando Su Opinión",
+            "phrases": "Stating Your Opinion",
+            "phrases-translation":"Declarando Su Opinión",
             "type": [
                 {
                     "name-type": "Examples",
@@ -2661,7 +2696,8 @@
             ]
         },
         {
-            "phrases": "Quejándose",
+            "phrases": "Complaining",
+            "phrases-translation":"Quejándose",
             "type": [
                 {
                     "name-type": "Examples",
@@ -2724,7 +2760,8 @@
             ]
         },
         {
-            "phrases": "Solicitud de información/pedir algo",
+            "phrases": "Requesting Information/Asking for Something",
+            "phrases-translation":"Solicitud de información/pedir algo",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -2804,7 +2841,8 @@
             ]
         },
         {
-            "phrases": "Hacer preguntas",
+            "phrases": "Asking Questions",
+            "phrases-translation":"Hacer preguntas",
             "type": [
                 {
                     "name-type": "Most common question words",
