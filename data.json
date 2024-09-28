@@ -1442,59 +1442,1445 @@
             ]
         },
         {
-            "phrases": "Números"
+            "phrases": "Números",
+            "type": [
+                {
+                    "name-type": "How many ______?",
+                    "phrases": [
+                        {
+                            "phrase": "How many eggs are in a dozen?",
+                            "translation": "(¿Cuántos huevos hay en una docena?)"
+                        },
+                        {
+                            "phrase": "How many students are in the class?",
+                            "translation": "(¿Cuántos estudiantes hay en la clase?)"
+                        },
+                        {
+                            "phrase": "How many people went to the party?",
+                            "translation": "¿¿Cuántas personas fueron a la fiesta?"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "How much…?",
+                    "phrases": [
+                        {
+                            "phrase": "How much does a box of cookies cost?",
+                            "translation": "¿Cuánto cuesta una caja de galletas?"
+                        },
+                        {
+                            "phrase": "How much do I owe you?",
+                            "translation": "¿Cuánto le debo?"
+                        },
+                        {
+                            "phrase": "How much does it cost?",
+                            "translation": "¿Cuánto cuesta?"
+                        },
+                        {
+                            "phrase": "How much do you make an hour?",
+                            "translation": "¿Cuánto dinero haces en una hora?"
+                        },
+                        {
+                            "phrase": "How much did he pay you?",
+                            "translation": "¿Cuánto te pagó?"
+                        },
+                        {
+                            "phrase": "How much do you pay for car insurance?",
+                            "translation": "¿Cuánto pagas por el seguro de coche?"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "¿De dónde eres? / Nacionalidades"
+            "phrases": "¿De dónde eres? / Nacionalidades",
+            "type": [
+                {
+                    "name-type": "Examples for stating your nationality",
+                    "phrases": [
+                        {
+                            "phrase": "I am American.",
+                            "translation": "(Soy estadounidense)"
+                        },
+                        {
+                            "phrase": "He is French.",
+                            "translation": "(Él es el francés.)"
+                        },
+                        {
+                            "phrase": "She is Brazilian",
+                            "translation": "(Ella es brasileña.)"
+                        },
+                        {
+                            "phrase": "My mother is Spanish. ",
+                            "translation": "Mi madre es española."
+                        },
+                        {
+                            "phrase": "He is Dominican.",
+                            "translation": "(Él es dominicano.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where are you from?",
+                    "phrases": [
+                        {
+                            "phrase": "I am from ___________.",
+                            "translation": "(Soy de ___________.)"
+                        },
+                        {
+                            "phrase": "I am from Germany.",
+                            "translation": " (Soy de Alemania.)"
+                        },
+                        {
+                            "phrase": "He is from Japan.",
+                            "translation": "(Él es de Japón.)"
+                        },
+                        {
+                            "phrase": "She is from New York.",
+                            "translation": " (Ella es de Nueva York.)"
+                        },
+                        {
+                            "phrase": "My grandpa is from Sweden.",
+                            "translation": "Mi abuelo es de Suecia."
+                        },
+                        {
+                            "phrase": "My friend is from Egypt.",
+                            "translation": "Mi amigo es de Egipto."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where do you live now?",
+                    "phrases": [
+                        {
+                            "phrase": "I live in ___________.",
+                            "translation": "(Yo vivo en ___________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples:",
+                    "phrases": [
+                        {
+                            "phrase": "I live in Miami, Florida.",
+                            "translation": "(Yo vivo en Miami, Florida.)"
+                        },
+                        {
+                            "phrase": "He lives in Buenos Aires. ",
+                            "translation": " (Él vive en Buenos Aires.)"
+                        },
+                        {
+                            "phrase": "My brother lives in the Philippines.",
+                            "translation": "(Mi hermano vive en las Filipinas.)"
+                        },
+                        {
+                            "phrase": "She lives in Los Angeles.",
+                            "translation": "(Ella vive en Los Ángeles.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Supermercado"
+            "phrases": "TV y Peliculas",
+            "type": [
+                {
+                    "name-type": "Examples for stating your nationality",
+                    "phrases": [
+                        {
+                            "phrase": "I am American.",
+                            "translation": "(Soy estadounidense)"
+                        },
+                        {
+                            "phrase": "He is French.",
+                            "translation": "(Él es el francés.)"
+                        },
+                        {
+                            "phrase": "She is Brazilian",
+                            "translation": "(Ella es brasileña.)"
+                        },
+                        {
+                            "phrase": "My mother is Spanish. ",
+                            "translation": "Mi madre es española."
+                        },
+                        {
+                            "phrase": "He is Dominican.",
+                            "translation": "(Él es dominicano.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where are you from?",
+                    "phrases": [
+                        {
+                            "phrase": "I am from ___________.",
+                            "translation": "(Soy de ___________.)"
+                        },
+                        {
+                            "phrase": "I am from Germany.",
+                            "translation": " (Soy de Alemania.)"
+                        },
+                        {
+                            "phrase": "He is from Japan.",
+                            "translation": "(Él es de Japón.)"
+                        },
+                        {
+                            "phrase": "She is from New York.",
+                            "translation": " (Ella es de Nueva York.)"
+                        },
+                        {
+                            "phrase": "My grandpa is from Sweden.",
+                            "translation": "Mi abuelo es de Suecia."
+                        },
+                        {
+                            "phrase": "My friend is from Egypt.",
+                            "translation": "Mi amigo es de Egipto."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where do you live now?",
+                    "phrases": [
+                        {
+                            "phrase": "I live in ___________.",
+                            "translation": "(Yo vivo en ___________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples:",
+                    "phrases": [
+                        {
+                            "phrase": "I live in Miami, Florida.",
+                            "translation": "(Yo vivo en Miami, Florida.)"
+                        },
+                        {
+                            "phrase": "He lives in Buenos Aires. ",
+                            "translation": " (Él vive en Buenos Aires.)"
+                        },
+                        {
+                            "phrase": "My brother lives in the Philippines.",
+                            "translation": "(Mi hermano vive en las Filipinas.)"
+                        },
+                        {
+                            "phrase": "She lives in Los Angeles.",
+                            "translation": "(Ella vive en Los Ángeles.)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "phrases": "Vecindarios y Casas",
+            "type": [
+                {
+                    "name-type": "Examples for stating your nationality",
+                    "phrases": [
+                        {
+                            "phrase": "I am American.",
+                            "translation": "(Soy estadounidense)"
+                        },
+                        {
+                            "phrase": "He is French.",
+                            "translation": "(Él es el francés.)"
+                        },
+                        {
+                            "phrase": "She is Brazilian",
+                            "translation": "(Ella es brasileña.)"
+                        },
+                        {
+                            "phrase": "My mother is Spanish. ",
+                            "translation": "Mi madre es española."
+                        },
+                        {
+                            "phrase": "He is Dominican.",
+                            "translation": "(Él es dominicano.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where are you from?",
+                    "phrases": [
+                        {
+                            "phrase": "I am from ___________.",
+                            "translation": "(Soy de ___________.)"
+                        },
+                        {
+                            "phrase": "I am from Germany.",
+                            "translation": " (Soy de Alemania.)"
+                        },
+                        {
+                            "phrase": "He is from Japan.",
+                            "translation": "(Él es de Japón.)"
+                        },
+                        {
+                            "phrase": "She is from New York.",
+                            "translation": " (Ella es de Nueva York.)"
+                        },
+                        {
+                            "phrase": "My grandpa is from Sweden.",
+                            "translation": "Mi abuelo es de Suecia."
+                        },
+                        {
+                            "phrase": "My friend is from Egypt.",
+                            "translation": "Mi amigo es de Egipto."
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Where do you live now?",
+                    "phrases": [
+                        {
+                            "phrase": "I live in ___________.",
+                            "translation": "(Yo vivo en ___________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples:",
+                    "phrases": [
+                        {
+                            "phrase": "I live in Miami, Florida.",
+                            "translation": "(Yo vivo en Miami, Florida.)"
+                        },
+                        {
+                            "phrase": "He lives in Buenos Aires. ",
+                            "translation": " (Él vive en Buenos Aires.)"
+                        },
+                        {
+                            "phrase": "My brother lives in the Philippines.",
+                            "translation": "(Mi hermano vive en las Filipinas.)"
+                        },
+                        {
+                            "phrase": "She lives in Los Angeles.",
+                            "translation": "(Ella vive en Los Ángeles.)"
+                        }
+                    ]
+                }
+            ]
         }
         ,
         {
-            "phrases": "Restaurante o Cafetería"
+            "phrases": "Supermercado",
+            "type": [
+                {
+                    "name-type": "Asking for something: (Pedir algo)",
+                    "phrases": [
+                        {
+                            "phrase": "Asking for something: (Pedir algo)",
+                            "translation": "(¿Tiene usted ____________?)"
+                        },
+                        {
+                            "phrase": "Where can I find ___________?",
+                            "translation": "(¿Dónde puedo encontrar ___________?)"
+                        },
+                        {
+                            "phrase": "When will you get more ______?",
+                            "translation": "(¿Cuándo va a llegar más ________?)"
+                        },
+                        {
+                            "phrase": "Do you have any coupons?",
+                            "translation": "(¿Tienes algún cupón?)"
+                        }
+                    ]
+                }
+            ]
+        }
+        ,
+        {
+            "phrases": "Restaurante o Cafetería",
+            "type": [
+                {
+                    "name-type": "Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I would like a table for _____.",
+                            "translation": "(Me gustaría una mesa para _____.)"
+                        },
+                        {
+                            "phrase": "I have a reservation for ____________.",
+                            "translation": "(Tengo una reservación para ________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Ordering:",
+                    "phrases": [
+                        {
+                            "phrase": "I would like to have _________.",
+                            "translation": "(Me gustaría ordenar _________.)"
+                        },
+                        {
+                            "phrase": "Can I get ____________?",
+                            "translation": "(¿Puedo ordenar ____________?)"
+                        },
+                        {
+                            "phrase": "Do you have any specials?",
+                            "translation": "¿Tiene algún especial?"
+                        },
+                        {
+                            "phrase": "What do you recommend?",
+                            "translation": "(¿Qué recomiendas?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Problems/Complaints",
+                    "phrases": [
+                        {
+                            "phrase": "This is not what I ordered.",
+                            "translation": "(Esto no es lo que pedí.)"
+                        },
+                        {
+                            "phrase": "You forgot to add the _________.",
+                            "translation": "(Se le olvidó añadir el _________.)"
+                        },
+                        {
+                            "phrase": "This is too cold/too hot.",
+                            "translation": "(Esto está demasiado frío/demasiado caliente.)"
+                        },
+                        {
+                            "phrase": "Could you bring me more _______?",
+                            "translation": "(¿Me podría traer más ___________?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Paying",
+                    "phrases": [
+                        {
+                            "phrase": "Could I have the bill please?",
+                            "translation": "(¿Podría traerme la cuenta, por favor?)"
+                        },
+                        {
+                            "phrase": "Can I get the check please?",
+                            "translation": "(¿Puede darme el comprobante, por favor?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Extra food",
+                    "phrases": [
+                        {
+                            "phrase": "Can I get a to-go box?",
+                            "translation": "(¿Puede darme una bolsa para llevar?)"
+                        },
+                        {
+                            "phrase": "Can I get a take away box?",
+                            "translation": "(¿Puedo darme una caja para llevar?)"
+                        },
+                        {
+                            "phrase": "Can I get a doggy bag?",
+                            "translation": "(¿Puedo obtener una caja para llevar?)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Ropa y Zapatos"
+            "phrases": "Ropa y Zapatos",
+            "type": [
+                {
+                    "name-type": "Looking for Something",
+                    "phrases": [
+                        {
+                            "phrase": "I am looking for _________. Can you tell me where to find it?",
+                            "translation": "(Estoy buscando _____________. ¿Me puede decir dónde encontrarlo?)"
+                        },
+                        {
+                            "phrase": "Where can I find ___________?",
+                            "translation": "(¿Dónde puedo encontrar _______________?)"
+                        },
+                        {
+                            "phrase": "Do you have this in size ____?",
+                            "translation": "(¿Tiene esto en tamaño ____?)"
+                        },
+                        {
+                            "phrase": "MDo you have this in red/blue/black?",
+                            "translation": "¿Tiene esto en negro/rojo/azul?"
+                        },
+                        {
+                            "phrase": "Do you have a _____________ one?",
+                            "translation": " (bigger, smaller, shorter, longer, etc.)(¿Tiene uno _____________? (más grande, más pequeño, más corto, más largo, etc.))"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Trying Clothes On",
+                    "phrases": [
+                        {
+                            "phrase": "Where is the dressing room?",
+                            "translation": "(¿Dónde está el vestidor?)"
+                        },
+                        {
+                            "phrase": "I would like to try these on.",
+                            "translation": " (Me gustaría probarme esto.)"
+                        },
+                        {
+                            "phrase": "Can I try this on?",
+                            "translation": "(¿Puedo probarme esto?)"
+                        },
+                        {
+                            "phrase": "It fits.",
+                            "translation": "(Me queda bien.)"
+                        },
+                        {
+                            "phrase": "It’s too big.",
+                            "translation": " (Es demasiado grande.)"
+                        },
+                        {
+                            "phrase": "It’s too small. ",
+                            "translation": "(Es demasiado pequeño)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Paying/Price",
+                    "phrases": [
+                        {
+                            "phrase": "How much is it?",
+                            "translation": "(¿Cuánto cuesta?)"
+                        },{
+                            "phrase": "How much does this cost?",
+                            "translation": "(¿Cuánto cuesta esto?)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Estar enfermo, médicos y hospitales"
+            "phrases": "Estar enfermo, médicos y hospitales",
+            "type": [
+                {
+                    "name-type": "Problems: (Problemas)",
+                    "phrases": [
+                        {
+                            "phrase": "I feel sick.",
+                            "translation": "(Me siento enfermo.)"
+                        },
+                        {
+                            "phrase": "I need to go to the doctor.",
+                            "translation": "(Necesito ir al médico.)"
+                        },
+                        {
+                            "phrase": "I have a cold.",
+                            "translation": "(Estoy resfriado.)"
+                        },
+                        {
+                            "phrase": "I have the flu.",
+                            "translation": "Tengo gripe."
+                        },
+                        {
+                            "phrase": "What are you symptoms?",
+                            "translation": "¿Cuáles son sus síntomas?"
+                        },
+                        {
+                            "phrase": "Where does it hurt?",
+                            "translation": "¿Dónde le duele?"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I have a stomachache.",
+                            "translation": "(Tengo dolor de estómago.)"
+                        },
+                        {
+                            "phrase": "I have had an earache for the last week.",
+                            "translation": "(He tenido un dolor de oído por toda la semana.)"
+                        },
+                        {
+                            "phrase": "I have been dizzy for a few hours. I’m not sure why.",
+                            "translation": "(He estado mareado por algunas horas. No estoy seguro del por qué.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Crimen, Seguridad y Policía"
+            "phrases": "Crimen, Seguridad y Policía",
+            "type": [
+                {
+                    "name-type": "In Case of an Emergency",
+                    "phrases": [
+                        {
+                            "phrase": "Call the Police!",
+                            "translation": "(¡Llame a la policía!)"
+                        },
+                        {
+                            "phrase": "Call 9-1-1!",
+                            "translation": "(¡Llame al 9-1-1!)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Reporting a Crime/Problem",
+                    "phrases": [
+                        {
+                            "phrase": "There is a fire at __________________. (state location or address) ",
+                            "translation": "(Hay un incendio en __________________. (indique el lugar o la dirección))"
+                        },
+                        {
+                            "phrase": "Someone has been hurt at _____________. (state location or address) ",
+                            "translation": "(Alguien se ha lastimado en _____________. (indique el lugar o la dirección))"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Problemas/Consejos"
+            "phrases": "Problemas/Consejos",
+            "type": [
+                {
+                    "name-type": "Asking about a problem",
+                    "phrases": [
+                        {
+                            "phrase": "What’s wrong?",
+                            "translation": "(¿Qué pasa?)"
+                        },
+                        {
+                            "phrase": "What’s the matter?",
+                            "translation": "(¿Qué es el problema?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Giving Advice",
+                    "phrases": [
+                        {
+                            "phrase": "(You should ____________.",
+                            "translation": "(Deberías ____________.)"
+                        },
+                        {
+                            "phrase": "If I were you, I would __________.",
+                            "translation": " (Si yo fuera tú, __________.)"
+                        },
+                        {
+                            "phrase": "Maybe you should ____________.",
+                            "translation": "(Tal vez deberías ____________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples of problems and advice",
+                    "phrases": [
+                        {
+                            "phrase": "Problem: I am cold.",
+                            "translation": "(Problema: Tengo frío.)"
+                        },
+                        {
+                            "phrase": "Advice: You should put a sweater on.",
+                            "translation": "(Consejo: Deberías ponerte un suéter.)"
+                        },
+                        {
+                            "phrase": "Problem: I have a headache",
+                            "translation": "(Problema: Tengo dolor de cabeza)"
+                        },
+                        {
+                            "phrase": "Advice: Maybe you should take some medicine.",
+                            "translation": "Consejo: Tal vez deberías tomar algún medicamento.)"
+                        },
+                        {
+                            "phrase": "Problem: I am sick.",
+                            "translation": "(Problema: Estoy enfermo.)"
+                        },
+                        {
+                            "phrase": "Advice: If I were you, I would go to the doctor.",
+                            "translation": "(Consejo: Si yo fuera tú, me iría al médico.)"
+                        },
+                        {
+                            "phrase": "Problem: I failed my math exam.",
+                            "translation": "(Problema: reprobé mi examen de matemáticas.)"
+                        },
+                        {
+                            "phrase": "Advice: If I were you, I would ask the professor if you can take it again.",
+                            "translation": "(Consejo: Si yo fuera tú, le preguntaría al profesor si puedes tomarlo de nuevo.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Haciendo Planes / Haciendo Excusas"
+            "phrases": "Haciendo Planes / Haciendo Excusas",
+            "type": [
+                {
+                    "name-type": "Ask",
+                    "phrases": [
+                        {
+                            "phrase": "Do you want to ________?",
+                            "translation": "(¿Quieres ___________?)"
+                        },
+                        {
+                            "phrase": "Would you like to __________?",
+                            "translation": "(¿Te gustaría __________?)"
+                        },
+                        {
+                            "phrase": "Can you please ___________?",
+                            "translation": "(¿Podrías por favor ___________?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Questions",
+                    "phrases": [
+                        {
+                            "phrase": "Do you want to go to the movies with me?",
+                            "translation": "(¿Quieres ir al cine conmigo?)"
+                        },
+                        {
+                            "phrase": "Would you like to go to the beach?",
+                            "translation": "(¿Quieres ir a la playa?)"
+                        },
+                        {
+                            "phrase": "Can you please pick me up at 3pm?",
+                            "translation": "(¿Me puede recoger a las 3pm?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Answering Yes",
+                    "phrases": [
+                        {
+                            "phrase": "Yes!",
+                            "translation": "(¡Sí!)"
+                        },
+                        {
+                            "phrase": "Yes, I would.",
+                            "translation": "(Sí, lo haría./Sí, me gustaría.)"
+                        },
+                        {
+                            "phrase": "Yes, I think that will work.",
+                            "translation": "(Sí, creo que va a funcionar.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Excuses",
+                    "phrases": [
+                        {
+                            "phrase": "I’d like to but __________.",
+                            "translation": "(Me gustaría, pero __________.)"
+                        },
+                        {
+                            "phrase": "I can’t because ___________.",
+                            "translation": " (No puedo porque ___________.)"
+                        },
+                        {
+                            "phrase": "Sorry, that won’t work because ____________.",
+                            "translation": "(Lo siento, eso no va a funcionar porque ____________.)"
+                        },
+                        {
+                            "phrase": "I have other plans.",
+                            "translation": "(Tengo otros planes.)"
+                        },
+                        {
+                            "phrase": "I’m busy that day.",
+                            "translation": "(Estoy ocupado ese día.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Excuses",
+                    "phrases": [
+                        {
+                            "phrase": "I’d like to but I don’t have any money.",
+                            "translation": "(Me gustaría pero no tengo dinero.)"
+                        },
+                        {
+                            "phrase": "I can’t because I’m sick.",
+                            "translation": " (No puedo porque estoy enfermo.)"
+                        },
+                        {
+                            "phrase": "Sorry, that won’t work because I have class.",
+                            "translation": "(Lo siento, eso no va a funcionar porque tengo clase)"
+                        },
+                        {
+                            "phrase": "I have other plans on Saturday. ",
+                            "translation": "(Tengo otro plan el sábado)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Invitaciones"
+            "phrases": "Invitaciones",
+            "type": [
+                {
+                    "name-type": "Inviting Someone to do Something",
+                    "phrases": [
+                        {
+                            "phrase": "Would you like to ________ with me?",
+                            "translation": "(¿Quieres ________ conmigo?)"
+                        },
+                        {
+                            "phrase": "Would you like to go ____ on Saturday?",
+                            "translation": "(¿Te gustaría ir a _______ el sábado?)"
+                        },
+                        {
+                            "phrase": "I’m going to ________. Do you want to come with?",
+                            "translation": "(Voy a ________. ¿Quieres venir con?)"
+                        },
+                        {
+                            "phrase": "Are you free on _______?",
+                            "translation": "¿Estás libre el _________?"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Invitations",
+                    "phrases": [
+                        {
+                            "phrase": "Would you like to go out to dinner with me?",
+                            "translation": "(¿Quieres ir a cenar conmigo?)"
+                        },
+                        {
+                            "phrase": "Would like to go shopping with me after class?",
+                            "translation": "(¿Te gustaría ir de compras conmigo después de clase?)"
+                        },
+                        {
+                            "phrase": "I’m going to the library. Do you want to come with?",
+                            "translation": "(Voy a la biblioteca. ¿Quieres venir?)"
+                        },
+                        {
+                            "phrase": "Are you free on Sunday afternoon?.",
+                            "translation": "¿Estás libre el domingo por la tarde?"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Turning Down (Saying ‘no’ to) an Invitation",
+                    "phrases": [
+                        {
+                            "phrase": "I’m sorry I can’t ________. ",
+                            "translation": "(Lo siento no puedo ______.)"
+                        },
+                        {
+                            "phrase": "I’m busy that day. ",
+                            "translation": "(Estoy ocupado ese día.)"
+                        },
+                        {
+                            "phrase": "I don’t think that will work out.",
+                            "translation": "(No creo que vaya a funcionar.)"
+                        },
+                        {
+                            "phrase": "Let me check my calendar and get back to you.",
+                            "translation": "(Déjame chequear mi calendario y te contactaré.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Hablar sobre sus sentimientos"
+            "phrases": "Hablar sobre sus sentimientos",
+            "type": [
+                {
+                    "name-type": "Asking Someone ‘How they are?’",
+                    "phrases": [
+                        {
+                            "phrase": "How are you?",
+                            "translation": "(¿Cómo estás?)"
+                        },
+                        {
+                            "phrase": "How are you feeling?",
+                            "translation": "(¿Cómo te sientes?)"
+                        },
+                        {
+                            "phrase": "How’s it going?",
+                            "translation": "(¿Cómo te va?)"
+                        },
+                        {
+                            "phrase": "How you doing?",
+                            "translation": "(¿Cómo te está yendo?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "If Feeling Good, Say…",
+                    "phrases": [
+                        {
+                            "phrase": "I’m good.",
+                            "translation": "(Estoy bien)"
+                        },
+                        {
+                            "phrase": "I’m great.",
+                            "translation": "(Estoy muy bien.)"
+                        },
+                        {
+                            "phrase": "Not too bad.",
+                            "translation": "(No está mal.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "If Feeling Bad, Say…",
+                    "phrases": [
+                        {
+                            "phrase": "I’ve been better",
+                            "translation": "(He estado mejor)"
+                        },
+                        {
+                            "phrase": "Not too great.",
+                            "translation": "(No demasiado bien.)"
+                        },
+                        {
+                            "phrase": "I’m a little under the weather.",
+                            "translation": "(Estoy un poco indispuesto.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Other Common Feelings",
+                    "phrases": [
+                        {
+                            "phrase": "I’m bored.",
+                            "translation": "(Estoy aburrido)"
+                        },
+                        {
+                            "phrase": "I’m disappointed",
+                            "translation": " (Estoy decepcionado.)"
+                        },
+                        {
+                            "phrase": "I’m tried.",
+                            "translation": "(Estoy cansado.)"
+                        },
+                        {
+                            "phrase": "I’m sleepy.",
+                            "translation": "(Tengo sueño.)"
+                        },
+                        {
+                            "phrase": "I’m exhausted",
+                            "translation": "(Estoy agotado.)"
+                        },
+                        {
+                            "phrase": "I’m depressed.",
+                            "translation": "(Estoy deprimido.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Phrases to Help You Express Your Feelings",
+                    "phrases": [
+                        {
+                            "phrase": "I don’t like when you _______. ",
+                            "translation": "(No me gusta cuando _________.)"
+                        },
+                        {
+                            "phrase": "I feel _______ when _______.",
+                            "translation": "(Me siento ____________ cuando _________.)"
+                        },
+                        {
+                            "phrase": "I don’t like it when it ________. It makes me feel ________.",
+                            "translation": "(No me gusta cuando _____________. Me hace sentir __________.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Poniendose de acuerdo y en desacuerdo"
+            "phrases": "Poniendose de acuerdo y en desacuerdo",
+            "type": [
+                {
+                    "name-type": "The most common ways to agree",
+                    "phrases": [
+                        {
+                            "phrase": "“Me too.” (Response to a positive statement)",
+                            "translation": " (Yo también. (Respuesta a una declaración positiva))"
+                        },
+                        {
+                            "phrase": "“Me neither.” (Response to a negative statement)",
+                            "translation": "(Respuesta a una declaración negativa))"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples of Agreeing",
+                    "phrases": [
+                        {
+                            "phrase": "I love this weather. Respond: “Me too.”",
+                            "translation": "(Me encanta este clima. Responde: Yo también.)"
+                        },
+                        {
+                            "phrase": "I like chocolate cake. Respond: “Me too.”",
+                            "translation": " (Me gusta el pastel de chocolate. Responde: A mí también.)"
+                        },
+                        {
+                            "phrase": "I don’t like sea food. Respond: “Me neither.”",
+                            "translation": " (No me gusta la comida de mar. Responde: A mí tampoco.)"
+                        },
+                        {
+                            "phrase": "I haven’t ever been here before. Respond: “Me neither.”",
+                            "translation": " (Nunca no he estado aquí antes. Responde: Yo tampoco.)"
+                        },
+                        {
+                            "phrase": "“So do I” (Response to a simple positive statement)",
+                            "translation": "(También a mí (Respuesta a una declaración positiva sencilla))"
+                        },
+                        {
+                            "phrase": "“Neither do I” (Response to a simple negative statement)",
+                            "translation": "( Tampoco a mí (Respuesta a una declaración negativa sencilla))"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples of Agreeing",
+                    "phrases": [
+                        {
+                            "phrase": "I love Mickey Mouse. Respond: “So do I.”",
+                            "translation": "(Me encanta Mickey Mouse. Responde: También a mí)"
+                        },
+                        {
+                            "phrase": "I don’t like spicy food. Respond: “Neither do I.” ",
+                            "translation": "(No me gusta la comida picante. Responde: Tampoco a mí)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "The most common ways to disagree",
+                    "phrases": [
+                        {
+                            "phrase": "“I don’t.”",
+                            "translation": "(A mí no)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Examples of Disagreeing",
+                    "phrases": [
+                        {
+                            "phrase": "I like pizza. Respond: “I don’t.”",
+                            "translation": "(Me gusta la pizza. Respondo: A mí no.)"
+                        },
+                        {
+                            "phrase": "I love Justin Bieber. Respond: “I don’t.” ",
+                            "translation": "(Me encanta Justin Bieber. Respondo: A mí no”.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Similitudes y diferencias"
+            "phrases": "Similitudes y diferencias",
+            "type": [
+                {
+                    "name-type": "Sentence Starters to Talk about Similarities",
+                    "phrases": [
+                        {
+                            "phrase": "___________ is like _________. ",
+                            "translation": "(___________ es como _________.)"
+                        },
+                        {
+                            "phrase": "__________ is similar to ___________.",
+                            "translation": " (__________ es similar a ___________.)"
+                        },
+                        {
+                            "phrase": "They both ____________.",
+                            "translation": "(Ambos ____________.)"
+                        },
+                        {
+                            "phrase": "They don’t ____________.",
+                            "translation": "(Ellos no ____________.)"
+                        },
+                        {
+                            "phrase": "They can’t _____________.",
+                            "translation": "(No pueden _____________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences.",
+                    "phrases": [
+                        {
+                            "phrase": "This is like that.",
+                            "translation": "(Esto es como ese.)"
+                        },
+                        {
+                            "phrase": "They both can swim great.",
+                            "translation": "(Ambos pueden nadar muy bien.)"
+                        },
+                        {
+                            "phrase": "They can’t read yet.",
+                            "translation": "(No pueden leer todavía.)"
+                        },
+                        {
+                            "phrase": "Emily is similar to James. They both love to dance.",
+                            "translation": "(Emily es similar a James. Ambos aman bailar.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Sentence Starters to Talk about Differences",
+                    "phrases": [
+                        {
+                            "phrase": "_____ is bigger than _____. ",
+                            "translation": "(_______ es más grande que __________.)"
+                        },
+                        {
+                            "phrase": "_____ is smaller than _______.",
+                            "translation": " (_______ es más pequeño que __________.)"
+                        },
+                        {
+                            "phrase": "_____ is better than ______.",
+                            "translation": "(_______ es mejor que ___________.)"
+                        },
+                        {
+                            "phrase": "_____ is more expensive than ______.",
+                            "translation": "(_______ es más caro que _______.)"
+                        },
+                        {
+                            "phrase": "____ is nicer than _______.",
+                            "translation": "(______ es más bonito que ___________.)"
+                        },
+                        {
+                            "phrase": "______ is more helpful than ______.",
+                            "translation": " (_____ es más útil que _________.)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences:",
+                    "phrases": [
+                        {
+                            "phrase": "The elephant is bigger than the mouse.",
+                            "translation": "(El elefante es más grande que el ratón.)"
+                        },
+                        {
+                            "phrase": "The BMW is more expensive than the Honda.",
+                            "translation": "(El BMW es más caro que el Honda.)"
+                        },
+                        {
+                            "phrase": "This shirt is nicer than that one.",
+                            "translation": "(Esta camisa es mejor que esa.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Declarando Su Opinión"
+            "phrases": "Declarando Su Opinión",
+            "type": [
+                {
+                    "name-type": "Examples",
+                    "phrases": [
+                        {
+                            "phrase": "I think…",
+                            "translation": "(Yo creo que...)"
+                        },
+                        {
+                            "phrase": "In my opinion…",
+                            "translation": "(En mi opinión...)"
+                        },
+                        {
+                            "phrase": "I’d suggest…",
+                            "translation": "(Te sugiero...)"
+                        },
+                        {
+                            "phrase": "In my mind…",
+                            "translation": "En mi mente.."
+                        },
+                        {
+                            "phrase": "In my experience…",
+                            "translation": "(En mi experiencia...)"
+                        },
+                        {
+                            "phrase": "Personally, I think…",
+                            "translation": "(Personalmente, creo que...)"
+                        },
+                        {
+                            "phrase": "If you want an honest opinion…",
+                            "translation": "(Si quieres una opinión sincera...)"
+                        },
+                        {
+                            "phrase": "As far as I’m concerned…",
+                            "translation": "(En lo que a mí respecta..)"
+                        },
+                        {
+                            "phrase": "I’d say…",
+                            "translation": "(Yo diría que...)"
+                        },
+                        {
+                            "phrase": "The way I see it…",
+                            "translation": "(De la manera en que yo lo veo...)"
+                        },
+                        {
+                            "phrase": "I am of the opinion that…",
+                            "translation": "(Soy de la opinión de que...)"
+                        },
+                        {
+                            "phrase": "I believe that…",
+                            "translation": " (Creo que...)"
+                        },
+                        {
+                            "phrase": "If you ask me…",
+                            "translation": "(Si me preguntas...)"
+                        },
+                        {
+                            "phrase": "As far as I understand it…",
+                            "translation": "(Por lo que yo entiendo...)"
+                        },
+                        {
+                            "phrase": "As I see it…",
+                            "translation": "(Como yo lo veo...)"
+                        },
+                        {
+                            "phrase": "It seems to me that…",
+                            "translation": "(Me parece que...)"
+                        },
+                        {
+                            "phrase": "My personal view is that…",
+                            "translation": "(Mi opinión personal es que...)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "I think pizza is the best food ever",
+                            "translation": "(Creo que la pizza es el mejor alimento que he comido jamás.)"
+                        },
+                        {
+                            "phrase": "It seems to me that she doesn’t know what she is doing",
+                            "translation": " (Me parece que ella no sabe lo que está haciendo.)"
+                        },
+                        {
+                            "phrase": "In my experience, people are more productive in silence",
+                            "translation": "(En mi experiencia, las personas son más productivas en silencio.)"
+                        },
+                        {
+                            "phrase": "- I believe that he is one of the best actors.",
+                            "translation": "(Creo que él es uno de los mejores actores.)"
+                        },
+                        {
+                            "phrase": "I’d suggest we go to McDonalds instead of Burger King.",
+                            "translation": "(Te sugiero que vayamos a McDonald’s en lugar de Burger King)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Quejándose"
+            "phrases": "Quejándose",
+            "type": [
+                {
+                    "name-type": "Examples",
+                    "phrases": [
+                        {
+                            "phrase": "I’m sorry to bother you but…",
+                            "translation": "(Lamento molestarte, pero...)"
+                        },
+                        {
+                            "phrase": "There seems to be a problem with…",
+                            "translation": "(Parece que hay un problema con...)"
+                        },
+                        {
+                            "phrase": "Can you please help me with…",
+                            "translation": "(¿Me puede ayudar con...?)"
+                        },
+                        {
+                            "phrase": "I want to complain about…",
+                            "translation": "Quiero quejarme sobre..."
+                        },
+                        {
+                            "phrase": "Could you please tell me why…",
+                            "translation": "(¿Me puede decir por qué...?)"
+                        },
+                        {
+                            "phrase": "I’m sorry to say this but…",
+                            "translation": "(Lamento decir esto, pero...)"
+                        },
+                        {
+                            "phrase": "I hate to tell you but…",
+                            "translation": "(Odio tener que decirte esto, pero...)"
+                        },
+                        {
+                            "phrase": "I’m not satisfied with…",
+                            "translation": "(No estoy satisfecho con...)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Complaints",
+                    "phrases": [
+                        {
+                            "phrase": "I’m sorry to bother you but I need more ketchup.",
+                            "translation": "(Lamento molestarte pero necesito más ketchup.)"
+                        },
+                        {
+                            "phrase": "There seems to be a problem with my order. I didn’t get the right thing.",
+                            "translation": "(Parece que hay un problema con mi pedido. No me dieron lo correcto.)"
+                        },
+                        {
+                            "phrase": "I hate to tell you but this food is cold",
+                            "translation": "(Odio decirte esto, pero esta comida está fría.)"
+                        },
+                        {
+                            "phrase": "I’m not satisfied with the service. The waiter hasn’t been to our - table in more than 20 minutes.",
+                            "translation": "(No estoy satisfecho con el servicio. El camarero no ha venido a nuestra mesa en más de 20 minutos)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Solicitud de información/pedir algo"
+            "phrases": "Solicitud de información/pedir algo",
+            "type": [
+                {
+                    "name-type": "Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "Would you please… ?",
+                            "translation": "(¿Podría usted por favor...?)"
+                        },
+                        {
+                            "phrase": "Could you please…?",
+                            "translation": "(¿Podrías por favor...?)"
+                        },
+                        {
+                            "phrase": "Can you please… ? (informal) ",
+                            "translation": "(¿Puedes por favor...? (Informal))"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Sentences",
+                    "phrases": [
+                        {
+                            "phrase": "Would you please wake me up at 7am?",
+                            "translation": "(¿Me podrías despertar a las 7?)"
+                        },
+                        {
+                            "phrase": "Could you please carry my suitcase? It’s really heavy.",
+                            "translation": " (¿Podrías llevar mi maleta? Es muy pesada.)"
+                        },
+                        {
+                            "phrase": "Could you please fill out this form?",
+                            "translation": " (¿Podría usted por favor, rellenar este formulario?)"
+                        },
+                        {
+                            "phrase": "Would you please bring us two cups of coffee with sugar?",
+                            "translation": "(¿Podrías traernos dos tazas de café con azúcar?)"
+                        },
+                        {
+                            "phrase": "Could you please tell me your name again? I seem to have forgotten it.",
+                            "translation": " (¿Podrías por favor decirme tu nombre? Me parece que lo olvidé.)"
+                        },
+                        {
+                            "phrase": "Would you please call Mr. Peterson and tell him I am running late?",
+                            "translation": "(¿Podrías por favor llamar al Sr. Peterson y decirle que voy a llegar tarde?)"
+                        },
+                        {
+                            "phrase": "Can you please give me another drink?",
+                            "translation": "(¿Me podrías dar otro trago?)"
+                        },
+                        {
+                            "phrase": "Could you please say that again?",
+                            "translation": "(¿Podrías por favor decir eso de nuevo?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Would you mind… ?",
+                    "phrases": [
+                        {
+                            "phrase": "Would you mind closing the door? It’s really loud out there.",
+                            "translation": "(¿Te Importaría cerrar la puerta? Está muy ruidoso allá afuera.)"
+                        },
+                        {
+                            "phrase": "Would you mind telling me where you bought this salad? It’s delicious.",
+                            "translation": " (¿Te Importaría decirme donde compraste esta ensalada? Está deliciosa.)"
+                        },
+                        {
+                            "phrase": "Would you mind turning down the music? I can’t hear you. ",
+                            "translation": "(¿Te Importaría bajarle a la música? No puedo escucharte.)"
+                        },
+                        {
+                            "phrase": "Would you mind if I used your phone really quickly? I have to call my grandmother.",
+                            "translation": "(¿Te Importa si uso tu teléfono rápido? Tengo que llamar a mi abuela.)"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "phrases": "Hacer preguntas"
-        },
-        {
-            "phrases": "Las interjecciones"
+            "phrases": "Hacer preguntas",
+            "type": [
+                {
+                    "name-type": "Most common question words",
+                    "phrases": [
+                        {
+                            "phrase": "Who…?",
+                            "translation": " (¿Quién...?)"
+                        },
+                        {
+                            "phrase": "What…?",
+                            "translation": " (¿Qué...?)"
+                        },
+                        {
+                            "phrase": "Where…?",
+                            "translation": "(¿Dónde...?)"
+                        },
+                        {
+                            "phrase": "When…?",
+                            "translation": "(¿Cuándo...?)"
+                        },
+                        {
+                            "phrase": "Why…?",
+                            "translation": "(¿Por qué...?)"
+                        },
+                        {
+                            "phrase": "How…?",
+                            "translation": "(¿Cómo...?)"
+                        },
+                        {
+                            "phrase": "How many…?",
+                            "translation": "(¿Cuántos...?)"
+                        },
+                        {
+                            "phrase": "How much…?",
+                            "translation": "(¿Cuánto cuesta...?)"
+                        },
+                        {
+                            "phrase": "Is _____?",
+                            "translation": "(¿Es _____?)"
+                        },
+                        {
+                            "phrase": "Are_____?",
+                            "translation": "(¿Son_____?)"
+                        }
+                    ]
+                },
+                {
+                    "name-type": "Example Questions",
+                    "phrases": [
+                        {
+                            "phrase": "What time is it?",
+                            "translation": "(¿Qué hora es?)"
+                        },
+                        {
+                            "phrase": "Is this yours?",
+                            "translation": "(¿Es tuyo?)"
+                        },
+                        {
+                            "phrase": "Are you in line?",
+                            "translation": " (¿Estás en la fila/cola?)"
+                        },
+                        {
+                            "phrase": "How much does this cost?",
+                            "translation": "(¿Cuánto cuesta esto?)"
+                        },
+                        {
+                            "phrase": "Where is he?",
+                            "translation": "(¿Dónde está él?)"
+                        },
+                        {
+                            "phrase": "Did you see the movie?",
+                            "translation": "(¿Viste la película?)"
+                        }
+                    ]
+                }
+            ]
         }
         
     ]
