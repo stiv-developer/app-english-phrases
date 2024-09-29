@@ -49,7 +49,8 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <p class="p-phrase-translate  text-secondary-emphasis">${phraseItem.translation}</p>
                                 </div>
                             `;
-                            bodyContainer.innerHTML += phraseHTML;
+                            bodyContainer.innerHTML += phraseHTML ;
+
                         });
                     });
                 }
