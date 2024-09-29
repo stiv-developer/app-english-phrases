@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                         // Create the type header dynamically
                         const nameTypeTranslation = typeItem['name-type-translation'] ? `<span class="fs-6 text-success"> (${typeItem['name-type-translation']})</span>` : '';
-                        const typeHeaderHTML = `<h5>${typeItem['name-type']}${nameTypeTranslation}</h5>`;
+                        const typeHeaderHTML = `<h5 class="title-sentence">${typeItem['name-type']}${nameTypeTranslation}</h5>`;
 
                         // Insert the header into the type container
                         typeContainer.innerHTML += typeHeaderHTML;
