@@ -237,6 +237,7 @@
                 },
                 {
                     "name-type": "Ejemplos de presentaciones",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Hi! I’m Elizabeth, Eric’s cousin.",
@@ -373,6 +374,7 @@
                 },
                 {
                     "name-type": "Ejemplos",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I don’t like fish.",
@@ -455,6 +457,7 @@
                 },
                 {
                     "name-type": "Ejemplos de oraciones",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I’m a teacher. ",
@@ -561,6 +564,7 @@
                 },
                 {
                     "name-type": "Otros Ejemplos",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Nothing",
@@ -622,6 +626,7 @@
                 },
                 {
                     "name-type": "Otros Ejemplos",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I went to work.",
@@ -742,6 +747,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I will go on vacation in June.",
@@ -802,6 +808,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I wake up at 7am. ",
@@ -895,6 +902,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "In my free time, I like to work out at the gym. ",
@@ -998,6 +1006,7 @@
             "type": [
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "After a horrible break up and divorce, I am happy to be single again.",
@@ -1099,6 +1108,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "My favorite food is spaghetti with meatballs.",
@@ -1268,6 +1278,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I take the bus to work every day. ",
@@ -1375,6 +1386,7 @@
             "type": [
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "The school is in between South Ave. and Birch Street.",
@@ -1518,6 +1530,7 @@
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I am American.",
@@ -1581,6 +1594,7 @@
                 },
                 {
                     "name-type": "Examples:",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
@@ -1671,6 +1685,7 @@
                 },
                 {
                     "name-type": "Examples:",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
@@ -1698,6 +1713,7 @@
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I am American.",
@@ -1761,6 +1777,7 @@
                 },
                 {
                     "name-type": "Examples:",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
@@ -2009,6 +2026,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I have a stomachache.",
@@ -2094,6 +2112,7 @@
                 },
                 {
                     "name-type": "Examples of problems and advice",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Problem: I am cold.",
@@ -2154,6 +2173,7 @@
                 },
                 {
                     "name-type": "Example Questions",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Do you want to go to the movies with me?",
@@ -2188,6 +2208,7 @@
                 },
                 {
                     "name-type": "Excuses",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I’d like to but __________.",
@@ -2261,6 +2282,7 @@
                 },
                 {
                     "name-type": "Example Invitations",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Would you like to go out to dinner with me?",
@@ -2429,6 +2451,7 @@
                 },
                 {
                     "name-type": "Examples of Agreeing",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I love this weather. Respond: “Me too.”",
@@ -2524,6 +2547,7 @@
                 },
                 {
                     "name-type": "Example Sentences.",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "This is like that.",
@@ -2670,6 +2694,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I think pizza is the best food ever",
@@ -2738,6 +2763,7 @@
                 },
                 {
                     "name-type": "Example Complaints",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I’m sorry to bother you but I need more ketchup.",
@@ -2782,6 +2808,7 @@
                 },
                 {
                     "name-type": "Example Sentences",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "Would you please wake me up at 7am?",
@@ -2891,6 +2918,7 @@
                 },
                 {
                     "name-type": "Example Questions",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "What time is it?",

@@ -51,3 +51,12 @@
   font-weight: 900;
   font-style: normal;
 }
+
+/* COLOR CARD */
+
+.color-card-example-phrases {
+    background-color: #e0f7e0; /* Un color verde claro */
+    /* border-left: 4px solid #4caf50; Borde verde */
+    padding: 10px;
+    margin-bottom: 10px;
+}

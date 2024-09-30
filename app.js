@@ -36,11 +36,16 @@ document.addEventListener('DOMContentLoaded', function () {
                     item.type.forEach(typeItem => {
                         // Create a wrapper for each type dynamically
                         const typeContainer = document.createElement('div');
+                        
+                        // Check if the 'color-card' exists, and apply the class if true
+                        if (typeItem['color-card']) {
+                            typeContainer.classList.add(typeItem['color-card']);
+                        }
                         typeContainer.classList.add('group-type', typeItem['name-type'].toLowerCase().replace(/\s+/g, '-')); // Example: convert 'Muy Informal' -> 'muy-informal'
 
                         // Create the type header dynamically
                         const nameTypeTranslation = typeItem['name-type-translation'] ? `<span class="fs-6 text-success"> (${typeItem['name-type-translation']})</span>` : '';
-                        const typeHeaderHTML = `<h5 class="title-sentence">${typeItem['name-type']}${nameTypeTranslation}</h5>`;
+                        const typeHeaderHTML = `<h5>${typeItem['name-type']}${nameTypeTranslation}</h5>`;
 
                         // Insert the header into the type container
                         typeContainer.innerHTML += typeHeaderHTML;
