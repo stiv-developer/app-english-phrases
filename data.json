@@ -236,7 +236,7 @@
                     ]
                 },
                 {
-                    "name-type": "Ejemplos de presentaciones",
+                    "name-type": "Examples of presentations",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -297,7 +297,8 @@
                     ]
                 },
                 {
-                    "name-type": "Ejemplos",
+                    "name-type": "Examples",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I like pizza.",
@@ -373,7 +374,7 @@
                     ]
                 },
                 {
-                    "name-type": "Ejemplos",
+                    "name-type": "Examples",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -438,7 +439,7 @@
                     ]
                 },
                 {
-                    "name-type": "Posibles maneras de responder",
+                    "name-type": "Possible ways to respond",
                     "phrases": [
                         {
                             "phrase": "I’m a …",
@@ -456,7 +457,7 @@
                     ]
                 },
                 {
-                    "name-type": "Ejemplos de oraciones",
+                    "name-type": "Examples of sentences",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -506,7 +507,7 @@
             "phrases-translation":"¿Qué estás haciendo ahora mismo?",
             "type": [
                 {
-                    "name-type": "Ejemplos",
+                    "name-type": "Examples",
                     "phrases": [
                         {
                             "phrase": "I am reading a book.",
@@ -563,7 +564,7 @@
                     ]
                 },
                 {
-                    "name-type": "Otros Ejemplos",
+                    "name-type": "Other examples",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -588,7 +589,7 @@
             "phrases-translation":"Hablar del Pasado",
             "type": [
                 {
-                    "name-type": "Verbos más comunes utilizados para referirse al Pasado",
+                    "name-type": "Most common verbs used to refer to the Past",
                     "phrases": [
                         {
                             "phrase": "I went…",
@@ -625,7 +626,7 @@
                     ]
                 },
                 {
-                    "name-type": "Otros Ejemplos",
+                    "name-type": "Other examples",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -704,7 +705,7 @@
             "phrases-translation":"Hablar del Futuro",
             "type": [
                 {
-                    "name-type": "Las dos frases más comunes para referirse al futuro son",
+                    "name-type": "The two most common phrases to refer to the future are",
                     "phrases": [
                         {
                             "phrase": "I will…",
@@ -876,7 +877,7 @@
                     ]
                 },
                 {
-                    "name-type": "Maneras comunes de responder a estas preguntas son:",
+                    "name-type": "Common ways to answer these questions are",
                     "phrases": [
                         {
                             "phrase": "In my free time, I…",
@@ -974,7 +975,7 @@
                     ]
                 },
                 {
-                    "name-type": "Preguntas que puede hacerle a alguien acerca de su familia:",
+                    "name-type": "Questions to ask someone about their family",
                     "phrases": [
                         {
                             "phrase": "How many children do you have?",
@@ -1023,7 +1024,7 @@
                     ]
                 },
                 {
-                    "name-type": "Preguntas para hacerle a alguien acerca de su relación",
+                    "name-type": "Questions to ask someone about their relationship",
                     "phrases": [
                         {
                             "phrase": "Are you single?",
@@ -1107,7 +1108,7 @@
                     ]
                 },
                 {
-                    "name-type": "Example Sentences",
+                    "name-type": "Other sentences",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -2208,7 +2209,6 @@
                 },
                 {
                     "name-type": "Excuses",
-                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I’d like to but __________.",
@@ -2234,6 +2234,7 @@
                 },
                 {
                     "name-type": "Example Excuses",
+                    "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
                             "phrase": "I’d like to but I don’t have any money.",
@@ -2620,7 +2621,7 @@
             "phrases-translation":"Declarando Su Opinión",
             "type": [
                 {
-                    "name-type": "Examples",
+                    "name-type": "Sentences",
                     "phrases": [
                         {
                             "phrase": "I think…",
@@ -2709,7 +2710,7 @@
                             "translation": "En mi experiencia, las personas son más productivas en silencio."
                         },
                         {
-                            "phrase": "- I believe that he is one of the best actors.",
+                            "phrase": "I believe that he is one of the best actors.",
                             "translation": "Creo que él es uno de los mejores actores."
                         },
                         {
@@ -2725,7 +2726,7 @@
             "phrases-translation":"Quejándose",
             "type": [
                 {
-                    "name-type": "Examples",
+                    "name-type": "Sentences",
                     "phrases": [
                         {
                             "phrase": "I’m sorry to bother you but…",
