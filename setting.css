@@ -2,6 +2,11 @@
 
 .toggle-group {
     /* border: 1px solid red; */
+    background: white;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 4;
 }
 
 .toggle {
@@ -26,11 +31,13 @@
     position: fixed;
     top: 0;
     right: -100%;
-    width: 100%;
+    /* width: 150%; */
+    width: 320px; 
     height: 100%;
     background: #FFF;
     z-index: 1;
     transition: 0.5s;
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
 ul {
@@ -58,7 +65,6 @@ ul li a {
     display: inline-block;
     font-size: 1.5em;
     text-decoration: none;
-    /* text-transform: uppercase; */
     color: #111334;
     font-family: "Roboto", system-ui;
     font-weight: 900;
@@ -114,4 +120,23 @@ ul li a {
 .card-body-setting select{
     /* border: 1px solid red; */
     width: 150px !important;
+}
+
+
+/* For mobile devices (max width 600px) */
+@media only screen and (max-width: 600px) {
+   
+}
+
+/* For tablets (between 600px and 768px) */
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+  
+}
+
+/* For desktops (min width 768px) */
+@media only screen and (min-width: 768px) {
+  .header{
+      margin-top: 70px;
+  }
+
 }

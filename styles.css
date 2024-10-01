@@ -155,3 +155,23 @@ ul li a {
     padding: 10px;
     margin-bottom: 10px;
 }
+
+
+/* For mobile devices (max width 600px) */
+@media only screen and (max-width: 600px) {
+   
+  }
+  
+  /* For tablets (between 600px and 768px) */
+  @media only screen and (min-width: 600px) and (max-width: 768px) {
+    
+  }
+  
+  /* For desktops (min width 768px) */
+  @media only screen and (min-width: 768px) {
+    .header{
+        margin-top: 70px;
+    }
+
+  }
+  
