@@ -10,35 +10,42 @@
                         {
                             "phrase": "Hello",
                             "translation_spanish": "Hola",
-                            "translation_portuguese":""
+                            "translation_portuguese":"Olá"
                         },
                         {
                             "phrase": "Hello [Name]",
-                            "translation_spanish": "Hola Stiv"
+                            "translation_spanish": "Hola Stiv",
+                            "translation_portuguese":"Olá Stiv"
                         },
                         {
                             "phrase": "How are you?",
-                            "translation_spanish": "¿Cómo está?"
+                            "translation_spanish": "¿Cómo está?",
+                            "translation_portuguese":"Como vai você?"
                         },
                         {
                             "phrase": "How are you doing?",
-                            "translation_spanish": " ¿Qué tal?"
+                            "translation_spanish": " ¿Qué tal?",
+                            "translation_portuguese":"Como vai?"
                         },
                         {
                             "phrase": "How have you been?",
-                            "translation_spanish": "¿Cómo ha estado?"
+                            "translation_spanish": "¿Cómo ha estado?",
+                            "translation_portuguese":"Como você tem estado?"
                         },
                         {
                             "phrase": "Good Morning!",
-                            "translation_spanish": "¡Buenos días!"
+                            "translation_spanish": "¡Buenos días!",
+                            "translation_portuguese":"Bom dia!"
                         },
                         {
                             "phrase": "Good Afternoon!",
-                            "translation_spanish": "¡Buenas tardes!"
+                            "translation_spanish": "¡Buenas tardes!",
+                            "translation_portuguese":"Boa tarde!"
                         },
                         {
                             "phrase": "Good Evening!",
-                            "translation_spanish": "¡Buenas noches!"
+                            "translation_spanish": "¡Buenas noches!",
+                            "translation_portuguese":"Boa noite!"
                         }
                     ]
                 },
@@ -47,31 +54,38 @@
                     "phrases": [
                         {
                             "phrase": "Hi!",
-                            "translation_spanish": "¡Hola!"
+                            "translation_spanish": "¡Hola!",
+                            "translation_portuguese":"Oi!"
                         },
                         {
                             "phrase": "Hey!",
-                            "translation_spanish": "¡Hey!"
+                            "translation_spanish": "¡Hey!",
+                            "translation_portuguese":"Ei!"
                         },
                         {
                             "phrase": "What’s up?",
-                            "translation_spanish": "¿Qué hay?"
+                            "translation_spanish": "¿Qué hay?",
+                            "translation_portuguese":"E aí?"
                         },
                         {
                             "phrase": "How’s it going?",
-                            "translation_spanish": "¿Cómo vas?"
+                            "translation_spanish": "¿Cómo vas?",
+                            "translation_portuguese":"Como tá indo?"
                         },
                         {
                             "phrase": "What’s new?",
-                            "translation_spanish": "¿Qué hay de nuevo?"
+                            "translation_spanish": "¿Qué hay de nuevo?",
+                            "translation_portuguese":"O que há de novo?"
                         },
                         {
                             "phrase": "What have you been up to?",
-                            "translation_spanish": "¿En qué has estado?"
+                            "translation_spanish": "¿En qué has estado?",
+                            "translation_portuguese":"O que você tem feito?"
                         },
                         {
                             "phrase": "How are ya?",
-                            "translation_spanish": " ¿Cómo estás?"
+                            "translation_spanish": " ¿Cómo estás?",
+                            "translation_portuguese":"Como você está?"
                         }
                     ]
                 }

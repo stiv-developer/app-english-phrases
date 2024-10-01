@@ -79,17 +79,17 @@ ul li a {
 /* CARD SETTING */
 
 .card-setting{
-    border: 1px solid rgb(136, 134, 134);
+    border: 1px solid #D9D9D9;
     border-radius: 10px;
     margin-bottom: 10px;
 }
 .card-header-setting{
-    background: #111334;
+    background: #D9D9D9;
     border-radius: 10px 10px 0px 0px;
 }
 
 .card-header-setting p{
-    color: white;
+    color: black;
     padding: 10px;
     font-family: "Roboto", system-ui;
     font-weight: 900;
