@@ -9,35 +9,36 @@
                     "phrases": [
                         {
                             "phrase": "Hello",
-                            "translation": "Hola"
+                            "translation_spanish": "Hola",
+                            "translation_portuguese":""
                         },
                         {
                             "phrase": "Hello [Name]",
-                            "translation": "Hola Stiv"
+                            "translation_spanish": "Hola Stiv"
                         },
                         {
                             "phrase": "How are you?",
-                            "translation": "¿Cómo está?"
+                            "translation_spanish": "¿Cómo está?"
                         },
                         {
                             "phrase": "How are you doing?",
-                            "translation": " ¿Qué tal?"
+                            "translation_spanish": " ¿Qué tal?"
                         },
                         {
                             "phrase": "How have you been?",
-                            "translation": "¿Cómo ha estado?"
+                            "translation_spanish": "¿Cómo ha estado?"
                         },
                         {
                             "phrase": "Good Morning!",
-                            "translation": "¡Buenos días!"
+                            "translation_spanish": "¡Buenos días!"
                         },
                         {
                             "phrase": "Good Afternoon!",
-                            "translation": " ¡Buenas tardes!"
+                            "translation_spanish": "¡Buenas tardes!"
                         },
                         {
                             "phrase": "Good Evening!",
-                            "translation": " ¡Buenas noches!"
+                            "translation_spanish": "¡Buenas noches!"
                         }
                     ]
                 },
@@ -46,31 +47,31 @@
                     "phrases": [
                         {
                             "phrase": "Hi!",
-                            "translation": "¡Hola!"
+                            "translation_spanish": "¡Hola!"
                         },
                         {
                             "phrase": "Hey!",
-                            "translation": "¡Hey!"
+                            "translation_spanish": "¡Hey!"
                         },
                         {
                             "phrase": "What’s up?",
-                            "translation": "¿Qué hay?"
+                            "translation_spanish": "¿Qué hay?"
                         },
                         {
                             "phrase": "How’s it going?",
-                            "translation": "¿Cómo vas?"
+                            "translation_spanish": "¿Cómo vas?"
                         },
                         {
                             "phrase": "What’s new?",
-                            "translation": "¿Qué hay de nuevo?"
+                            "translation_spanish": "¿Qué hay de nuevo?"
                         },
                         {
                             "phrase": "What have you been up to?",
-                            "translation": "¿En qué has estado?"
+                            "translation_spanish": "¿En qué has estado?"
                         },
                         {
                             "phrase": "How are ya?",
-                            "translation": " ¿Cómo estás?"
+                            "translation_spanish": " ¿Cómo estás?"
                         }
                     ]
                 }
@@ -85,35 +86,35 @@
                     "phrases": [
                         {
                             "phrase": "Good-Bye",
-                            "translation": "Adiós"
+                            "translation_spanish": "Adiós"
                         },
                         {
                             "phrase": "Have a nice day!",
-                            "translation": "¡Tenga un buen día!"
+                            "translation_spanish": "¡Tenga un buen día!"
                         },
                         {
                             "phrase": "It was nice seeing you again.",
-                            "translation": " Fue bueno verte de nuevo."
+                            "translation_spanish": " Fue bueno verte de nuevo."
                         },
                         {
                             "phrase": "I look forward to seeing you again",
-                            "translation": "Espero verte otra vez."
+                            "translation_spanish": "Espero verte otra vez."
                         },
                         {
                             "phrase": "Take care.",
-                            "translation": "Cuídese."
+                            "translation_spanish": "Cuídese."
                         },
                         {
                             "phrase": "Good night! ",
-                            "translation": "¡Buenas noches!"
+                            "translation_spanish": "¡Buenas noches!"
                         },
                         {
                             "phrase": "Good Afternoon!",
-                            "translation": " ¡Buenas tardes!"
+                            "translation_spanish": " ¡Buenas tardes!"
                         },
                         {
                             "phrase": "Good Evening!",
-                            "translation": " ¡Buenas noches!"
+                            "translation_spanish": " ¡Buenas noches!"
                         }
                     ]
                 },
@@ -122,31 +123,31 @@
                     "phrases": [
                         {
                             "phrase": "Bye",
-                            "translation": "Chao/Chau"
+                            "translation_spanish": "Chao/Chau"
                         },
                         {
                             "phrase": "Bye-Bye",
-                            "translation": "Chao/Chau"
+                            "translation_spanish": "Chao/Chau"
                         },
                         {
                             "phrase": "See you later! Or- See you soon!",
-                            "translation": "¡Te veo luego! O - ¡Te veo pronto!"
+                            "translation_spanish": "¡Te veo luego! O - ¡Te veo pronto!"
                         },
                         {
                             "phrase": "Talk to you later",
-                            "translation": "Hablamos luego."
+                            "translation_spanish": "Hablamos luego."
                         },
                         {
                             "phrase": "Take it easy. ",
-                            "translation": "Tómalo con calma."
+                            "translation_spanish": "Tómalo con calma."
                         },
                         {
                             "phrase": "I’ve got to get going.",
-                            "translation": " Me tengo que ir."
+                            "translation_spanish": " Me tengo que ir."
                         },
                         {
                             "phrase": "I’ve got to run",
-                            "translation": "Tengo prisa, me tengo que ir."
+                            "translation_spanish": "Tengo prisa, me tengo que ir."
                         }
                     ]
                 },
@@ -155,27 +156,27 @@
                     "phrases": [
                         {
                             "phrase": "Check you later.",
-                            "translation": " Hablamos más tarde."
+                            "translation_spanish": " Hablamos más tarde."
                         },
                         {
                             "phrase": "I’m out. Or- I’m out of here.",
-                            "translation": " Me voy. O – Me voy de aquí."
+                            "translation_spanish": " Me voy. O – Me voy de aquí."
                         },
                         {
                             "phrase": "I’m off.",
-                            "translation": " Me voy."
+                            "translation_spanish": " Me voy."
                         },
                         {
                             "phrase": "I’ve gotta take off",
-                            "translation": "Tengo que irme."
+                            "translation_spanish": "Tengo que irme."
                         },
                         {
                             "phrase": "See ya",
-                            "translation": "Nos vemos."
+                            "translation_spanish": "Nos vemos."
                         },
                         {
                             "phrase": "Peace",
-                            "translation": " Paz"
+                            "translation_spanish": " Paz"
                         }
                     ]
                 }
@@ -191,11 +192,11 @@
                     "phrases": [
                         {
                             "phrase": "Hello, I’m ___________.",
-                            "translation": "Hola, soy ___________."
+                            "translation_spanish": "Hola, soy ___________."
                         },
                         {
                             "phrase": "I am ____________.",
-                            "translation": " Yo soy _____./Me llamo____."
+                            "translation_spanish": " Yo soy _____./Me llamo____."
                         }
                     ]
                 },
@@ -205,19 +206,19 @@
                     "phrases": [
                         {
                             "phrase": "This is ______. He/She is my co-worker.",
-                            "translation": "Este/a es ______. Él/Ella es mi compañero/a de trabajo."
+                            "translation_spanish": "Este/a es ______. Él/Ella es mi compañero/a de trabajo."
                         },
                         {
                             "phrase": "This is _____. He/She is _____.",
-                            "translation": "Este/a es________. Él/Ella es _______. "
+                            "translation_spanish": "Este/a es________. Él/Ella es _______. "
                         },
                         {
                             "phrase": "I’d like to introduce you to _______, the _______at ________.",
-                            "translation": "Me gustaría presentarle a_______, el _______en ________. "
+                            "translation_spanish": "Me gustaría presentarle a_______, el _______en ________. "
                         },
                         {
                             "phrase": "I would like you to meet ________.",
-                            "translation": " Me gustaría que conociera a ________. "
+                            "translation_spanish": " Me gustaría que conociera a ________. "
                         }
                     ]
                 },
@@ -227,11 +228,11 @@
                     "phrases": [
                         {
                             "phrase": "This is ___________.",
-                            "translation": "Este es ___________."
+                            "translation_spanish": "Este es ___________."
                         },
                         {
                             "phrase": "This is my friend _______.",
-                            "translation": "Este es mi amigo _______."
+                            "translation_spanish": "Este es mi amigo _______."
                         }
                     ]
                 },
@@ -241,23 +242,23 @@
                     "phrases": [
                         {
                             "phrase": "Hi! I’m Elizabeth, Eric’s cousin.",
-                            "translation": "- ¡Hola! Soy Elizabeth, la prima de Eric."
+                            "translation_spanish": "- ¡Hola! Soy Elizabeth, la prima de Eric."
                         },
                         {
                             "phrase": " Hey, I’m Betsy. I’m the new project manager.",
-                            "translation": "- Hey, soy Betsy. Soy la nueva gerente delproyecto."
+                            "translation_spanish": "- Hey, soy Betsy. Soy la nueva gerente delproyecto."
                         },
                         {
                             "phrase": " This is Carl. He is our new IT manager.",
-                            "translation": "- Este es Carl. Él es nuestro nuevo gerente en TIC."
+                            "translation_spanish": "- Este es Carl. Él es nuestro nuevo gerente en TIC."
                         },
                         {
                             "phrase": "This is my girlfriend Paula.",
-                            "translation": "- Esta es mi novia Paula."
+                            "translation_spanish": "- Esta es mi novia Paula."
                         },
                         {
                             "phrase": "I’d like you to meet Anna. She has been a friend of mine for ten years.",
-                            "translation": "- Me gustaría que conocieras a Anna. Ella ha sido mi amiga por 10 años."
+                            "translation_spanish": "- Me gustaría que conocieras a Anna. Ella ha sido mi amiga por 10 años."
                         }
                     ]
                 }
@@ -272,27 +273,27 @@
                     "phrases": [
                         {
                             "phrase": "I like…",
-                            "translation": "Me gusta…"
+                            "translation_spanish": "Me gusta…"
                         },
                         {
                             "phrase": "I enjoy…",
-                            "translation": "Disfruto… "
+                            "translation_spanish": "Disfruto… "
                         },
                         {
                             "phrase": "My favorite _________ is…",
-                            "translation": "Mi _________ favorito/a es…"
+                            "translation_spanish": "Mi _________ favorito/a es…"
                         },
                         {
                             "phrase": "I love…",
-                            "translation": "Amo…"
+                            "translation_spanish": "Amo…"
                         },
                         {
                             "phrase": "I really like/love…",
-                            "translation": "De verdad me gusta/amo…"
+                            "translation_spanish": "De verdad me gusta/amo…"
                         },
                         {
                             "phrase": "I adore…",
-                            "translation": "Adoro…"
+                            "translation_spanish": "Adoro…"
                         }
                     ]
                 },
@@ -302,43 +303,43 @@
                     "phrases": [
                         {
                             "phrase": "I like pizza.",
-                            "translation": " - Me gusta la pizza."
+                            "translation_spanish": " - Me gusta la pizza."
                         },
                         {
                             "phrase": "I like to read books by Dr. Seuss.",
-                            "translation": "- Me gusta leer los libros del Dr. Seuss."
+                            "translation_spanish": "- Me gusta leer los libros del Dr. Seuss."
                         },
                         {
                             "phrase": " Peter enjoys running in the snow",
-                            "translation": "- Peter disfruta correr en la nieve."
+                            "translation_spanish": "- Peter disfruta correr en la nieve."
                         },
                         {
                             "phrase": "I enjoy this peace and quiet. ",
-                            "translation": "- Disfruto esta paz y tranquilidad."
+                            "translation_spanish": "- Disfruto esta paz y tranquilidad."
                         },
                         {
                             "phrase": "I love eating sushi. It is so delicious.",
-                            "translation": "- Amo comer sushi. Es muy rico."
+                            "translation_spanish": "- Amo comer sushi. Es muy rico."
                         },
                         {
                             "phrase": " I love learning new things.",
-                            "translation": "- Amo aprender nuevas cosas."
+                            "translation_spanish": "- Amo aprender nuevas cosas."
                         },
                         {
                             "phrase": " Bob really loves the new morning program on NBC.",
-                            "translation": " - Bob de verdad ama el nuevo programa matutino en NBC."
+                            "translation_spanish": " - Bob de verdad ama el nuevo programa matutino en NBC."
                         },
                         {
                             "phrase": " I really like taking long walks in on the beach.",
-                            "translation": "- Me gusta mucho dar largos paseos en la playa."
+                            "translation_spanish": "- Me gusta mucho dar largos paseos en la playa."
                         },
                         {
                             "phrase": "I adore Maria. She is such a nice girl.",
-                            "translation": "- Adoro a María. Es una chica muy dulce."
+                            "translation_spanish": "- Adoro a María. Es una chica muy dulce."
                         },
                         {
                             "phrase": "My favorite movie is Top Gun. It is full of action.",
-                            "translation": "- Mi película favorita es “Top Gun”. Está repleta de acción."
+                            "translation_spanish": "- Mi película favorita es “Top Gun”. Está repleta de acción."
                         }
                     ]
                 }
@@ -353,23 +354,23 @@
                     "phrases": [
                         {
                             "phrase": "I don’t like…",
-                            "translation": "No me gusta…"
+                            "translation_spanish": "No me gusta…"
                         },
                         {
                             "phrase": "I don’t enjoy…",
-                            "translation": "No disfruto…"
+                            "translation_spanish": "No disfruto…"
                         },
                         {
                             "phrase": "I dislike…",
-                            "translation": " Me desagrada…*"
+                            "translation_spanish": " Me desagrada…*"
                         },
                         {
                             "phrase": "I hate…",
-                            "translation": " Odio…"
+                            "translation_spanish": " Odio…"
                         },
                         {
                             "phrase": "My least favorite ________ is…",
-                            "translation": "Mi ________ menos favorito es…"
+                            "translation_spanish": "Mi ________ menos favorito es…"
                         }
                     ]
                 },
@@ -379,39 +380,39 @@
                     "phrases": [
                         {
                             "phrase": "I don’t like fish.",
-                            "translation": "No me gusta el pescado."
+                            "translation_spanish": "No me gusta el pescado."
                         },
                         {
                             "phrase": "I don’t like to pick up after my kids.",
-                            "translation": " No me gusta pasar por mis hijos."
+                            "translation_spanish": " No me gusta pasar por mis hijos."
                         },
                         {
                             "phrase": "I don’t enjoy eating spicy food.",
-                            "translation": "No disfruto comer comida picante."
+                            "translation_spanish": "No disfruto comer comida picante."
                         },
                         {
                             "phrase": "I don’t enjoy talking to my boss.",
-                            "translation": "No disfruto hablar con mi jefe."
+                            "translation_spanish": "No disfruto hablar con mi jefe."
                         },
                         {
                             "phrase": "I dislike this song.",
-                            "translation": " Me desagrada esta canción.*"
+                            "translation_spanish": " Me desagrada esta canción.*"
                         },
                         {
                             "phrase": "I hate bugs.",
-                            "translation": "Odio a los bichos."
+                            "translation_spanish": "Odio a los bichos."
                         },
                         {
                             "phrase": "I hate crying babies. They give me a headache.",
-                            "translation": "Odio a los bebés llorones. Me dan dolor de cabeza."
+                            "translation_spanish": "Odio a los bebés llorones. Me dan dolor de cabeza."
                         },
                         {
                             "phrase": "My least favorite food is spinach.",
-                            "translation": "Mi comida menos favorita es la espinaca."
+                            "translation_spanish": "Mi comida menos favorita es la espinaca."
                         },
                         {
                             "phrase": "My least favorite season is winter.",
-                            "translation": " Mi estación menos preferida es el invierno."
+                            "translation_spanish": " Mi estación menos preferida es el invierno."
                         }
                     ]
                 }
@@ -426,15 +427,15 @@
                     "phrases": [
                         {
                             "phrase": "What do you work in?",
-                            "translation": "¿En qué trabajas?"
+                            "translation_spanish": "¿En qué trabajas?"
                         },
                         {
                             "phrase": "What do you do for a living?",
-                            "translation": "¿Qué haces en la vida?"
+                            "translation_spanish": "¿Qué haces en la vida?"
                         },
                         {
                             "phrase": "How do you spend most of your time?",
-                            "translation": " ¿Cómo pases la mayor parte de tu tiempo?"
+                            "translation_spanish": " ¿Cómo pases la mayor parte de tu tiempo?"
                         }
                     ]
                 },
@@ -443,15 +444,15 @@
                     "phrases": [
                         {
                             "phrase": "I’m a …",
-                            "translation": "Soy un/a…"
+                            "translation_spanish": "Soy un/a…"
                         },
                         {
                             "phrase": "I am…",
-                            "translation": "Yo soy un/a…"
+                            "translation_spanish": "Yo soy un/a…"
                         },
                         {
                             "phrase": "I work as a…",
-                            "translation": "Trabajo de…"
+                            "translation_spanish": "Trabajo de…"
                         }
                     
                     ]
@@ -462,40 +463,40 @@
                     "phrases": [
                         {
                             "phrase": "I’m a teacher. ",
-                            "translation": "Soy profesor."
+                            "translation_spanish": "Soy profesor."
                         },
                         {
                             "phrase": "I’m a full time student.",
-                            "translation": "Soy estudiante a tiempo completo."
+                            "translation_spanish": "Soy estudiante a tiempo completo."
                         },
                         {
                             "phrase": "I’m a stay at home mom",
-                            "translation": "Soy ama de casa."
+                            "translation_spanish": "Soy ama de casa."
                         }
                         ,
                         {
                             "phrase": "I work as an engineer.",
-                            "translation": "Trabajo como ingeniero."
+                            "translation_spanish": "Trabajo como ingeniero."
                         },
                         {
                             "phrase": "I am in between jobs right now. ",
-                            "translation": "Estoy en medio de puestos de trabajo ahora mismo."
+                            "translation_spanish": "Estoy en medio de puestos de trabajo ahora mismo."
                         },
                         {
                             "phrase": "I am a retired nurse.",
-                            "translation": "Soy enfermera retirada."
+                            "translation_spanish": "Soy enfermera retirada."
                         },
                         {
                             "phrase": "I’m a college student and work part-time as a bartender",
-                            "translation": "Soy estudiante universitario y trabajo de bar ténder medio tiempo."
+                            "translation_spanish": "Soy estudiante universitario y trabajo de bar ténder medio tiempo."
                         },
                         {
                             "phrase": "I work in a paper factory.",
-                            "translation": "Trabajo en una fábrica de papel."
+                            "translation_spanish": "Trabajo en una fábrica de papel."
                         },
                         {
                             "phrase": "I work in sales for a large telecommunications company.",
-                            "translation": "Trabajo en ventas para una gran compañía de telecomunicaciones."
+                            "translation_spanish": "Trabajo en ventas para una gran compañía de telecomunicaciones."
                         }
                     
                     ]
@@ -511,55 +512,55 @@
                     "phrases": [
                         {
                             "phrase": "I am reading a book.",
-                            "translation": " Estoy leyendo un libro."
+                            "translation_spanish": " Estoy leyendo un libro."
                         },
                         {
                             "phrase": "I am practicing English.",
-                            "translation": "Estoy practicando inglés."
+                            "translation_spanish": "Estoy practicando inglés."
                         },
                         {
                             "phrase": "I am talking on the phone.",
-                            "translation": " Estoy hablando por teléfono."
+                            "translation_spanish": " Estoy hablando por teléfono."
                         },
                         {
                             "phrase": "I am learning to speak English.",
-                            "translation": "Estoy aprendiendo a hablar inglés."
+                            "translation_spanish": "Estoy aprendiendo a hablar inglés."
                         },
                         {
                             "phrase": "I am writing a note.",
-                            "translation": " Estoy escribiendo una nota."
+                            "translation_spanish": " Estoy escribiendo una nota."
                         },
                         {
                             "phrase": "I am cooking dinner",
-                            "translation": "Estoy cocinando la cena."
+                            "translation_spanish": "Estoy cocinando la cena."
                         },
                         {
                             "phrase": "I am cleaning the kitchen.",
-                            "translation": "Estoy limpiando la cocina."
+                            "translation_spanish": "Estoy limpiando la cocina."
                         },
                         {
                             "phrase": "I am washing clothes.",
-                            "translation": "Estoy lavando la ropa."
+                            "translation_spanish": "Estoy lavando la ropa."
                         },
                         {
                             "phrase": "I am driving to work.",
-                            "translation": "Estoy manejando al trabajo."
+                            "translation_spanish": "Estoy manejando al trabajo."
                         },
                         {
                             "phrase": "I am at work.",
-                            "translation": "Estoy en el trabajo."
+                            "translation_spanish": "Estoy en el trabajo."
                         },
                         {
                             "phrase": "I am making an appointment.",
-                            "translation": "Estoy haciendo una cita."
+                            "translation_spanish": "Estoy haciendo una cita."
                         },
                         {
                             "phrase": "I am paying bills online.",
-                            "translation": "Estoy pagando las cuentas en línea."
+                            "translation_spanish": "Estoy pagando las cuentas en línea."
                         },
                         {
                             "phrase": "I am chatting with my friends on Skype.",
-                            "translation": "Estoy charlando con mis amigos vía Skype."
+                            "translation_spanish": "Estoy charlando con mis amigos vía Skype."
                         }
                     ]
                 },
@@ -569,15 +570,15 @@
                     "phrases": [
                         {
                             "phrase": "Nothing",
-                            "translation": "Nada"
+                            "translation_spanish": "Nada"
                         },
                         {
                             "phrase": "Nothing much",
-                            "translation": "Nada interesante"
+                            "translation_spanish": "Nada interesante"
                         },
                         {
                             "phrase": "Not much",
-                            "translation": " No mucho"
+                            "translation_spanish": " No mucho"
                         }
                     
                     ]
@@ -593,35 +594,35 @@
                     "phrases": [
                         {
                             "phrase": "I went…",
-                            "translation": " Fui…"
+                            "translation_spanish": " Fui…"
                         },
                         {
                             "phrase": "I ate…",
-                            "translation": "Comí…"
+                            "translation_spanish": "Comí…"
                         },
                         {
                             "phrase": "I was…",
-                            "translation": "Estaba…/Era…"
+                            "translation_spanish": "Estaba…/Era…"
                         },
                         {
                             "phrase": "I read…",
-                            "translation": "Leí…"
+                            "translation_spanish": "Leí…"
                         },
                         {
                             "phrase": "I played…",
-                            "translation": " Jugué…"
+                            "translation_spanish": " Jugué…"
                         },
                         {
                             "phrase": "I saw…",
-                            "translation": "Vi…"
+                            "translation_spanish": "Vi…"
                         },
                         {
                             "phrase": "I talked to…",
-                            "translation": "Hablé con…"
+                            "translation_spanish": "Hablé con…"
                         },
                         {
                             "phrase": "I worked…",
-                            "translation": "Trabajé…"
+                            "translation_spanish": "Trabajé…"
                         }
                     ]
                 },
@@ -631,23 +632,23 @@
                     "phrases": [
                         {
                             "phrase": "I went to work.",
-                            "translation": "Fui al trabajo."
+                            "translation_spanish": "Fui al trabajo."
                         },
                         {
                             "phrase": "I ate spaghetti for lunch.",
-                            "translation": "Comí espagueti para el almuerzo."
+                            "translation_spanish": "Comí espagueti para el almuerzo."
                         },
                         {
                             "phrase": "I read two books over the weekend.",
-                            "translation": "Leí dos libros esta semana."
+                            "translation_spanish": "Leí dos libros esta semana."
                         },
                         {
                             "phrase": "I saw a movie.",
-                            "translation": "Vi una película."
+                            "translation_spanish": "Vi una película."
                         },
                         {
                             "phrase": "I talked to my friend.",
-                            "translation": "Hablé con mi amigo."
+                            "translation_spanish": "Hablé con mi amigo."
                         }
                     
                     ]
@@ -657,43 +658,43 @@
                     "phrases": [
                         {
                             "phrase": "Yesterday…",
-                            "translation": "Ayer…"
+                            "translation_spanish": "Ayer…"
                         },
                         {
                             "phrase": "Two days ago…",
-                            "translation": "Dos días atrás…"
+                            "translation_spanish": "Dos días atrás…"
                         },
                         {
                             "phrase": "Seven years ago…",
-                            "translation": "Hace siete años…"
+                            "translation_spanish": "Hace siete años…"
                         },
                         {
                             "phrase": "An hour ago…",
-                            "translation": "Hace una hora…"
+                            "translation_spanish": "Hace una hora…"
                         },
                         {
                             "phrase": "A little bit ago…",
-                            "translation": "Un poco atrás…/Hace un rato…"
+                            "translation_spanish": "Un poco atrás…/Hace un rato…"
                         },
                         {
                             "phrase": "Last week…",
-                            "translation": "La semana pasada…"
+                            "translation_spanish": "La semana pasada…"
                         },
                         {
                             "phrase": "Last month…",
-                            "translation": "El mes pasado…"
+                            "translation_spanish": "El mes pasado…"
                         },
                         {
                             "phrase": "Last year…",
-                            "translation": "El año pasado…"
+                            "translation_spanish": "El año pasado…"
                         },
                         {
                             "phrase": "When I was a kid…",
-                            "translation": "Cuando era un niño…"
+                            "translation_spanish": "Cuando era un niño…"
                         },
                         {
                             "phrase": "When I was growing up…",
-                            "translation": "Cuando estaba creciendo…"
+                            "translation_spanish": "Cuando estaba creciendo…"
                         }
                     
                     ]
@@ -709,11 +710,11 @@
                     "phrases": [
                         {
                             "phrase": "I will…",
-                            "translation": " Yo + verbo en el futuro…"
+                            "translation_spanish": " Yo + verbo en el futuro…"
                         },
                         {
                             "phrase": "I am going to…",
-                            "translation": "Voy a …"
+                            "translation_spanish": "Voy a …"
                         }
                     ]
                 },
@@ -722,27 +723,27 @@
                     "phrases": [
                         {
                             "phrase": "Tomorrow…",
-                            "translation": "Mañana…"
+                            "translation_spanish": "Mañana…"
                         },
                         {
                             "phrase": "Next week…",
-                            "translation": "La semana que viene/entra…"
+                            "translation_spanish": "La semana que viene/entra…"
                         },
                         {
                             "phrase": "Next month…",
-                            "translation": "El mes que viene…"
+                            "translation_spanish": "El mes que viene…"
                         },
                         {
                             "phrase": "Next year…",
-                            "translation": "El próximo año…"
+                            "translation_spanish": "El próximo año…"
                         },
                         {
                             "phrase": "In a few years…",
-                            "translation": "En unos años…"
+                            "translation_spanish": "En unos años…"
                         },
                         {
                             "phrase": "When I retire…",
-                            "translation": "Cuando me retire…"
+                            "translation_spanish": "Cuando me retire…"
                         }
                     ]
                 },
@@ -752,31 +753,31 @@
                     "phrases": [
                         {
                             "phrase": "I will go on vacation in June.",
-                            "translation": "Yo me iré de vacaciones en junio."
+                            "translation_spanish": "Yo me iré de vacaciones en junio."
                         },
                         {
                             "phrase": "I will meet with my friends on Friday.",
-                            "translation": "Me encontraré con mis amigos el viernes."
+                            "translation_spanish": "Me encontraré con mis amigos el viernes."
                         },
                         {
                             "phrase": "I will go shopping next week.",
-                            "translation": "Iré de compras la semana que viene."
+                            "translation_spanish": "Iré de compras la semana que viene."
                         },
                         {
                             "phrase": "Tomorrow I am going swimming. ",
-                            "translation": "Mañana voy a nadar."
+                            "translation_spanish": "Mañana voy a nadar."
                         },
                         {
                             "phrase": "Next year I am moving to Boston.",
-                            "translation": "El año que viene, me mudaré a Boston."
+                            "translation_spanish": "El año que viene, me mudaré a Boston."
                         },
                         {
                             "phrase": "I am going to get married in a few years.",
-                            "translation": " Voy a casarme en unos pocos años."
+                            "translation_spanish": " Voy a casarme en unos pocos años."
                         },
                         {
                             "phrase": "When I retire I am going to travel a lot.",
-                            "translation": "Cuando me retire, voy a viajar mucho."
+                            "translation_spanish": "Cuando me retire, voy a viajar mucho."
                         }
                     ]
                 }
@@ -791,19 +792,19 @@
                     "phrases": [
                         {
                             "phrase": "I ______ every day.",
-                            "translation": " Yo ________ cada día."
+                            "translation_spanish": " Yo ________ cada día."
                         },
                         {
                             "phrase": "On ____ and ________, I ________.",
-                            "translation": "Los _____ y_______, yo _____. "
+                            "translation_spanish": "Los _____ y_______, yo _____. "
                         },
                         {
                             "phrase": "Every _________, I ___________.",
-                            "translation": "Todos los _______, yo ______."
+                            "translation_spanish": "Todos los _______, yo ______."
                         },
                         {
                             "phrase": "I ___________ three times a week.",
-                            "translation": "Yo _______ tres veces a la semana."
+                            "translation_spanish": "Yo _______ tres veces a la semana."
                         }
                     ]
                 },
@@ -813,47 +814,47 @@
                     "phrases": [
                         {
                             "phrase": "I wake up at 7am. ",
-                            "translation": "Me despierto a las 7:00 a. m."
+                            "translation_spanish": "Me despierto a las 7:00 a. m."
                         },
                         {
                             "phrase": "I work out four days a week.",
-                            "translation": "Hago ejercicio cuatro días a la semana."
+                            "translation_spanish": "Hago ejercicio cuatro días a la semana."
                         },
                         {
                             "phrase": "I play baseball every Sunday.",
-                            "translation": "Juego béisbol cada domingo."
+                            "translation_spanish": "Juego béisbol cada domingo."
                         },
                         {
                             "phrase": "I go to work every day.",
-                            "translation": "Voy al trabajo todos los días."
+                            "translation_spanish": "Voy al trabajo todos los días."
                         },
                         {
                             "phrase": "I go to school five days a week. ",
-                            "translation": "oy al colegio cinco días a la semana."
+                            "translation_spanish": "oy al colegio cinco días a la semana."
                         },
                         {
                             "phrase": "I brush my teeth every day.",
-                            "translation": "Me cepillo los dientes todos los días."
+                            "translation_spanish": "Me cepillo los dientes todos los días."
                         },
                         {
                             "phrase": "I drink coffee every morning.",
-                            "translation": "Bebo café cada mañana."
+                            "translation_spanish": "Bebo café cada mañana."
                         },
                         {
                             "phrase": "On Tuesdays and Thursdays, I go to English class.",
-                            "translation": "Los martes y jueves, voy a clases de inglés."
+                            "translation_spanish": "Los martes y jueves, voy a clases de inglés."
                         },
                         {
                             "phrase": "I take a shower every night.",
-                            "translation": "Tomo un baño cada noche."
+                            "translation_spanish": "Tomo un baño cada noche."
                         },
                         {
                             "phrase": "II eat three times a day.",
-                            "translation": "Como tres veces al día.."
+                            "translation_spanish": "Como tres veces al día.."
                         },
                         {
                             "phrase": "I go to Italy every summer",
-                            "translation": "Voy a Italia cada verano."
+                            "translation_spanish": "Voy a Italia cada verano."
                         }
                     ]
                 }
@@ -868,11 +869,11 @@
                     "phrases": [
                         {
                             "phrase": "What do you like to do for fun?",
-                            "translation": "¿Qué te gusta hacer para divertirte?"
+                            "translation_spanish": "¿Qué te gusta hacer para divertirte?"
                         },
                         {
                             "phrase": "What do you like to do in your free time?",
-                            "translation": "¿Qué te gusta hacer en tu tiempo libre?"
+                            "translation_spanish": "¿Qué te gusta hacer en tu tiempo libre?"
                         }
                     ]
                 },
@@ -881,23 +882,23 @@
                     "phrases": [
                         {
                             "phrase": "In my free time, I…",
-                            "translation": "En mi tiempo libre, yo…"
+                            "translation_spanish": "En mi tiempo libre, yo…"
                         },
                         {
                             "phrase": "I like _______ in my free time.",
-                            "translation": "Me gusta ___________ en mi tiempo libre."
+                            "translation_spanish": "Me gusta ___________ en mi tiempo libre."
                         },
                         {
                             "phrase": "I _______ every week",
-                            "translation": "Yo ___________ cada semana."
+                            "translation_spanish": "Yo ___________ cada semana."
                         },
                         {
                             "phrase": "I am learning to…",
-                            "translation": "Estoy aprendiendo a…"
+                            "translation_spanish": "Estoy aprendiendo a…"
                         },
                         {
                             "phrase": "When I’m not working, I like to… ",
-                            "translation": "Cuando no estoy trabajando, me gusta…"
+                            "translation_spanish": "Cuando no estoy trabajando, me gusta…"
                         }
                     ]
                 },
@@ -907,31 +908,31 @@
                     "phrases": [
                         {
                             "phrase": "In my free time, I like to work out at the gym. ",
-                            "translation": "En mi tiempo libre, me gusta entrenar en el gimnasio."
+                            "translation_spanish": "En mi tiempo libre, me gusta entrenar en el gimnasio."
                         },
                         {
                             "phrase": "I like to spend time with my family and friends in my free time.",
-                            "translation": "Me gusta pasar tiempo con mi familia y amigos en mi tiempo libre."
+                            "translation_spanish": "Me gusta pasar tiempo con mi familia y amigos en mi tiempo libre."
                         },
                         {
                             "phrase": "I am learning to play the guitar.",
-                            "translation": "Estoy aprendiendo a tocar guitarra."
+                            "translation_spanish": "Estoy aprendiendo a tocar guitarra."
                         },
                         {
                             "phrase": "When I’m not working, I like to run and play soccer.",
-                            "translation": "Cuando no estoy trabajando, me gusta correr y jugar fútbol."
+                            "translation_spanish": "Cuando no estoy trabajando, me gusta correr y jugar fútbol."
                         },
                         {
                             "phrase": "I like to read novels in my free time.",
-                            "translation": "Me gusta leer novelas en mi tiempo libre."
+                            "translation_spanish": "Me gusta leer novelas en mi tiempo libre."
                         },
                         {
                             "phrase": "I go to a cooking class every week.",
-                            "translation": "Voy a clases de cocina cada semana."
+                            "translation_spanish": "Voy a clases de cocina cada semana."
                         },
                         {
                             "phrase": "I am learning to knit. I not very good at it yet but I am getting better",
-                            "translation": "Estoy aprendiendo a tejer. No soy muy bueno aún pero voy mejorando."
+                            "translation_spanish": "Estoy aprendiendo a tejer. No soy muy bueno aún pero voy mejorando."
                         }
                     ]
                 }
@@ -946,31 +947,31 @@
                     "phrases": [
                         {
                             "phrase": "There are ____ people in my family.",
-                            "translation": "Hay ____ personas en mi familia."
+                            "translation_spanish": "Hay ____ personas en mi familia."
                         },
                         {
                             "phrase": "I live with my _______ and _______.",
-                            "translation": "Vivo con mi_____ y _______."
+                            "translation_spanish": "Vivo con mi_____ y _______."
                         },
                         {
                             "phrase": "I have _______ brothers and sisters.",
-                            "translation": "Tengo _______ hermanos y hermanas. "
+                            "translation_spanish": "Tengo _______ hermanos y hermanas. "
                         },
                         {
                             "phrase": "I have ______ children.",
-                            "translation": "Tengo ______ hijos"
+                            "translation_spanish": "Tengo ______ hijos"
                         },
                         {
                             "phrase": "I have a small/large family.",
-                            "translation": "Tengo una pequeña/gran familia."
+                            "translation_spanish": "Tengo una pequeña/gran familia."
                         },
                         {
                             "phrase": "I live close to my family.",
-                            "translation": "Vivo cerca de mi familia."
+                            "translation_spanish": "Vivo cerca de mi familia."
                         },
                         {
                             "phrase": "I live far away from my family. ",
-                            "translation": "Vivo lejos de mi familia."
+                            "translation_spanish": "Vivo lejos de mi familia."
                         }
                     ]
                 },
@@ -979,23 +980,23 @@
                     "phrases": [
                         {
                             "phrase": "How many children do you have?",
-                            "translation": "¿Cuántos hijos tienes?"
+                            "translation_spanish": "¿Cuántos hijos tienes?"
                         },
                         {
                             "phrase": "Do you have a large or small family?",
-                            "translation": "¿Tiene una gran o pequeña familia?"
+                            "translation_spanish": "¿Tiene una gran o pequeña familia?"
                         },
                         {
                             "phrase": "Do you live near your extended family?",
-                            "translation": "¿Vives cerca de tu familia extendida?"
+                            "translation_spanish": "¿Vives cerca de tu familia extendida?"
                         },
                         {
                             "phrase": "Did you grow up here?",
-                            "translation": "¿Creciste aquí?"
+                            "translation_spanish": "¿Creciste aquí?"
                         },
                         {
                             "phrase": "How many siblings do you have? ",
-                            "translation": "¿Cuántos hermanos tienes?"
+                            "translation_spanish": "¿Cuántos hermanos tienes?"
                         }
                     ]
                 }
@@ -1011,15 +1012,15 @@
                     "phrases": [
                         {
                             "phrase": "After a horrible break up and divorce, I am happy to be single again.",
-                            "translation": "Después de un horrible rompimiento y divorcio, estoy feliz de estar soltero otra vez."
+                            "translation_spanish": "Después de un horrible rompimiento y divorcio, estoy feliz de estar soltero otra vez."
                         },
                         {
                             "phrase": " We have been happily married for 10 years.",
-                            "translation": "Hemos estado felizmente casados por 10 años."
+                            "translation_spanish": "Hemos estado felizmente casados por 10 años."
                         },
                         {
                             "phrase": " My brother is not in a relationship. He likes to hook up with random girls.",
-                            "translation": "Mi hermano no está en una relación. A él le gusta tener sexo con chicas al azar."
+                            "translation_spanish": "Mi hermano no está en una relación. A él le gusta tener sexo con chicas al azar."
                         }
                     ]
                 },
@@ -1028,23 +1029,23 @@
                     "phrases": [
                         {
                             "phrase": "Are you single?",
-                            "translation": " ¿Eres soltero?"
+                            "translation_spanish": " ¿Eres soltero?"
                         },
                         {
                             "phrase": "How long have you been married together?",
-                            "translation": "¿Cuánto tiempo llevan casados juntos?"
+                            "translation_spanish": "¿Cuánto tiempo llevan casados juntos?"
                         },
                         {
                             "phrase": "When did you get divorced?",
-                            "translation": "¿Cuándo se divorciaron?"
+                            "translation_spanish": "¿Cuándo se divorciaron?"
                         },
                         {
                             "phrase": "Have you been friends for a long time?",
-                            "translation": "¿Han sido amigos por mucho tiempo?"
+                            "translation_spanish": "¿Han sido amigos por mucho tiempo?"
                         },
                         {
                             "phrase": "How did you meet each other?",
-                            "translation": " ¿Cómo se conocieron?"
+                            "translation_spanish": " ¿Cómo se conocieron?"
                         }
                     ]
                 }
@@ -1059,51 +1060,51 @@
                     "phrases": [
                         {
                             "phrase": "My favorite food is______.",
-                            "translation": "Mi comida favorita es_____."
+                            "translation_spanish": "Mi comida favorita es_____."
                         },
                         {
                             "phrase": "My least favorite food is __________.",
-                            "translation": "Mi comida menos favorita es _______."
+                            "translation_spanish": "Mi comida menos favorita es _______."
                         },
                         {
                             "phrase": "I like to eat ______.",
-                            "translation": "Me gusta comer ______."
+                            "translation_spanish": "Me gusta comer ______."
                         },
                         {
                             "phrase": "I don’t like to eat _______.",
-                            "translation": "No me gusta comer _____."
+                            "translation_spanish": "No me gusta comer _____."
                         },
                         {
                             "phrase": "I have never tried __________.",
-                            "translation": "Nunca he probado _______."
+                            "translation_spanish": "Nunca he probado _______."
                         },
                         {
                             "phrase": "I like to cook _________.",
-                            "translation": "Me gusta cocinar _______."
+                            "translation_spanish": "Me gusta cocinar _______."
                         },
                         {
                             "phrase": "My _____ cooks the best __________.",
-                            "translation": "Mi _______ cocina el/la mejor _____. "
+                            "translation_spanish": "Mi _______ cocina el/la mejor _____. "
                         },
                         {
                             "phrase": "I don’t know how to cook _______.",
-                            "translation": "No sé cómo cocinar________."
+                            "translation_spanish": "No sé cómo cocinar________."
                         },
                         {
                             "phrase": "I would like to learn to cook ________. ",
-                            "translation": "Me gustaría aprender a cocinar _____."
+                            "translation_spanish": "Me gustaría aprender a cocinar _____."
                         },
                         {
                             "phrase": "I don’t cook.",
-                            "translation": "No cocino."
+                            "translation_spanish": "No cocino."
                         },
                         {
                             "phrase": "I only know how to cook ________ and ________. ",
-                            "translation": "Solo sé cómo cocinar____ y ______."
+                            "translation_spanish": "Solo sé cómo cocinar____ y ______."
                         },
                         {
                             "phrase": "This is delicious.",
-                            "translation": "Esto está delicioso."
+                            "translation_spanish": "Esto está delicioso."
                         }
                     ]
                 },
@@ -1113,23 +1114,23 @@
                     "phrases": [
                         {
                             "phrase": "My favorite food is spaghetti with meatballs.",
-                            "translation": "Mi comida favorita es espagueti con albóndigas."
+                            "translation_spanish": "Mi comida favorita es espagueti con albóndigas."
                         },
                         {
                             "phrase": "My least favorite food is sushi.",
-                            "translation": "Mi comida menos favorita es el sushi."
+                            "translation_spanish": "Mi comida menos favorita es el sushi."
                         },
                         {
                             "phrase": " I like to eat Chinese food.",
-                            "translation": "Me gusta comer comida china."
+                            "translation_spanish": "Me gusta comer comida china."
                         },
                         {
                             "phrase": "I like to cook Mexican food. Spicy food is my favorite.",
-                            "translation": "Me gusta cocinar comida mexicana. La comida picante es mi favorita."
+                            "translation_spanish": "Me gusta cocinar comida mexicana. La comida picante es mi favorita."
                         },
                         {
                             "phrase": "My mom cooks the best potato salad.",
-                            "translation": "Mi mamá cocina la mejor ensalada de papas."
+                            "translation_spanish": "Mi mamá cocina la mejor ensalada de papas."
                         }
                     ]
                 },
@@ -1138,35 +1139,35 @@
                     "phrases": [
                         {
                             "phrase": "What’s your favorite food?",
-                            "translation": "¿Cuál es tu comida favorita?"
+                            "translation_spanish": "¿Cuál es tu comida favorita?"
                         },
                         {
                             "phrase": "What kind of food do you like?",
-                            "translation": "¿Qué clases de comidas te gustan?"
+                            "translation_spanish": "¿Qué clases de comidas te gustan?"
                         },
                         {
                             "phrase": " Do you like _______ food?",
-                            "translation": "¿Te gusta la comida _______ ?"
+                            "translation_spanish": "¿Te gusta la comida _______ ?"
                         },
                         {
                             "phrase": " Are you a good cook?",
-                            "translation": "¿Eres un buen cocinero?"
+                            "translation_spanish": "¿Eres un buen cocinero?"
                         },
                         {
                             "phrase": "What are you good at cooking?",
-                            "translation": "¿En qué eres bueno cocinando?"
+                            "translation_spanish": "¿En qué eres bueno cocinando?"
                         },
                         {
                             "phrase": "Have you ever tried ______?",
-                            "translation": "¿Has probado __________?"
+                            "translation_spanish": "¿Has probado __________?"
                         },
                         {
                             "phrase": "Can you give me the recipe for this?",
-                            "translation": "¿Puedes darme la receta de esto?"
+                            "translation_spanish": "¿Puedes darme la receta de esto?"
                         },
                         {
                             "phrase": "What is in this food?",
-                            "translation": "¿Qué hay en esta comida?"
+                            "translation_spanish": "¿Qué hay en esta comida?"
                         }
                     ]
                 }
@@ -1181,35 +1182,35 @@
                     "phrases": [
                         {
                             "phrase": "It’s sunny. ",
-                            "translation": "Está soleado."
+                            "translation_spanish": "Está soleado."
                         },
                         {
                             "phrase": "It’s cloudy..",
-                            "translation": "Está nublado."
+                            "translation_spanish": "Está nublado."
                         },
                         {
                             "phrase": "It’s rainy.",
-                            "translation": "Está llovioso."
+                            "translation_spanish": "Está llovioso."
                         },
                         {
                             "phrase": "It’s hot out today. ",
-                            "translation": "Está muy caliente hoy"
+                            "translation_spanish": "Está muy caliente hoy"
                         },
                         {
                             "phrase": "It’s freezing today..",
-                            "translation": "Hoy está congelado."
+                            "translation_spanish": "Hoy está congelado."
                         },
                         {
                             "phrase": "I hate ____ weather. cold, hot, rainy, etc.",
-                            "translation": "Odio el clima ____. Frío, caliente, lluvioso, etc."
+                            "translation_spanish": "Odio el clima ____. Frío, caliente, lluvioso, etc."
                         },
                         {
                             "phrase": "I love this weather. ",
-                            "translation": "Amo este clima."
+                            "translation_spanish": "Amo este clima."
                         },
                         {
                             "phrase": "I’m sick and tired of this weather",
-                            "translation": "Estoy enfermo y cansado de este clima."
+                            "translation_spanish": "Estoy enfermo y cansado de este clima."
                         }
                     ]
                 },
@@ -1218,35 +1219,35 @@
                     "phrases": [
                         {
                             "phrase": "What’s the weather like today?",
-                            "translation": "¿Cómo está el clima hoy?"
+                            "translation_spanish": "¿Cómo está el clima hoy?"
                         },
                         {
                             "phrase": "Is it going to ______? rain, snow, be hot, be cold, storm, etc. ",
-                            "translation": "¿Va a ______? Llover, nevar, estar caliente, estar frío, haber una tormenta, etc."
+                            "translation_spanish": "¿Va a ______? Llover, nevar, estar caliente, estar frío, haber una tormenta, etc."
                         },
                         {
                             "phrase": "Do you like this weather?",
-                            "translation": "¿Te gusta este clima?"
+                            "translation_spanish": "¿Te gusta este clima?"
                         },
                         {
                             "phrase": "Do you like hot weather?",
-                            "translation": "¿Te gusta el clima caluroso?"
+                            "translation_spanish": "¿Te gusta el clima caluroso?"
                         },
                         {
                             "phrase": "When will this weather ever end?",
-                            "translation": "¿Cuándo va a terminar este clima?"
+                            "translation_spanish": "¿Cuándo va a terminar este clima?"
                         },
                         {
                             "phrase": "Is it supposed to _______ tomorrow? rain, snow, be hot, etc.",
-                            "translation": "¿Se supone que va a _______ mañana? llover, nevar, hacer calor, etc."
+                            "translation_spanish": "¿Se supone que va a _______ mañana? llover, nevar, hacer calor, etc."
                         },
                         {
                             "phrase": "What’s your favorite season?",
-                            "translation": "¿Cuál es tu estación favorita?"
+                            "translation_spanish": "¿Cuál es tu estación favorita?"
                         },
                         {
                             "phrase": "Isn’t it beautiful today?",
-                            "translation": "¿No es este un hermoso día"
+                            "translation_spanish": "¿No es este un hermoso día"
                         }
                     ]
                 }
@@ -1261,19 +1262,19 @@
                     "phrases": [
                         {
                             "phrase": "I take the bus to _____ every day. ",
-                            "translation": "Tomo el bus para _____ todos los días."
+                            "translation_spanish": "Tomo el bus para _____ todos los días."
                         },
                         {
                             "phrase": "I drive to ________ every day.",
-                            "translation": "Manejo a ________ cada día."
+                            "translation_spanish": "Manejo a ________ cada día."
                         },
                         {
                             "phrase": "I rarely ________ to work. It is too far away",
-                            "translation": "Raramente yo ________ al trabajo. Es muy lejos."
+                            "translation_spanish": "Raramente yo ________ al trabajo. Es muy lejos."
                         },
                         {
                             "phrase": "I don’t take the ______. It does not have a reliable schedule.",
-                            "translation": "Yo no tomo el ______. No tiene un horario confiable."
+                            "translation_spanish": "Yo no tomo el ______. No tiene un horario confiable."
                         }
                     ]
                 },
@@ -1283,19 +1284,19 @@
                     "phrases": [
                         {
                             "phrase": "I take the bus to work every day. ",
-                            "translation": "Tomo el bus al trabajo todos los días."
+                            "translation_spanish": "Tomo el bus al trabajo todos los días."
                         },
                         {
                             "phrase": "My commute takes two hours. There is always a lot of traffic.",
-                            "translation": "Mi viaje diario toma dos horas. Siempre hay mucho tráfico."
+                            "translation_spanish": "Mi viaje diario toma dos horas. Siempre hay mucho tráfico."
                         },
                         {
                             "phrase": "I ride my bike to work. ",
-                            "translation": "Manejo mi bicicleta al trabajo."
+                            "translation_spanish": "Manejo mi bicicleta al trabajo."
                         },
                         {
                             "phrase": " We usually walk to stores. If we have to go far we drive in the car",
-                            "translation": "Usualmente, caminamos a las tiendas. Si tenemos que irnos lejos, manejamos en el carro."
+                            "translation_spanish": "Usualmente, caminamos a las tiendas. Si tenemos que irnos lejos, manejamos en el carro."
                         }
                     ]
                 },
@@ -1304,39 +1305,39 @@
                     "phrases": [
                         {
                             "phrase": "How do you get to school?",
-                            "translation": "¿Cómo te vas a la escuela?"
+                            "translation_spanish": "¿Cómo te vas a la escuela?"
                         },
                         {
                             "phrase": "How do you get to work?",
-                            "translation": "¿Cómo te vas al trabajo?"
+                            "translation_spanish": "¿Cómo te vas al trabajo?"
                         },
                         {
                             "phrase": "Do you take public transportation?",
-                            "translation": "¿Tomas el transporte público?"
+                            "translation_spanish": "¿Tomas el transporte público?"
                         },
                         {
                             "phrase": "Do you have a long/short commute?",
-                            "translation": "¿Tienes un largo/corto viaje diario?"
+                            "translation_spanish": "¿Tienes un largo/corto viaje diario?"
                         },
                         {
                             "phrase": "Do you drive to work every day?",
-                            "translation": "¿Manejas al trabajo todos los días?"
+                            "translation_spanish": "¿Manejas al trabajo todos los días?"
                         },
                         {
                             "phrase": "Do you use public transportation?",
-                            "translation": "¿Usas el transporte público?"
+                            "translation_spanish": "¿Usas el transporte público?"
                         },
                         {
                             "phrase": "Where’s the closest bus stop to here?",
-                            "translation": "¿Dónde está la parada de autobús más cercana?"
+                            "translation_spanish": "¿Dónde está la parada de autobús más cercana?"
                         },
                         {
                             "phrase": "Does this bus/train go to ___?",
-                            "translation": "¿Este bus/tren va a ___?"
+                            "translation_spanish": "¿Este bus/tren va a ___?"
                         },
                         {
                             "phrase": "What time does the next _____ come? bus, train, etc.",
-                            "translation": "¿A qué hora viene el siguiente _____? bus, tren, etc."
+                            "translation_spanish": "¿A qué hora viene el siguiente _____? bus, tren, etc."
                         }
                     ]
                 }
@@ -1351,31 +1352,31 @@
                     "phrases": [
                         {
                             "phrase": "What time is it?",
-                            "translation": "¿Qué hora es?"
+                            "translation_spanish": "¿Qué hora es?"
                         },
                         {
                             "phrase": "What time do you work?",
-                            "translation": "¿A qué hora trabajas?"
+                            "translation_spanish": "¿A qué hora trabajas?"
                         },
                         {
                             "phrase": "What time do you go to school?",
-                            "translation": "¿A qué hora vas a la escuela?"
+                            "translation_spanish": "¿A qué hora vas a la escuela?"
                         },
                         {
                             "phrase": "What time do you get out of school?",
-                            "translation": "¿A qué hora sales del colegio?"
+                            "translation_spanish": "¿A qué hora sales del colegio?"
                         },
                         {
                             "phrase": "What time does the movie start?",
-                            "translation": "¿A qué hora empieza la película?"
+                            "translation_spanish": "¿A qué hora empieza la película?"
                         },
                         {
                             "phrase": "What time does the class end?",
-                            "translation": "¿A qué hora termina la clase?"
+                            "translation_spanish": "¿A qué hora termina la clase?"
                         },
                         {
                             "phrase": "When does the aerobics class meet?",
-                            "translation": "¿A qué hora es la clase aeróbica?"
+                            "translation_spanish": "¿A qué hora es la clase aeróbica?"
                         }
                     ]
                 }
@@ -1391,19 +1392,19 @@
                     "phrases": [
                         {
                             "phrase": "The school is in between South Ave. and Birch Street.",
-                            "translation": "La escuela está entre la Avenida Sur y la calle Birch"
+                            "translation_spanish": "La escuela está entre la Avenida Sur y la calle Birch"
                         },
                         {
                             "phrase": "Go straight for three blocks and then turn right. It is the third house from the corner",
-                            "translation": "Vaya derecho por tres cuadras y luego cruce a la derecha. Es la tercera casa desde la esquina"
+                            "translation_spanish": "Vaya derecho por tres cuadras y luego cruce a la derecha. Es la tercera casa desde la esquina"
                         },
                         {
                             "phrase": "McDonalds is opposite Taco Bell in the food court at the mall.",
-                            "translation": "McDonald’s está opuesto a Taco Bell en la corte de la comida en el centro comercial."
+                            "translation_spanish": "McDonald’s está opuesto a Taco Bell en la corte de la comida en el centro comercial."
                         },
                         {
                             "phrase": "I live close to West Tower on Broadway Ave.",
-                            "translation": "Yo vivo cerca de West Tower en la Avenida Broadway."
+                            "translation_spanish": "Yo vivo cerca de West Tower en la Avenida Broadway."
                         }
                     ]
                 },
@@ -1412,27 +1413,27 @@
                     "phrases": [
                         {
                             "phrase": "Where is ___________?",
-                            "translation": "¿Dónde está ___________?"
+                            "translation_spanish": "¿Dónde está ___________?"
                         },
                         {
                             "phrase": "How do you get to _______?",
-                            "translation": "¿Cómo se llega a _______?"
+                            "translation_spanish": "¿Cómo se llega a _______?"
                         },
                         {
                             "phrase": "Where is the nearest _______?",
-                            "translation": "¿Dónde está el _______ más cercano?"
+                            "translation_spanish": "¿Dónde está el _______ más cercano?"
                         },
                         {
                             "phrase": "Can you tell me how to get to _____?",
-                            "translation": "¿Me puede decir cómo llegar a _____?"
+                            "translation_spanish": "¿Me puede decir cómo llegar a _____?"
                         },
                         {
                             "phrase": "Could you tell me where the _______ is?",
-                            "translation": "¿Podría decirme donde está el _______?"
+                            "translation_spanish": "¿Podría decirme donde está el _______?"
                         },
                         {
                             "phrase": "Is there a ________ close by?",
-                            "translation": "¿Hay un ________ cerca?"
+                            "translation_spanish": "¿Hay un ________ cerca?"
                         }
                     ]
                 }
@@ -1447,27 +1448,27 @@
                     "phrases": [
                         {
                             "phrase": "What day is today?",
-                            "translation": "¿Qué día es hoy?"
+                            "translation_spanish": "¿Qué día es hoy?"
                         },
                         {
                             "phrase": "What is today’s date?",
-                            "translation": "¿Cuál es la fecha de hoy?"
+                            "translation_spanish": "¿Cuál es la fecha de hoy?"
                         },
                         {
                             "phrase": "What day do you ___________?",
-                            "translation": "¿Qué día te ___________?"
+                            "translation_spanish": "¿Qué día te ___________?"
                         },
                         {
                             "phrase": "How many days do you _____ a week? work, go to school, study, etc.",
-                            "translation": " ¿Cuántos días _____ a la semana? Trabajas, vas a la escuela, estudias, etc."
+                            "translation_spanish": " ¿Cuántos días _____ a la semana? Trabajas, vas a la escuela, estudias, etc."
                         },
                         {
                             "phrase": "What year were you born?",
-                            "translation": "¿En qué año naciste?"
+                            "translation_spanish": "¿En qué año naciste?"
                         },
                         {
                             "phrase": "What year did you _______? go to Brazil, move to New York, etc.",
-                            "translation": "¿En qué año _______? fuiste a Brasil, te mudaste a Nueva York, etc."
+                            "translation_spanish": "¿En qué año _______? fuiste a Brasil, te mudaste a Nueva York, etc."
                         }
                     ]
                 }
@@ -1482,15 +1483,15 @@
                     "phrases": [
                         {
                             "phrase": "How many eggs are in a dozen?",
-                            "translation": "¿Cuántos huevos hay en una docena?"
+                            "translation_spanish": "¿Cuántos huevos hay en una docena?"
                         },
                         {
                             "phrase": "How many students are in the class?",
-                            "translation": "¿Cuántos estudiantes hay en la clase?"
+                            "translation_spanish": "¿Cuántos estudiantes hay en la clase?"
                         },
                         {
                             "phrase": "How many people went to the party?",
-                            "translation": "¿¿Cuántas personas fueron a la fiesta?"
+                            "translation_spanish": "¿¿Cuántas personas fueron a la fiesta?"
                         }
                     ]
                 },
@@ -1499,27 +1500,27 @@
                     "phrases": [
                         {
                             "phrase": "How much does a box of cookies cost?",
-                            "translation": "¿Cuánto cuesta una caja de galletas?"
+                            "translation_spanish": "¿Cuánto cuesta una caja de galletas?"
                         },
                         {
                             "phrase": "How much do I owe you?",
-                            "translation": "¿Cuánto le debo?"
+                            "translation_spanish": "¿Cuánto le debo?"
                         },
                         {
                             "phrase": "How much does it cost?",
-                            "translation": "¿Cuánto cuesta?"
+                            "translation_spanish": "¿Cuánto cuesta?"
                         },
                         {
                             "phrase": "How much do you make an hour?",
-                            "translation": "¿Cuánto dinero haces en una hora?"
+                            "translation_spanish": "¿Cuánto dinero haces en una hora?"
                         },
                         {
                             "phrase": "How much did he pay you?",
-                            "translation": "¿Cuánto te pagó?"
+                            "translation_spanish": "¿Cuánto te pagó?"
                         },
                         {
                             "phrase": "How much do you pay for car insurance?",
-                            "translation": "¿Cuánto pagas por el seguro de coche?"
+                            "translation_spanish": "¿Cuánto pagas por el seguro de coche?"
                         }
                     ]
                 }
@@ -1535,23 +1536,23 @@
                     "phrases": [
                         {
                             "phrase": "I am American.",
-                            "translation": "Soy estadounidense"
+                            "translation_spanish": "Soy estadounidense"
                         },
                         {
                             "phrase": "He is French.",
-                            "translation": "Él es el francés."
+                            "translation_spanish": "Él es el francés."
                         },
                         {
                             "phrase": "She is Brazilian",
-                            "translation": "Ella es brasileña."
+                            "translation_spanish": "Ella es brasileña."
                         },
                         {
                             "phrase": "My mother is Spanish. ",
-                            "translation": "Mi madre es española."
+                            "translation_spanish": "Mi madre es española."
                         },
                         {
                             "phrase": "He is Dominican.",
-                            "translation": "Él es dominicano."
+                            "translation_spanish": "Él es dominicano."
                         }
                     ]
                 },
@@ -1560,27 +1561,27 @@
                     "phrases": [
                         {
                             "phrase": "I am from ___________.",
-                            "translation": "Soy de ___________."
+                            "translation_spanish": "Soy de ___________."
                         },
                         {
                             "phrase": "I am from Germany.",
-                            "translation": " Soy de Alemania."
+                            "translation_spanish": " Soy de Alemania."
                         },
                         {
                             "phrase": "He is from Japan.",
-                            "translation": "Él es de Japón."
+                            "translation_spanish": "Él es de Japón."
                         },
                         {
                             "phrase": "She is from New York.",
-                            "translation": " Ella es de Nueva York."
+                            "translation_spanish": " Ella es de Nueva York."
                         },
                         {
                             "phrase": "My grandpa is from Sweden.",
-                            "translation": "Mi abuelo es de Suecia."
+                            "translation_spanish": "Mi abuelo es de Suecia."
                         },
                         {
                             "phrase": "My friend is from Egypt.",
-                            "translation": "Mi amigo es de Egipto."
+                            "translation_spanish": "Mi amigo es de Egipto."
                         }
                     ]
                 },
@@ -1589,7 +1590,7 @@
                     "phrases": [
                         {
                             "phrase": "I live in ___________.",
-                            "translation": "Yo vivo en ___________."
+                            "translation_spanish": "Yo vivo en ___________."
                         }
                     ]
                 },
@@ -1599,19 +1600,19 @@
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
-                            "translation": "Yo vivo en Miami, Florida."
+                            "translation_spanish": "Yo vivo en Miami, Florida."
                         },
                         {
                             "phrase": "He lives in Buenos Aires. ",
-                            "translation": " Él vive en Buenos Aires."
+                            "translation_spanish": " Él vive en Buenos Aires."
                         },
                         {
                             "phrase": "My brother lives in the Philippines.",
-                            "translation": "Mi hermano vive en las Filipinas."
+                            "translation_spanish": "Mi hermano vive en las Filipinas."
                         },
                         {
                             "phrase": "She lives in Los Angeles.",
-                            "translation": "Ella vive en Los Ángeles."
+                            "translation_spanish": "Ella vive en Los Ángeles."
                         }
                     ]
                 }
@@ -1626,23 +1627,23 @@
                     "phrases": [
                         {
                             "phrase": "I am American.",
-                            "translation": "Soy estadounidense"
+                            "translation_spanish": "Soy estadounidense"
                         },
                         {
                             "phrase": "He is French.",
-                            "translation": "Él es el francés."
+                            "translation_spanish": "Él es el francés."
                         },
                         {
                             "phrase": "She is Brazilian",
-                            "translation": "Ella es brasileña."
+                            "translation_spanish": "Ella es brasileña."
                         },
                         {
                             "phrase": "My mother is Spanish. ",
-                            "translation": "Mi madre es española."
+                            "translation_spanish": "Mi madre es española."
                         },
                         {
                             "phrase": "He is Dominican.",
-                            "translation": "Él es dominicano."
+                            "translation_spanish": "Él es dominicano."
                         }
                     ]
                 },
@@ -1651,27 +1652,27 @@
                     "phrases": [
                         {
                             "phrase": "I am from ___________.",
-                            "translation": "Soy de ___________."
+                            "translation_spanish": "Soy de ___________."
                         },
                         {
                             "phrase": "I am from Germany.",
-                            "translation": " Soy de Alemania."
+                            "translation_spanish": " Soy de Alemania."
                         },
                         {
                             "phrase": "He is from Japan.",
-                            "translation": "Él es de Japón."
+                            "translation_spanish": "Él es de Japón."
                         },
                         {
                             "phrase": "She is from New York.",
-                            "translation": " Ella es de Nueva York."
+                            "translation_spanish": " Ella es de Nueva York."
                         },
                         {
                             "phrase": "My grandpa is from Sweden.",
-                            "translation": "Mi abuelo es de Suecia."
+                            "translation_spanish": "Mi abuelo es de Suecia."
                         },
                         {
                             "phrase": "My friend is from Egypt.",
-                            "translation": "Mi amigo es de Egipto."
+                            "translation_spanish": "Mi amigo es de Egipto."
                         }
                     ]
                 },
@@ -1680,7 +1681,7 @@
                     "phrases": [
                         {
                             "phrase": "I live in ___________.",
-                            "translation": "Yo vivo en ___________."
+                            "translation_spanish": "Yo vivo en ___________."
                         }
                     ]
                 },
@@ -1690,19 +1691,19 @@
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
-                            "translation": "Yo vivo en Miami, Florida."
+                            "translation_spanish": "Yo vivo en Miami, Florida."
                         },
                         {
                             "phrase": "He lives in Buenos Aires. ",
-                            "translation": " Él vive en Buenos Aires."
+                            "translation_spanish": " Él vive en Buenos Aires."
                         },
                         {
                             "phrase": "My brother lives in the Philippines.",
-                            "translation": "Mi hermano vive en las Filipinas."
+                            "translation_spanish": "Mi hermano vive en las Filipinas."
                         },
                         {
                             "phrase": "She lives in Los Angeles.",
-                            "translation": "Ella vive en Los Ángeles."
+                            "translation_spanish": "Ella vive en Los Ángeles."
                         }
                     ]
                 }
@@ -1718,23 +1719,23 @@
                     "phrases": [
                         {
                             "phrase": "I am American.",
-                            "translation": "Soy estadounidense"
+                            "translation_spanish": "Soy estadounidense"
                         },
                         {
                             "phrase": "He is French.",
-                            "translation": "Él es el francés."
+                            "translation_spanish": "Él es el francés."
                         },
                         {
                             "phrase": "She is Brazilian",
-                            "translation": "Ella es brasileña."
+                            "translation_spanish": "Ella es brasileña."
                         },
                         {
                             "phrase": "My mother is Spanish. ",
-                            "translation": "Mi madre es española."
+                            "translation_spanish": "Mi madre es española."
                         },
                         {
                             "phrase": "He is Dominican.",
-                            "translation": "Él es dominicano."
+                            "translation_spanish": "Él es dominicano."
                         }
                     ]
                 },
@@ -1743,27 +1744,27 @@
                     "phrases": [
                         {
                             "phrase": "I am from ___________.",
-                            "translation": "Soy de ___________."
+                            "translation_spanish": "Soy de ___________."
                         },
                         {
                             "phrase": "I am from Germany.",
-                            "translation": " Soy de Alemania."
+                            "translation_spanish": " Soy de Alemania."
                         },
                         {
                             "phrase": "He is from Japan.",
-                            "translation": "Él es de Japón."
+                            "translation_spanish": "Él es de Japón."
                         },
                         {
                             "phrase": "She is from New York.",
-                            "translation": " Ella es de Nueva York."
+                            "translation_spanish": " Ella es de Nueva York."
                         },
                         {
                             "phrase": "My grandpa is from Sweden.",
-                            "translation": "Mi abuelo es de Suecia."
+                            "translation_spanish": "Mi abuelo es de Suecia."
                         },
                         {
                             "phrase": "My friend is from Egypt.",
-                            "translation": "Mi amigo es de Egipto."
+                            "translation_spanish": "Mi amigo es de Egipto."
                         }
                     ]
                 },
@@ -1772,7 +1773,7 @@
                     "phrases": [
                         {
                             "phrase": "I live in ___________.",
-                            "translation": "Yo vivo en ___________."
+                            "translation_spanish": "Yo vivo en ___________."
                         }
                     ]
                 },
@@ -1782,19 +1783,19 @@
                     "phrases": [
                         {
                             "phrase": "I live in Miami, Florida.",
-                            "translation": "Yo vivo en Miami, Florida."
+                            "translation_spanish": "Yo vivo en Miami, Florida."
                         },
                         {
                             "phrase": "He lives in Buenos Aires. ",
-                            "translation": " Él vive en Buenos Aires."
+                            "translation_spanish": " Él vive en Buenos Aires."
                         },
                         {
                             "phrase": "My brother lives in the Philippines.",
-                            "translation": "Mi hermano vive en las Filipinas."
+                            "translation_spanish": "Mi hermano vive en las Filipinas."
                         },
                         {
                             "phrase": "She lives in Los Angeles.",
-                            "translation": "Ella vive en Los Ángeles."
+                            "translation_spanish": "Ella vive en Los Ángeles."
                         }
                     ]
                 }
@@ -1810,19 +1811,19 @@
                     "phrases": [
                         {
                             "phrase": "Asking for something: Pedir algo",
-                            "translation": "¿Tiene usted ____________?"
+                            "translation_spanish": "¿Tiene usted ____________?"
                         },
                         {
                             "phrase": "Where can I find ___________?",
-                            "translation": "¿Dónde puedo encontrar ___________?"
+                            "translation_spanish": "¿Dónde puedo encontrar ___________?"
                         },
                         {
                             "phrase": "When will you get more ______?",
-                            "translation": "¿Cuándo va a llegar más ________?"
+                            "translation_spanish": "¿Cuándo va a llegar más ________?"
                         },
                         {
                             "phrase": "Do you have any coupons?",
-                            "translation": "¿Tienes algún cupón?"
+                            "translation_spanish": "¿Tienes algún cupón?"
                         }
                     ]
                 }
@@ -1838,11 +1839,11 @@
                     "phrases": [
                         {
                             "phrase": "I would like a table for _____.",
-                            "translation": "Me gustaría una mesa para _____."
+                            "translation_spanish": "Me gustaría una mesa para _____."
                         },
                         {
                             "phrase": "I have a reservation for ____________.",
-                            "translation": "Tengo una reservación para ________."
+                            "translation_spanish": "Tengo una reservación para ________."
                         }
                     ]
                 },
@@ -1851,19 +1852,19 @@
                     "phrases": [
                         {
                             "phrase": "I would like to have _________.",
-                            "translation": "Me gustaría ordenar _________."
+                            "translation_spanish": "Me gustaría ordenar _________."
                         },
                         {
                             "phrase": "Can I get ____________?",
-                            "translation": "¿Puedo ordenar ____________?"
+                            "translation_spanish": "¿Puedo ordenar ____________?"
                         },
                         {
                             "phrase": "Do you have any specials?",
-                            "translation": "¿Tiene algún especial?"
+                            "translation_spanish": "¿Tiene algún especial?"
                         },
                         {
                             "phrase": "What do you recommend?",
-                            "translation": "¿Qué recomiendas?"
+                            "translation_spanish": "¿Qué recomiendas?"
                         }
                     ]
                 },
@@ -1872,19 +1873,19 @@
                     "phrases": [
                         {
                             "phrase": "This is not what I ordered.",
-                            "translation": "Esto no es lo que pedí."
+                            "translation_spanish": "Esto no es lo que pedí."
                         },
                         {
                             "phrase": "You forgot to add the _________.",
-                            "translation": "Se le olvidó añadir el _________."
+                            "translation_spanish": "Se le olvidó añadir el _________."
                         },
                         {
                             "phrase": "This is too cold/too hot.",
-                            "translation": "Esto está demasiado frío/demasiado caliente."
+                            "translation_spanish": "Esto está demasiado frío/demasiado caliente."
                         },
                         {
                             "phrase": "Could you bring me more _______?",
-                            "translation": "¿Me podría traer más ___________?"
+                            "translation_spanish": "¿Me podría traer más ___________?"
                         }
                     ]
                 },
@@ -1893,11 +1894,11 @@
                     "phrases": [
                         {
                             "phrase": "Could I have the bill please?",
-                            "translation": "¿Podría traerme la cuenta, por favor?"
+                            "translation_spanish": "¿Podría traerme la cuenta, por favor?"
                         },
                         {
                             "phrase": "Can I get the check please?",
-                            "translation": "¿Puede darme el comprobante, por favor?"
+                            "translation_spanish": "¿Puede darme el comprobante, por favor?"
                         }
                     ]
                 },
@@ -1906,15 +1907,15 @@
                     "phrases": [
                         {
                             "phrase": "Can I get a to-go box?",
-                            "translation": "¿Puede darme una bolsa para llevar?"
+                            "translation_spanish": "¿Puede darme una bolsa para llevar?"
                         },
                         {
                             "phrase": "Can I get a take away box?",
-                            "translation": "¿Puedo darme una caja para llevar?"
+                            "translation_spanish": "¿Puedo darme una caja para llevar?"
                         },
                         {
                             "phrase": "Can I get a doggy bag?",
-                            "translation": "¿Puedo obtener una caja para llevar?"
+                            "translation_spanish": "¿Puedo obtener una caja para llevar?"
                         }
                     ]
                 }
@@ -1929,23 +1930,23 @@
                     "phrases": [
                         {
                             "phrase": "I am looking for _________. Can you tell me where to find it?",
-                            "translation": "Estoy buscando _____________. ¿Me puede decir dónde encontrarlo?"
+                            "translation_spanish": "Estoy buscando _____________. ¿Me puede decir dónde encontrarlo?"
                         },
                         {
                             "phrase": "Where can I find ___________?",
-                            "translation": "¿Dónde puedo encontrar _______________?"
+                            "translation_spanish": "¿Dónde puedo encontrar _______________?"
                         },
                         {
                             "phrase": "Do you have this in size ____?",
-                            "translation": "¿Tiene esto en tamaño ____?"
+                            "translation_spanish": "¿Tiene esto en tamaño ____?"
                         },
                         {
                             "phrase": "MDo you have this in red/blue/black?",
-                            "translation": "¿Tiene esto en negro/rojo/azul?"
+                            "translation_spanish": "¿Tiene esto en negro/rojo/azul?"
                         },
                         {
                             "phrase": "Do you have a _____________ one?",
-                            "translation": " bigger, smaller, shorter, longer, etc.¿Tiene uno _____________? más grande, más pequeño, más corto, más largo, etc."
+                            "translation_spanish": " bigger, smaller, shorter, longer, etc.¿Tiene uno _____________? más grande, más pequeño, más corto, más largo, etc."
                         }
                     ]
                 },
@@ -1954,27 +1955,27 @@
                     "phrases": [
                         {
                             "phrase": "Where is the dressing room?",
-                            "translation": "¿Dónde está el vestidor?"
+                            "translation_spanish": "¿Dónde está el vestidor?"
                         },
                         {
                             "phrase": "I would like to try these on.",
-                            "translation": " Me gustaría probarme esto."
+                            "translation_spanish": " Me gustaría probarme esto."
                         },
                         {
                             "phrase": "Can I try this on?",
-                            "translation": "¿Puedo probarme esto?"
+                            "translation_spanish": "¿Puedo probarme esto?"
                         },
                         {
                             "phrase": "It fits.",
-                            "translation": "Me queda bien."
+                            "translation_spanish": "Me queda bien."
                         },
                         {
                             "phrase": "It’s too big.",
-                            "translation": " Es demasiado grande."
+                            "translation_spanish": " Es demasiado grande."
                         },
                         {
                             "phrase": "It’s too small. ",
-                            "translation": "Es demasiado pequeño"
+                            "translation_spanish": "Es demasiado pequeño"
                         }
                     ]
                 },
@@ -1983,10 +1984,10 @@
                     "phrases": [
                         {
                             "phrase": "How much is it?",
-                            "translation": "¿Cuánto cuesta?"
+                            "translation_spanish": "¿Cuánto cuesta?"
                         },{
                             "phrase": "How much does this cost?",
-                            "translation": "¿Cuánto cuesta esto?"
+                            "translation_spanish": "¿Cuánto cuesta esto?"
                         }
                     ]
                 }
@@ -2001,27 +2002,27 @@
                     "phrases": [
                         {
                             "phrase": "I feel sick.",
-                            "translation": "Me siento enfermo."
+                            "translation_spanish": "Me siento enfermo."
                         },
                         {
                             "phrase": "I need to go to the doctor.",
-                            "translation": "Necesito ir al médico."
+                            "translation_spanish": "Necesito ir al médico."
                         },
                         {
                             "phrase": "I have a cold.",
-                            "translation": "Estoy resfriado."
+                            "translation_spanish": "Estoy resfriado."
                         },
                         {
                             "phrase": "I have the flu.",
-                            "translation": "Tengo gripe."
+                            "translation_spanish": "Tengo gripe."
                         },
                         {
                             "phrase": "What are you symptoms?",
-                            "translation": "¿Cuáles son sus síntomas?"
+                            "translation_spanish": "¿Cuáles son sus síntomas?"
                         },
                         {
                             "phrase": "Where does it hurt?",
-                            "translation": "¿Dónde le duele?"
+                            "translation_spanish": "¿Dónde le duele?"
                         }
                     ]
                 },
@@ -2031,15 +2032,15 @@
                     "phrases": [
                         {
                             "phrase": "I have a stomachache.",
-                            "translation": "Tengo dolor de estómago."
+                            "translation_spanish": "Tengo dolor de estómago."
                         },
                         {
                             "phrase": "I have had an earache for the last week.",
-                            "translation": "He tenido un dolor de oído por toda la semana."
+                            "translation_spanish": "He tenido un dolor de oído por toda la semana."
                         },
                         {
                             "phrase": "I have been dizzy for a few hours. I’m not sure why.",
-                            "translation": "He estado mareado por algunas horas. No estoy seguro del por qué."
+                            "translation_spanish": "He estado mareado por algunas horas. No estoy seguro del por qué."
                         }
                     ]
                 }
@@ -2054,11 +2055,11 @@
                     "phrases": [
                         {
                             "phrase": "Call the Police!",
-                            "translation": "¡Llame a la policía!"
+                            "translation_spanish": "¡Llame a la policía!"
                         },
                         {
                             "phrase": "Call 9-1-1!",
-                            "translation": "¡Llame al 9-1-1!"
+                            "translation_spanish": "¡Llame al 9-1-1!"
                         }
                     ]
                 },
@@ -2067,11 +2068,11 @@
                     "phrases": [
                         {
                             "phrase": "There is a fire at __________________. state location or address ",
-                            "translation": "Hay un incendio en __________________. indique el lugar o la dirección"
+                            "translation_spanish": "Hay un incendio en __________________. indique el lugar o la dirección"
                         },
                         {
                             "phrase": "Someone has been hurt at _____________. state location or address ",
-                            "translation": "Alguien se ha lastimado en _____________. indique el lugar o la dirección"
+                            "translation_spanish": "Alguien se ha lastimado en _____________. indique el lugar o la dirección"
                         }
                     ]
                 }
@@ -2086,11 +2087,11 @@
                     "phrases": [
                         {
                             "phrase": "What’s wrong?",
-                            "translation": "¿Qué pasa?"
+                            "translation_spanish": "¿Qué pasa?"
                         },
                         {
                             "phrase": "What’s the matter?",
-                            "translation": "¿Qué es el problema?"
+                            "translation_spanish": "¿Qué es el problema?"
                         }
                     ]
                 },
@@ -2099,15 +2100,15 @@
                     "phrases": [
                         {
                             "phrase": "You should ____________.",
-                            "translation": "Deberías ____________."
+                            "translation_spanish": "Deberías ____________."
                         },
                         {
                             "phrase": "If I were you, I would __________.",
-                            "translation": " Si yo fuera tú, __________."
+                            "translation_spanish": " Si yo fuera tú, __________."
                         },
                         {
                             "phrase": "Maybe you should ____________.",
-                            "translation": "Tal vez deberías ____________."
+                            "translation_spanish": "Tal vez deberías ____________."
                         }
                     ]
                 },
@@ -2117,35 +2118,35 @@
                     "phrases": [
                         {
                             "phrase": "Problem: I am cold.",
-                            "translation": "Problema: Tengo frío."
+                            "translation_spanish": "Problema: Tengo frío."
                         },
                         {
                             "phrase": "Advice: You should put a sweater on.",
-                            "translation": "Consejo: Deberías ponerte un suéter."
+                            "translation_spanish": "Consejo: Deberías ponerte un suéter."
                         },
                         {
                             "phrase": "Problem: I have a headache",
-                            "translation": "Problema: Tengo dolor de cabeza"
+                            "translation_spanish": "Problema: Tengo dolor de cabeza"
                         },
                         {
                             "phrase": "Advice: Maybe you should take some medicine.",
-                            "translation": "Consejo: Tal vez deberías tomar algún medicamento."
+                            "translation_spanish": "Consejo: Tal vez deberías tomar algún medicamento."
                         },
                         {
                             "phrase": "Problem: I am sick.",
-                            "translation": "Problema: Estoy enfermo."
+                            "translation_spanish": "Problema: Estoy enfermo."
                         },
                         {
                             "phrase": "Advice: If I were you, I would go to the doctor.",
-                            "translation": "Consejo: Si yo fuera tú, me iría al médico."
+                            "translation_spanish": "Consejo: Si yo fuera tú, me iría al médico."
                         },
                         {
                             "phrase": "Problem: I failed my math exam.",
-                            "translation": "Problema: reprobé mi examen de matemáticas."
+                            "translation_spanish": "Problema: reprobé mi examen de matemáticas."
                         },
                         {
                             "phrase": "Advice: If I were you, I would ask the professor if you can take it again.",
-                            "translation": "Consejo: Si yo fuera tú, le preguntaría al profesor si puedes tomarlo de nuevo."
+                            "translation_spanish": "Consejo: Si yo fuera tú, le preguntaría al profesor si puedes tomarlo de nuevo."
                         }
                     ]
                 }
@@ -2160,15 +2161,15 @@
                     "phrases": [
                         {
                             "phrase": "Do you want to ________?",
-                            "translation": "¿Quieres ___________?"
+                            "translation_spanish": "¿Quieres ___________?"
                         },
                         {
                             "phrase": "Would you like to __________?",
-                            "translation": "¿Te gustaría __________?"
+                            "translation_spanish": "¿Te gustaría __________?"
                         },
                         {
                             "phrase": "Can you please ___________?",
-                            "translation": "¿Podrías por favor ___________?"
+                            "translation_spanish": "¿Podrías por favor ___________?"
                         }
                     ]
                 },
@@ -2178,15 +2179,15 @@
                     "phrases": [
                         {
                             "phrase": "Do you want to go to the movies with me?",
-                            "translation": "¿Quieres ir al cine conmigo?"
+                            "translation_spanish": "¿Quieres ir al cine conmigo?"
                         },
                         {
                             "phrase": "Would you like to go to the beach?",
-                            "translation": "¿Quieres ir a la playa?"
+                            "translation_spanish": "¿Quieres ir a la playa?"
                         },
                         {
                             "phrase": "Can you please pick me up at 3pm?",
-                            "translation": "¿Me puede recoger a las 3pm?"
+                            "translation_spanish": "¿Me puede recoger a las 3pm?"
                         }
                     ]
                 },
@@ -2195,15 +2196,15 @@
                     "phrases": [
                         {
                             "phrase": "Yes!",
-                            "translation": "¡Sí!"
+                            "translation_spanish": "¡Sí!"
                         },
                         {
                             "phrase": "Yes, I would.",
-                            "translation": "Sí, lo haría./Sí, me gustaría."
+                            "translation_spanish": "Sí, lo haría./Sí, me gustaría."
                         },
                         {
                             "phrase": "Yes, I think that will work.",
-                            "translation": "Sí, creo que va a funcionar."
+                            "translation_spanish": "Sí, creo que va a funcionar."
                         }
                     ]
                 },
@@ -2212,23 +2213,23 @@
                     "phrases": [
                         {
                             "phrase": "I’d like to but __________.",
-                            "translation": "Me gustaría, pero __________."
+                            "translation_spanish": "Me gustaría, pero __________."
                         },
                         {
                             "phrase": "I can’t because ___________.",
-                            "translation": " No puedo porque ___________."
+                            "translation_spanish": " No puedo porque ___________."
                         },
                         {
                             "phrase": "Sorry, that won’t work because ____________.",
-                            "translation": "Lo siento, eso no va a funcionar porque ____________."
+                            "translation_spanish": "Lo siento, eso no va a funcionar porque ____________."
                         },
                         {
                             "phrase": "I have other plans.",
-                            "translation": "Tengo otros planes."
+                            "translation_spanish": "Tengo otros planes."
                         },
                         {
                             "phrase": "I’m busy that day.",
-                            "translation": "Estoy ocupado ese día."
+                            "translation_spanish": "Estoy ocupado ese día."
                         }
                     ]
                 },
@@ -2238,19 +2239,19 @@
                     "phrases": [
                         {
                             "phrase": "I’d like to but I don’t have any money.",
-                            "translation": "Me gustaría pero no tengo dinero."
+                            "translation_spanish": "Me gustaría pero no tengo dinero."
                         },
                         {
                             "phrase": "I can’t because I’m sick.",
-                            "translation": " No puedo porque estoy enfermo."
+                            "translation_spanish": " No puedo porque estoy enfermo."
                         },
                         {
                             "phrase": "Sorry, that won’t work because I have class.",
-                            "translation": "Lo siento, eso no va a funcionar porque tengo clase"
+                            "translation_spanish": "Lo siento, eso no va a funcionar porque tengo clase"
                         },
                         {
                             "phrase": "I have other plans on Saturday. ",
-                            "translation": "Tengo otro plan el sábado"
+                            "translation_spanish": "Tengo otro plan el sábado"
                         }
                     ]
                 }
@@ -2265,19 +2266,19 @@
                     "phrases": [
                         {
                             "phrase": "Would you like to ________ with me?",
-                            "translation": "¿Quieres ________ conmigo?"
+                            "translation_spanish": "¿Quieres ________ conmigo?"
                         },
                         {
                             "phrase": "Would you like to go ____ on Saturday?",
-                            "translation": "¿Te gustaría ir a _______ el sábado?"
+                            "translation_spanish": "¿Te gustaría ir a _______ el sábado?"
                         },
                         {
                             "phrase": "I’m going to ________. Do you want to come with?",
-                            "translation": "Voy a ________. ¿Quieres venir con?"
+                            "translation_spanish": "Voy a ________. ¿Quieres venir con?"
                         },
                         {
                             "phrase": "Are you free on _______?",
-                            "translation": "¿Estás libre el _________?"
+                            "translation_spanish": "¿Estás libre el _________?"
                         }
                     ]
                 },
@@ -2287,19 +2288,19 @@
                     "phrases": [
                         {
                             "phrase": "Would you like to go out to dinner with me?",
-                            "translation": "¿Quieres ir a cenar conmigo?"
+                            "translation_spanish": "¿Quieres ir a cenar conmigo?"
                         },
                         {
                             "phrase": "Would like to go shopping with me after class?",
-                            "translation": "¿Te gustaría ir de compras conmigo después de clase?"
+                            "translation_spanish": "¿Te gustaría ir de compras conmigo después de clase?"
                         },
                         {
                             "phrase": "I’m going to the library. Do you want to come with?",
-                            "translation": "Voy a la biblioteca. ¿Quieres venir?"
+                            "translation_spanish": "Voy a la biblioteca. ¿Quieres venir?"
                         },
                         {
                             "phrase": "Are you free on Sunday afternoon?.",
-                            "translation": "¿Estás libre el domingo por la tarde?"
+                            "translation_spanish": "¿Estás libre el domingo por la tarde?"
                         }
                     ]
                 },
@@ -2308,19 +2309,19 @@
                     "phrases": [
                         {
                             "phrase": "I’m sorry I can’t ________. ",
-                            "translation": "Lo siento no puedo ______."
+                            "translation_spanish": "Lo siento no puedo ______."
                         },
                         {
                             "phrase": "I’m busy that day. ",
-                            "translation": "Estoy ocupado ese día."
+                            "translation_spanish": "Estoy ocupado ese día."
                         },
                         {
                             "phrase": "I don’t think that will work out.",
-                            "translation": "No creo que vaya a funcionar."
+                            "translation_spanish": "No creo que vaya a funcionar."
                         },
                         {
                             "phrase": "Let me check my calendar and get back to you.",
-                            "translation": "Déjame chequear mi calendario y te contactaré."
+                            "translation_spanish": "Déjame chequear mi calendario y te contactaré."
                         }
                     ]
                 }
@@ -2335,19 +2336,19 @@
                     "phrases": [
                         {
                             "phrase": "How are you?",
-                            "translation": "¿Cómo estás?"
+                            "translation_spanish": "¿Cómo estás?"
                         },
                         {
                             "phrase": "How are you feeling?",
-                            "translation": "¿Cómo te sientes?"
+                            "translation_spanish": "¿Cómo te sientes?"
                         },
                         {
                             "phrase": "How’s it going?",
-                            "translation": "¿Cómo te va?"
+                            "translation_spanish": "¿Cómo te va?"
                         },
                         {
                             "phrase": "How you doing?",
-                            "translation": "¿Cómo te está yendo?"
+                            "translation_spanish": "¿Cómo te está yendo?"
                         }
                     ]
                 },
@@ -2356,15 +2357,15 @@
                     "phrases": [
                         {
                             "phrase": "I’m good.",
-                            "translation": "Estoy bien"
+                            "translation_spanish": "Estoy bien"
                         },
                         {
                             "phrase": "I’m great.",
-                            "translation": "Estoy muy bien."
+                            "translation_spanish": "Estoy muy bien."
                         },
                         {
                             "phrase": "Not too bad.",
-                            "translation": "No está mal."
+                            "translation_spanish": "No está mal."
                         }
                     ]
                 },
@@ -2373,15 +2374,15 @@
                     "phrases": [
                         {
                             "phrase": "I’ve been better",
-                            "translation": "He estado mejor"
+                            "translation_spanish": "He estado mejor"
                         },
                         {
                             "phrase": "Not too great.",
-                            "translation": "No demasiado bien."
+                            "translation_spanish": "No demasiado bien."
                         },
                         {
                             "phrase": "I’m a little under the weather.",
-                            "translation": "Estoy un poco indispuesto."
+                            "translation_spanish": "Estoy un poco indispuesto."
                         }
                     ]
                 },
@@ -2390,27 +2391,27 @@
                     "phrases": [
                         {
                             "phrase": "I’m bored.",
-                            "translation": "Estoy aburrido"
+                            "translation_spanish": "Estoy aburrido"
                         },
                         {
                             "phrase": "I’m disappointed",
-                            "translation": " Estoy decepcionado."
+                            "translation_spanish": " Estoy decepcionado."
                         },
                         {
                             "phrase": "I’m tried.",
-                            "translation": "Estoy cansado."
+                            "translation_spanish": "Estoy cansado."
                         },
                         {
                             "phrase": "I’m sleepy.",
-                            "translation": "Tengo sueño."
+                            "translation_spanish": "Tengo sueño."
                         },
                         {
                             "phrase": "I’m exhausted",
-                            "translation": "Estoy agotado."
+                            "translation_spanish": "Estoy agotado."
                         },
                         {
                             "phrase": "I’m depressed.",
-                            "translation": "Estoy deprimido."
+                            "translation_spanish": "Estoy deprimido."
                         }
                     ]
                 },
@@ -2419,15 +2420,15 @@
                     "phrases": [
                         {
                             "phrase": "I don’t like when you _______. ",
-                            "translation": "No me gusta cuando _________."
+                            "translation_spanish": "No me gusta cuando _________."
                         },
                         {
                             "phrase": "I feel _______ when _______.",
-                            "translation": "Me siento ____________ cuando _________."
+                            "translation_spanish": "Me siento ____________ cuando _________."
                         },
                         {
                             "phrase": "I don’t like it when it ________. It makes me feel ________.",
-                            "translation": "No me gusta cuando _____________. Me hace sentir __________."
+                            "translation_spanish": "No me gusta cuando _____________. Me hace sentir __________."
                         }
                     ]
                 }
@@ -2442,11 +2443,11 @@
                     "phrases": [
                         {
                             "phrase": "“Me too.” Response to a positive statement",
-                            "translation": " Yo también. Respuesta a una declaración positiva"
+                            "translation_spanish": " Yo también. Respuesta a una declaración positiva"
                         },
                         {
                             "phrase": "“Me neither.” Response to a negative statement",
-                            "translation": "Respuesta a una declaración negativa"
+                            "translation_spanish": "Respuesta a una declaración negativa"
                         }
                     ]
                 },
@@ -2456,27 +2457,27 @@
                     "phrases": [
                         {
                             "phrase": "I love this weather. Respond: “Me too.”",
-                            "translation": "Me encanta este clima. Responde: Yo también."
+                            "translation_spanish": "Me encanta este clima. Responde: Yo también."
                         },
                         {
                             "phrase": "I like chocolate cake. Respond: “Me too.”",
-                            "translation": " Me gusta el pastel de chocolate. Responde: A mí también."
+                            "translation_spanish": " Me gusta el pastel de chocolate. Responde: A mí también."
                         },
                         {
                             "phrase": "I don’t like sea food. Respond: “Me neither.”",
-                            "translation": " No me gusta la comida de mar. Responde: A mí tampoco."
+                            "translation_spanish": " No me gusta la comida de mar. Responde: A mí tampoco."
                         },
                         {
                             "phrase": "I haven’t ever been here before. Respond: “Me neither.”",
-                            "translation": " Nunca no he estado aquí antes. Responde: Yo tampoco."
+                            "translation_spanish": " Nunca no he estado aquí antes. Responde: Yo tampoco."
                         },
                         {
                             "phrase": "“So do I” Response to a simple positive statement",
-                            "translation": "También a mí Respuesta a una declaración positiva sencilla"
+                            "translation_spanish": "También a mí Respuesta a una declaración positiva sencilla"
                         },
                         {
                             "phrase": "“Neither do I” Response to a simple negative statement",
-                            "translation": " Tampoco a mí Respuesta a una declaración negativa sencilla"
+                            "translation_spanish": " Tampoco a mí Respuesta a una declaración negativa sencilla"
                         }
                     ]
                 },
@@ -2485,11 +2486,11 @@
                     "phrases": [
                         {
                             "phrase": "I love Mickey Mouse. Respond: “So do I.”",
-                            "translation": "Me encanta Mickey Mouse. Responde: También a mí"
+                            "translation_spanish": "Me encanta Mickey Mouse. Responde: También a mí"
                         },
                         {
                             "phrase": "I don’t like spicy food. Respond: “Neither do I.” ",
-                            "translation": "No me gusta la comida picante. Responde: Tampoco a mí"
+                            "translation_spanish": "No me gusta la comida picante. Responde: Tampoco a mí"
                         }
                     ]
                 },
@@ -2498,7 +2499,7 @@
                     "phrases": [
                         {
                             "phrase": "“I don’t.”",
-                            "translation": "A mí no"
+                            "translation_spanish": "A mí no"
                         }
                     ]
                 },
@@ -2507,11 +2508,11 @@
                     "phrases": [
                         {
                             "phrase": "I like pizza. Respond: “I don’t.”",
-                            "translation": "Me gusta la pizza. Respondo: A mí no."
+                            "translation_spanish": "Me gusta la pizza. Respondo: A mí no."
                         },
                         {
                             "phrase": "I love Justin Bieber. Respond: “I don’t.” ",
-                            "translation": "Me encanta Justin Bieber. Respondo: A mí no”."
+                            "translation_spanish": "Me encanta Justin Bieber. Respondo: A mí no”."
                         }
                     ]
                 }
@@ -2526,23 +2527,23 @@
                     "phrases": [
                         {
                             "phrase": "___________ is like _________. ",
-                            "translation": "___________ es como _________."
+                            "translation_spanish": "___________ es como _________."
                         },
                         {
                             "phrase": "__________ is similar to ___________.",
-                            "translation": " __________ es similar a ___________."
+                            "translation_spanish": " __________ es similar a ___________."
                         },
                         {
                             "phrase": "They both ____________.",
-                            "translation": "Ambos ____________."
+                            "translation_spanish": "Ambos ____________."
                         },
                         {
                             "phrase": "They don’t ____________.",
-                            "translation": "Ellos no ____________."
+                            "translation_spanish": "Ellos no ____________."
                         },
                         {
                             "phrase": "They can’t _____________.",
-                            "translation": "No pueden _____________."
+                            "translation_spanish": "No pueden _____________."
                         }
                     ]
                 },
@@ -2552,19 +2553,19 @@
                     "phrases": [
                         {
                             "phrase": "This is like that.",
-                            "translation": "Esto es como ese."
+                            "translation_spanish": "Esto es como ese."
                         },
                         {
                             "phrase": "They both can swim great.",
-                            "translation": "Ambos pueden nadar muy bien."
+                            "translation_spanish": "Ambos pueden nadar muy bien."
                         },
                         {
                             "phrase": "They can’t read yet.",
-                            "translation": "No pueden leer todavía."
+                            "translation_spanish": "No pueden leer todavía."
                         },
                         {
                             "phrase": "Emily is similar to James. They both love to dance.",
-                            "translation": "Emily es similar a James. Ambos aman bailar."
+                            "translation_spanish": "Emily es similar a James. Ambos aman bailar."
                         }
                     ]
                 },
@@ -2573,27 +2574,27 @@
                     "phrases": [
                         {
                             "phrase": "_____ is bigger than _____. ",
-                            "translation": "_______ es más grande que __________."
+                            "translation_spanish": "_______ es más grande que __________."
                         },
                         {
                             "phrase": "_____ is smaller than _______.",
-                            "translation": " _______ es más pequeño que __________."
+                            "translation_spanish": " _______ es más pequeño que __________."
                         },
                         {
                             "phrase": "_____ is better than ______.",
-                            "translation": "_______ es mejor que ___________."
+                            "translation_spanish": "_______ es mejor que ___________."
                         },
                         {
                             "phrase": "_____ is more expensive than ______.",
-                            "translation": "_______ es más caro que _______."
+                            "translation_spanish": "_______ es más caro que _______."
                         },
                         {
                             "phrase": "____ is nicer than _______.",
-                            "translation": "______ es más bonito que ___________."
+                            "translation_spanish": "______ es más bonito que ___________."
                         },
                         {
                             "phrase": "______ is more helpful than ______.",
-                            "translation": " _____ es más útil que _________."
+                            "translation_spanish": " _____ es más útil que _________."
                         }
                     ]
                 },
@@ -2602,15 +2603,15 @@
                     "phrases": [
                         {
                             "phrase": "The elephant is bigger than the mouse.",
-                            "translation": "El elefante es más grande que el ratón."
+                            "translation_spanish": "El elefante es más grande que el ratón."
                         },
                         {
                             "phrase": "The BMW is more expensive than the Honda.",
-                            "translation": "El BMW es más caro que el Honda."
+                            "translation_spanish": "El BMW es más caro que el Honda."
                         },
                         {
                             "phrase": "This shirt is nicer than that one.",
-                            "translation": "Esta camisa es mejor que esa."
+                            "translation_spanish": "Esta camisa es mejor que esa."
                         }
                     ]
                 }
@@ -2625,71 +2626,71 @@
                     "phrases": [
                         {
                             "phrase": "I think…",
-                            "translation": "Yo creo que..."
+                            "translation_spanish": "Yo creo que..."
                         },
                         {
                             "phrase": "In my opinion…",
-                            "translation": "En mi opinión..."
+                            "translation_spanish": "En mi opinión..."
                         },
                         {
                             "phrase": "I’d suggest…",
-                            "translation": "Te sugiero..."
+                            "translation_spanish": "Te sugiero..."
                         },
                         {
                             "phrase": "In my mind…",
-                            "translation": "En mi mente.."
+                            "translation_spanish": "En mi mente.."
                         },
                         {
                             "phrase": "In my experience…",
-                            "translation": "En mi experiencia..."
+                            "translation_spanish": "En mi experiencia..."
                         },
                         {
                             "phrase": "Personally, I think…",
-                            "translation": "Personalmente, creo que..."
+                            "translation_spanish": "Personalmente, creo que..."
                         },
                         {
                             "phrase": "If you want an honest opinion…",
-                            "translation": "Si quieres una opinión sincera..."
+                            "translation_spanish": "Si quieres una opinión sincera..."
                         },
                         {
                             "phrase": "As far as I’m concerned…",
-                            "translation": "En lo que a mí respecta.."
+                            "translation_spanish": "En lo que a mí respecta.."
                         },
                         {
                             "phrase": "I’d say…",
-                            "translation": "Yo diría que..."
+                            "translation_spanish": "Yo diría que..."
                         },
                         {
                             "phrase": "The way I see it…",
-                            "translation": "De la manera en que yo lo veo..."
+                            "translation_spanish": "De la manera en que yo lo veo..."
                         },
                         {
                             "phrase": "I am of the opinion that…",
-                            "translation": "Soy de la opinión de que..."
+                            "translation_spanish": "Soy de la opinión de que..."
                         },
                         {
                             "phrase": "I believe that…",
-                            "translation": " Creo que..."
+                            "translation_spanish": " Creo que..."
                         },
                         {
                             "phrase": "If you ask me…",
-                            "translation": "Si me preguntas..."
+                            "translation_spanish": "Si me preguntas..."
                         },
                         {
                             "phrase": "As far as I understand it…",
-                            "translation": "Por lo que yo entiendo..."
+                            "translation_spanish": "Por lo que yo entiendo..."
                         },
                         {
                             "phrase": "As I see it…",
-                            "translation": "Como yo lo veo..."
+                            "translation_spanish": "Como yo lo veo..."
                         },
                         {
                             "phrase": "It seems to me that…",
-                            "translation": "Me parece que..."
+                            "translation_spanish": "Me parece que..."
                         },
                         {
                             "phrase": "My personal view is that…",
-                            "translation": "Mi opinión personal es que..."
+                            "translation_spanish": "Mi opinión personal es que..."
                         }
                     ]
                 },
@@ -2699,23 +2700,23 @@
                     "phrases": [
                         {
                             "phrase": "I think pizza is the best food ever",
-                            "translation": "Creo que la pizza es el mejor alimento que he comido jamás."
+                            "translation_spanish": "Creo que la pizza es el mejor alimento que he comido jamás."
                         },
                         {
                             "phrase": "It seems to me that she doesn’t know what she is doing",
-                            "translation": " Me parece que ella no sabe lo que está haciendo."
+                            "translation_spanish": " Me parece que ella no sabe lo que está haciendo."
                         },
                         {
                             "phrase": "In my experience, people are more productive in silence",
-                            "translation": "En mi experiencia, las personas son más productivas en silencio."
+                            "translation_spanish": "En mi experiencia, las personas son más productivas en silencio."
                         },
                         {
                             "phrase": "I believe that he is one of the best actors.",
-                            "translation": "Creo que él es uno de los mejores actores."
+                            "translation_spanish": "Creo que él es uno de los mejores actores."
                         },
                         {
                             "phrase": "I’d suggest we go to McDonalds instead of Burger King.",
-                            "translation": "Te sugiero que vayamos a McDonald’s en lugar de Burger King"
+                            "translation_spanish": "Te sugiero que vayamos a McDonald’s en lugar de Burger King"
                         }
                     ]
                 }
@@ -2730,35 +2731,35 @@
                     "phrases": [
                         {
                             "phrase": "I’m sorry to bother you but…",
-                            "translation": "Lamento molestarte, pero..."
+                            "translation_spanish": "Lamento molestarte, pero..."
                         },
                         {
                             "phrase": "There seems to be a problem with…",
-                            "translation": "Parece que hay un problema con..."
+                            "translation_spanish": "Parece que hay un problema con..."
                         },
                         {
                             "phrase": "Can you please help me with…",
-                            "translation": "¿Me puede ayudar con...?"
+                            "translation_spanish": "¿Me puede ayudar con...?"
                         },
                         {
                             "phrase": "I want to complain about…",
-                            "translation": "Quiero quejarme sobre..."
+                            "translation_spanish": "Quiero quejarme sobre..."
                         },
                         {
                             "phrase": "Could you please tell me why…",
-                            "translation": "¿Me puede decir por qué...?"
+                            "translation_spanish": "¿Me puede decir por qué...?"
                         },
                         {
                             "phrase": "I’m sorry to say this but…",
-                            "translation": "Lamento decir esto, pero..."
+                            "translation_spanish": "Lamento decir esto, pero..."
                         },
                         {
                             "phrase": "I hate to tell you but…",
-                            "translation": "Odio tener que decirte esto, pero..."
+                            "translation_spanish": "Odio tener que decirte esto, pero..."
                         },
                         {
                             "phrase": "I’m not satisfied with…",
-                            "translation": "No estoy satisfecho con..."
+                            "translation_spanish": "No estoy satisfecho con..."
                         }
                     ]
                 },
@@ -2768,19 +2769,19 @@
                     "phrases": [
                         {
                             "phrase": "I’m sorry to bother you but I need more ketchup.",
-                            "translation": "Lamento molestarte pero necesito más ketchup."
+                            "translation_spanish": "Lamento molestarte pero necesito más ketchup."
                         },
                         {
                             "phrase": "There seems to be a problem with my order. I didn’t get the right thing.",
-                            "translation": "Parece que hay un problema con mi pedido. No me dieron lo correcto."
+                            "translation_spanish": "Parece que hay un problema con mi pedido. No me dieron lo correcto."
                         },
                         {
                             "phrase": "I hate to tell you but this food is cold",
-                            "translation": "Odio decirte esto, pero esta comida está fría."
+                            "translation_spanish": "Odio decirte esto, pero esta comida está fría."
                         },
                         {
                             "phrase": "I’m not satisfied with the service. The waiter hasn’t been to our - table in more than 20 minutes.",
-                            "translation": "No estoy satisfecho con el servicio. El camarero no ha venido a nuestra mesa en más de 20 minutos"
+                            "translation_spanish": "No estoy satisfecho con el servicio. El camarero no ha venido a nuestra mesa en más de 20 minutos"
                         }
                     ]
                 }
@@ -2795,15 +2796,15 @@
                     "phrases": [
                         {
                             "phrase": "Would you please… ?",
-                            "translation": "¿Podría usted por favor...?"
+                            "translation_spanish": "¿Podría usted por favor...?"
                         },
                         {
                             "phrase": "Could you please…?",
-                            "translation": "¿Podrías por favor...?"
+                            "translation_spanish": "¿Podrías por favor...?"
                         },
                         {
                             "phrase": "Can you please… ? informal ",
-                            "translation": "¿Puedes por favor...? Informal"
+                            "translation_spanish": "¿Puedes por favor...? Informal"
                         }
                     ]
                 },
@@ -2813,35 +2814,35 @@
                     "phrases": [
                         {
                             "phrase": "Would you please wake me up at 7am?",
-                            "translation": "¿Me podrías despertar a las 7?"
+                            "translation_spanish": "¿Me podrías despertar a las 7?"
                         },
                         {
                             "phrase": "Could you please carry my suitcase? It’s really heavy.",
-                            "translation": " ¿Podrías llevar mi maleta? Es muy pesada."
+                            "translation_spanish": " ¿Podrías llevar mi maleta? Es muy pesada."
                         },
                         {
                             "phrase": "Could you please fill out this form?",
-                            "translation": " ¿Podría usted por favor, rellenar este formulario?"
+                            "translation_spanish": " ¿Podría usted por favor, rellenar este formulario?"
                         },
                         {
                             "phrase": "Would you please bring us two cups of coffee with sugar?",
-                            "translation": "¿Podrías traernos dos tazas de café con azúcar?"
+                            "translation_spanish": "¿Podrías traernos dos tazas de café con azúcar?"
                         },
                         {
                             "phrase": "Could you please tell me your name again? I seem to have forgotten it.",
-                            "translation": " ¿Podrías por favor decirme tu nombre? Me parece que lo olvidé."
+                            "translation_spanish": " ¿Podrías por favor decirme tu nombre? Me parece que lo olvidé."
                         },
                         {
                             "phrase": "Would you please call Mr. Peterson and tell him I am running late?",
-                            "translation": "¿Podrías por favor llamar al Sr. Peterson y decirle que voy a llegar tarde?"
+                            "translation_spanish": "¿Podrías por favor llamar al Sr. Peterson y decirle que voy a llegar tarde?"
                         },
                         {
                             "phrase": "Can you please give me another drink?",
-                            "translation": "¿Me podrías dar otro trago?"
+                            "translation_spanish": "¿Me podrías dar otro trago?"
                         },
                         {
                             "phrase": "Could you please say that again?",
-                            "translation": "¿Podrías por favor decir eso de nuevo?"
+                            "translation_spanish": "¿Podrías por favor decir eso de nuevo?"
                         }
                     ]
                 },
@@ -2850,19 +2851,19 @@
                     "phrases": [
                         {
                             "phrase": "Would you mind closing the door? It’s really loud out there.",
-                            "translation": "¿Te Importaría cerrar la puerta? Está muy ruidoso allá afuera."
+                            "translation_spanish": "¿Te Importaría cerrar la puerta? Está muy ruidoso allá afuera."
                         },
                         {
                             "phrase": "Would you mind telling me where you bought this salad? It’s delicious.",
-                            "translation": " ¿Te Importaría decirme donde compraste esta ensalada? Está deliciosa."
+                            "translation_spanish": " ¿Te Importaría decirme donde compraste esta ensalada? Está deliciosa."
                         },
                         {
                             "phrase": "Would you mind turning down the music? I can’t hear you. ",
-                            "translation": "¿Te Importaría bajarle a la música? No puedo escucharte."
+                            "translation_spanish": "¿Te Importaría bajarle a la música? No puedo escucharte."
                         },
                         {
                             "phrase": "Would you mind if I used your phone really quickly? I have to call my grandmother.",
-                            "translation": "¿Te Importa si uso tu teléfono rápido? Tengo que llamar a mi abuela."
+                            "translation_spanish": "¿Te Importa si uso tu teléfono rápido? Tengo que llamar a mi abuela."
                         }
                     ]
                 }
@@ -2877,43 +2878,43 @@
                     "phrases": [
                         {
                             "phrase": "Who…?",
-                            "translation": " ¿Quién...?"
+                            "translation_spanish": " ¿Quién...?"
                         },
                         {
                             "phrase": "What…?",
-                            "translation": " ¿Qué...?"
+                            "translation_spanish": " ¿Qué...?"
                         },
                         {
                             "phrase": "Where…?",
-                            "translation": "¿Dónde...?"
+                            "translation_spanish": "¿Dónde...?"
                         },
                         {
                             "phrase": "When…?",
-                            "translation": "¿Cuándo...?"
+                            "translation_spanish": "¿Cuándo...?"
                         },
                         {
                             "phrase": "Why…?",
-                            "translation": "¿Por qué...?"
+                            "translation_spanish": "¿Por qué...?"
                         },
                         {
                             "phrase": "How…?",
-                            "translation": "¿Cómo...?"
+                            "translation_spanish": "¿Cómo...?"
                         },
                         {
                             "phrase": "How many…?",
-                            "translation": "¿Cuántos...?"
+                            "translation_spanish": "¿Cuántos...?"
                         },
                         {
                             "phrase": "How much…?",
-                            "translation": "¿Cuánto cuesta...?"
+                            "translation_spanish": "¿Cuánto cuesta...?"
                         },
                         {
                             "phrase": "Is _____?",
-                            "translation": "¿Es _____?"
+                            "translation_spanish": "¿Es _____?"
                         },
                         {
                             "phrase": "Are_____?",
-                            "translation": "¿Son_____?"
+                            "translation_spanish": "¿Son_____?"
                         }
                     ]
                 },
@@ -2923,27 +2924,27 @@
                     "phrases": [
                         {
                             "phrase": "What time is it?",
-                            "translation": "¿Qué hora es?"
+                            "translation_spanish": "¿Qué hora es?"
                         },
                         {
                             "phrase": "Is this yours?",
-                            "translation": "¿Es tuyo?"
+                            "translation_spanish": "¿Es tuyo?"
                         },
                         {
                             "phrase": "Are you in line?",
-                            "translation": " ¿Estás en la fila/cola?"
+                            "translation_spanish": " ¿Estás en la fila/cola?"
                         },
                         {
                             "phrase": "How much does this cost?",
-                            "translation": "¿Cuánto cuesta esto?"
+                            "translation_spanish": "¿Cuánto cuesta esto?"
                         },
                         {
                             "phrase": "Where is he?",
-                            "translation": "¿Dónde está él?"
+                            "translation_spanish": "¿Dónde está él?"
                         },
                         {
                             "phrase": "Did you see the movie?",
-                            "translation": "¿Viste la película?"
+                            "translation_spanish": "¿Viste la película?"
                         }
                     ]
                 }

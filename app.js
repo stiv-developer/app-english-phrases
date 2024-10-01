@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                         <i class="bi bi-circle-fill"></i>
                                         <p class="p-phrase fw-semibold">${phraseItem.phrase}</p>
                                     </div>
-                                    <p class="p-phrase-translate text-secondary-emphasis">${phraseItem.translation}</p>
+                                    <p class="p-phrase-translate text-secondary-emphasis">${phraseItem.translation_spanish}</p>
                                 </div>
                             `;
                             typeContainer.innerHTML += phraseHTML;
@@ -71,4 +71,16 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         })
         .catch(error => console.error('Error loading JSON data:', error));
+
+        
+});
+
+
+// MENU BAR 
+
+// drop down the menu, and swap the icon to the close icon
+$(document).ready(function(){
+    $('.toggle').click(function(){
+        $('.menu').toggleClass('active');
+    });
 });

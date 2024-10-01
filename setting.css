@@ -72,71 +72,42 @@ ul li a {
 
 /* END MENU BARl */
 
-.phrase {
-    /* border: 1px solid red; */
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+/* CARD SETTING */
 
+.card-setting{
+    border: 1px solid rgb(136, 134, 134);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.card-header-setting{
+    background: #111334;
+    border-radius: 10px 10px 0px 0px;
 }
 
-.p-phrase {
-    /* border: 1px solid green; */
-    padding-left: 5px;
-    margin: 0px;
-}
-
-.bi-circle-fill {
-    /* border: 1px solid blue; */
-    font-size: 10px;
-}
-
-.p-phrase-translate {
-    padding-left: 15px;
-}
-
-.accordion-body {
-    /* border: 1px solid green; */
-}
-
-.group-phrase {
-    /* border: 1px solid red; */
-}
-
-.group-type {
-    /* border: 1px solid red; */
-    background: #F5F7FB;
-    padding: 15px;
-    border-radius: 7px;
-    margin-bottom: 5px;
-    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-}
-
-.p-phrase-translate,
-.p-phrase,
-.bi-circle-fill {
-    color: #2C2C2C !important;
-}
-
-.p-phrase {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.title-sentence {
-    color: #111334;
+.card-header-setting p{
+    color: white;
+    padding: 10px;
     font-family: "Roboto", system-ui;
     font-weight: 900;
     font-style: normal;
+    margin: 0px;
 }
 
-/* COLOR CARD */
-
-.color-card-example-phrases {
-    background-color: #e0f7e0;
-    /* Un color verde claro */
-    /* border-left: 4px solid #4caf50; Borde verde */
+.card-body-setting{
     padding: 10px;
-    margin-bottom: 10px;
+    display: flex;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-body-setting p{
+    /* border: 1px solid red; */
+    margin: 0px;
+}
+
+
+.card-body-setting select{
+    /* border: 1px solid red; */
+    width: 150px !important;
 }
