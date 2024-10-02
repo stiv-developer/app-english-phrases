@@ -6,7 +6,7 @@
     width: 100%;
     top: 0;
     position: fixed;
-    z-index: 4;
+    z-index: 2 !important;
 }
 
 .toggle {
@@ -14,7 +14,7 @@
     position: fixed;
     top: 10px;
     right: 20px;
-    z-index: 2
+    /* z-index: 5; */
 }
 
 .toggle a {
@@ -45,7 +45,7 @@ ul {
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 12%;
+    top: 13%;
     left: 25%;
     transform: translate(-50%, -50%);
     text-align: left;
@@ -81,6 +81,11 @@ ul li a {
 }
 
 /* END MENU BARl */
+
+.header{
+    /* margin-top: 15px; */
+    margin-top: 55px;
+}
 
 /* CARD SETTING */
 
