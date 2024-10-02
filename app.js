@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function () {
     const accordion = document.getElementById('accordionPanelsStayOpenExample');
     const languageSelect = document.getElementById('language-select');
-    const selectedLanguage = localStorage.getItem('selectedLanguage') || 'translation_spanish';
+    const selectedLanguage = localStorage.getItem('selectedLanguage') || 'spanish'; // Usar 'spanish' o 'portuguese'
 
     // Aplicar idioma guardado al cargar la página
-    if (selectedLanguage === 'translation_portuguese') {
+    if (selectedLanguage === 'portuguese') {
         languageSelect.value = 'portuguese';
     } else {
         languageSelect.value = 'spanish';
@@ -21,22 +21,25 @@ document.addEventListener('DOMContentLoaded', function () {
                 jsonData['title-phrases'].forEach((item, index) => {
                     const itemId = `panelsStayOpen-collapse${index}`;
 
+                    // Obtener la traducción del título según el idioma seleccionado
+                    const translatedTitle = language === 'spanish' ? item.phrases_translation_spanish : item.phrases_translation_portuguese;
+
                     let accordionItemHTML = `
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#${itemId}" aria-expanded="false" aria-controls="${itemId}">
-                                    ${item.phrases} (${item['phrases-translation']})
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill accordion-icon" viewBox="0 0 16 16">
-        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
-    </svg>
-                                </button>
-                            </h2>
-                            <div id="${itemId}" class="accordion-collapse collapse" aria-labelledby="heading${index}">
-                                <div class="accordion-body"></div>
-                            </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#${itemId}" aria-expanded="false" aria-controls="${itemId}">
+                                ${item.phrases} (${translatedTitle})
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill accordion-icon" viewBox="0 0 16 16">
+                                    <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+                                </svg>
+                            </button>
+                        </h2>
+                        <div id="${itemId}" class="accordion-collapse collapse" aria-labelledby="heading${index}">
+                            <div class="accordion-body"></div>
                         </div>
-                    `;
+                    </div>
+                `;
 
                     accordion.innerHTML += accordionItemHTML;
                     const bodyContainer = document.querySelector(`#${itemId} .accordion-body`);
@@ -46,21 +49,22 @@ document.addEventListener('DOMContentLoaded', function () {
                             const typeContainer = document.createElement('div');
                             typeContainer.classList.add('group-type', typeItem['name-type'].toLowerCase().replace(/\s+/g, '-'));
 
-                            const nameTypeTranslation = typeItem['name-type-translation'] ? `<span class="fs-6 text-success"> (${typeItem['name-type-translation']})</span>` : '';
-                            const typeHeaderHTML = `<h5>${typeItem['name-type']}${nameTypeTranslation}</h5>`;
+                            // Obtener la traducción del nombre del tipo según el idioma seleccionado
+                            const nameTypeTranslation = language === 'spanish' ? typeItem.phrases_translation_spanish : typeItem.name_type_translation_portuguese;
+                            const typeHeaderHTML = `<h5>${typeItem['name-type']} <span class="fs-6 text-success">(${nameTypeTranslation})</span></h5>`;
 
                             typeContainer.innerHTML += typeHeaderHTML;
 
                             typeItem.phrases.forEach(phraseItem => {
                                 const phraseHTML = `
-                                    <div class="group-phrase">
-                                        <div class="phrase">
-                                            <i class="bi bi-circle-fill"></i>
-                                            <p class="p-phrase fw-semibold">${phraseItem.phrase}</p>
-                                        </div>
-                                        <p class="p-phrase-translate text-secondary-emphasis">${phraseItem[language]}</p>
+                                <div class="group-phrase">
+                                    <div class="phrase">
+                                        <i class="bi bi-circle-fill"></i>
+                                        <p class="p-phrase fw-semibold">${phraseItem.phrase}</p>
                                     </div>
-                                `;
+                                    <p class="p-phrase-translate text-secondary-emphasis">${language === 'spanish' ? phraseItem.translation_spanish : phraseItem.translation_portuguese}</p>
+                                </div>
+                            `;
                                 typeContainer.innerHTML += phraseHTML;
                             });
 
@@ -78,9 +82,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Escuchar cambios en el select de idioma
     languageSelect.addEventListener('change', function () {
         const selectedOption = this.value;
-        const languageKey = selectedOption === 'spanish' ? 'translation_spanish' : 'translation_portuguese';
-        localStorage.setItem('selectedLanguage', languageKey);
-        applyTranslations(languageKey);  // Aplicar traducción inmediatamente
+        localStorage.setItem('selectedLanguage', selectedOption);
+        applyTranslations(selectedOption);  // Aplicar traducción inmediatamente
     });
 
     // Si se detecta un cambio en localStorage en otras pestañas
@@ -91,35 +94,8 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-// En setting.html
-document.addEventListener('DOMContentLoaded', function () {
-    // Obtener el valor del idioma seleccionado desde localStorage
-    const selectedLanguage = localStorage.getItem('selectedLanguage');
 
-    // Obtener el elemento del select
-    const languageSelect = document.getElementById('language-select');
-
-    // Si ya hay un idioma seleccionado, establecerlo como el valor seleccionado del select
-    if (selectedLanguage) {
-        if (selectedLanguage === 'translation_spanish') {
-            languageSelect.value = 'spanish';
-        } else if (selectedLanguage === 'translation_portuguese') {
-            languageSelect.value = 'portuguese';
-        }
-    }
-
-    // Escuchar el evento de cambio en el select para guardar el idioma seleccionado en localStorage
-    languageSelect.addEventListener('change', function () {
-        const selectedOption = this.value;
-        const languageKey = selectedOption === 'spanish' ? 'translation_spanish' : 'translation_portuguese';
-        localStorage.setItem('selectedLanguage', languageKey);
-
-        // Disparar evento 'storage' para actualizar otras páginas que estén usando el idioma seleccionado
-        window.dispatchEvent(new Event('storage'));
-    });
-});
-
-
+// FUNCION MODE DARK
 document.addEventListener('DOMContentLoaded', function () {
 
     // Obtener el elemento del select
@@ -147,8 +123,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
-
-
 
 // MENU BAR 
 $(document).ready(function () {

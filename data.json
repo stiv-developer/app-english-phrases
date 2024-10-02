@@ -2,10 +2,13 @@
     "title-phrases": [
         {
             "phrases": "Greeting Someone",
-            "phrases-translation":"Saludar a alguien",
+            "phrases_translation_spanish":"Saludar a alguien",
+            "phrases_translation_portuguese":"Cumprimentar alguém",
             "type": [
                 {
                     "name-type": "Formal",
+                    "phrases_translation_spanish":"Formal",
+                    "name_type_translation_portuguese":"Formal",
                     "phrases": [
                         {
                             "phrase": "Hello",
@@ -51,6 +54,8 @@
                 },
                 {
                     "name-type": "Informal",
+                    "phrases_translation_spanish":"Informal",
+                    "name_type_translation_portuguese":"Informal",
                     "phrases": [
                         {
                             "phrase": "Hi!",
@@ -93,10 +98,13 @@
         },
         {
             "phrases": "Saying Good-Bye",
-            "phrases-translation":"Despedidas",
+            "phrases_translation_spanish":"Despedidas",
+            "phrases_translation_portuguese":"Dizendo adeus",
             "type": [
                 {
                     "name-type": "Formal",
+                    "phrases_translation_spanish":"Formal",
+                    "name_type_translation_portuguese":"Formal",
                     "phrases": [
                         {
                             "phrase": "Good-Bye",
@@ -142,6 +150,8 @@
                 },
                 {
                     "name-type": "Informal",
+                    "phrases_translation_spanish":"Informal",
+                    "name_type_translation_portuguese":"Informal",
                     "phrases": [
                         {
                             "phrase": "Bye",
@@ -181,7 +191,9 @@
                     ]
                 },
                 {
-                    "name-type": "Muy Informal",
+                    "name-type": "Very informal",
+                    "phrases_translation_spanish":"Muy informal",
+                    "name_type_translation_portuguese":"Muito informal",
                     "phrases": [
                         {
                             "phrase": "Check you later.",
@@ -219,11 +231,13 @@
         },
         {
             "phrases": "Introductions",
-            "phrases-translation":"Presentarse",
+            "phrases_translation_spanish":"Presentarse",
+            "phrases_translation_portuguese":"Apresentações",
             "type": [
                 {
                     "name-type": "Introducing Yourself",
-                    "name-type-translation":"Prepararse a usted mismo",
+                    "name_type_translation_spanish":"Prepararse a usted mismo",
+                    "name_type_translation_portuguese":"Apresentar-se a si mesmo",
                     "phrases": [
                         {
                             "phrase": "Hello, I’m ___________.",
@@ -239,7 +253,8 @@
                 },
                 {
                     "name-type": "Introducing Someone Else Formal",
-                    "name-type-translation":"Presentar a alguien más formal",
+                    "name_type_translation_spanish":"Presentar a alguien más formal",
+                    "name_type_translation_portuguese":"Apresentar a alguém más formal",
                     "phrases": [
                         {
                             "phrase": "This is ______. He/She is my co-worker.",
@@ -265,7 +280,8 @@
                 },
                 {
                     "name-type": "Introducing Someone Else Informal",
-                    "name-type-translation":"Presentar a alguien más Informal",
+                    "name_type_translation_spanish":"Presentar a alguien más Informal",
+                    "name_type_translation_portuguese":"Apresentar a alguém más formal",
                     "phrases": [
                         {
                             "phrase": "This is ___________.",
@@ -314,7 +330,8 @@
         },
         {
             "phrases": "Talking about Likes",
-            "phrases-translation":"Hablar de gustos",
+            "phrases_translation_spanish":"Hablar de gustos",
+            "phrases_translation_portuguese":"Falando sobre curtidas",
             "type": [
                 {
                     "name-type": "Formal",
@@ -411,7 +428,8 @@
         },
         {
             "phrases": "Talking about Dislikes",
-            "phrases-translation":"Hablar de los desagrados",
+            "phrases_translation_spanish":"Hablar de los desagrados",
+            "phrases_translation_portuguese":"Falando sobre desgostos",
             "type": [
                 {
                     "name-type": "Formal",
@@ -498,10 +516,13 @@
         },
         {
             "phrases": "What do you do? /Jobs",
-            "phrases-translation":"¿A qué te dedicas?/Trabajos?",
+            "phrases_translation_spanish":"¿A qué te dedicas?/Trabajos?",
+            "phrases_translation_portuguese":"O que você faz? /Empregos",
             "type": [
                 {
                     "name-type": "What do you do?",
+                    "phrases_translation_spanish":"¿A qué te dedicas?",
+                    "name_type_translation_portuguese":"O que você faz?",
                     "phrases": [
                         {
                             "phrase": "What do you work in?",
@@ -522,6 +543,8 @@
                 },
                 {
                     "name-type": "Possible ways to respond",
+                    "phrases_translation_spanish":"Posibles formas de responder",
+                    "name_type_translation_portuguese":"Possíveis formas de responder",
                     "phrases": [
                         {
                             "phrase": "I’m a …",
@@ -598,7 +621,8 @@
         },
         {
             "phrases": "What Are You Doing Right Now?",
-            "phrases-translation":"¿Qué estás haciendo ahora mismo?",
+            "phrases_translation_spanish":"¿Qué estás haciendo ahora mismo?",
+            "phrases_translation_portuguese":"O que você está fazendo agora?",
             "type": [
                 {
                     "name-type": "Examples",
@@ -696,10 +720,13 @@
         },
         {
             "phrases": "Talking about the Past",
-            "phrases-translation":"Hablar del Pasado",
+            "phrases_translation_spanish":"Hablar del Pasado",
+            "phrases_translation_portuguese":"Falando sobre o passado",
             "type": [
                 {
                     "name-type": "Most common verbs used to refer to the Past",
+                    "phrases_translation_spanish":"Verbos más comunes utilizados para referirse al Pasado",
+                    "name_type_translation_portuguese":"Verbos mais comuns usados ​​para se referir ao passado",
                     "phrases": [
                         {
                             "phrase": "I went…",
@@ -777,6 +804,8 @@
                 },
                 {
                     "name-type": "List of Common ‘Times’ in the Past",
+                    "phrases_translation_spanish":"Lista de “Tiempos” comunes en el Pasado",
+                    "name_type_translation_portuguese":"Lista de ‘tempos’ comuns no passado",
                     "phrases": [
                         {
                             "phrase": "Yesterday…",
@@ -835,10 +864,13 @@
         },
         {
             "phrases": "Talking about the Future",
-            "phrases-translation":"Hablar del Futuro",
+            "phrases_translation_spanish":"Hablar del Futuro",
+            "phrases_translation_portuguese":"Falando sobre o futuro",
             "type": [
                 {
                     "name-type": "The two most common phrases to refer to the future are",
+                    "phrases_translation_spanish":"Las dos frases más comunes para referirse al futuro son",
+                    "name_type_translation_portuguese":"As duas frases mais comuns para se referir ao futuro são",
                     "phrases": [
                         {
                             "phrase": "I will…",
@@ -854,6 +886,8 @@
                 },
                 {
                     "name-type": "List of Common ‘Times’ in the Future",
+                    "phrases_translation_spanish":"Lista de “Tiempos” comunes en el futuro",
+                    "name_type_translation_portuguese":"Lista de ‘tempos’ comuns no futuro",
                     "phrases": [
                         {
                             "phrase": "Tomorrow…",
@@ -932,10 +966,13 @@
         },
         {
             "phrases": "Routines",
-            "phrases-translation":"Rutinas",
+            "phrases_translation_spanish":"Rutinas",
+            "phrases_translation_portuguese":"Rotinas",
             "type": [
                 {
                     "name-type": "Wake up, go to sleep, brush your teeth, take a bath/shower, use the internet, cok, lean, drive, talk to a spouse/partner, study, read, etc",
+                    "phrases_translation_spanish":"Despertar, ir a dormir, cepillar sus dientes, tomar un baño, usar la internet, cocinar, limpiar, manejar, hablar con su esposo o esposa, estudiar, leer, etc.",
+                    "name_type_translation_portuguese":"Acorde, vá dormir, escove os dentes, tome banho, use a internet, cozinhe, estude, dirija, converse com seu cônjuge/parceiro, estude, leia, etc.",
                     "phrases": [
                         {
                             "phrase": "I ______ every day.",
@@ -1024,7 +1061,8 @@
         },
         {
             "phrases": "Hobbies & Free Time",
-            "phrases-translation":"Pasatiempos & Tiempo Libre",
+            "phrases_translation_spanish":"Pasatiempos & Tiempo Libre",
+            "phrases_translation_portuguese":"Hobbies e Tempo Livre",
             "type": [
                 {
                     "name-type": "Sentence",
@@ -1043,6 +1081,8 @@
                 },
                 {
                     "name-type": "Common ways to answer these questions are",
+                    "phrases_translation_spanish":"Las formas habituales de responder a estas preguntas son:",
+                    "name_type_translation_portuguese":"Formas comuns de responder a essas perguntas são",
                     "phrases": [
                         {
                             "phrase": "In my free time, I…",
@@ -1116,10 +1156,13 @@
         },
         {
             "phrases": "Family",
-            "phrases-translation": "Família",
+            "phrases_translation_spanish": "Família",
+            "phrases_translation_portuguese":"Família",
             "type": [
                 {
                     "name-type": "Phrases To Talk about Your Family",
+                    "phrases_translation_spanish":"Frases para hablar sobre la familia",
+                    "name_type_translation_portuguese":"Frases para falar sobre sua família",
                     "phrases": [
                         {
                             "phrase": "There are ____ people in my family.",
@@ -1160,6 +1203,8 @@
                 },
                 {
                     "name-type": "Questions to ask someone about their family",
+                    "phrases_translation_spanish":"Preguntas para hacerle a alguien sobre su familia",
+                    "name_type_translation_portuguese":"Perguntas para fazer a alguém sobre sua família",
                     "phrases": [
                         {
                             "phrase": "How many children do you have?",
@@ -1192,7 +1237,8 @@
         },
         {
             "phrases": "Relationships",
-            "phrases-translation":"Relaciones",
+            "phrases_translation_spanish":"Relaciones",
+            "phrases_translation_portuguese":"Relacionamentos",
             "type": [
                 {
                     "name-type": "Example Sentences",
@@ -1217,6 +1263,8 @@
                 },
                 {
                     "name-type": "Questions to ask someone about their relationship",
+                    "phrases_translation_spanish":"Preguntas para hacerle a alguien sobre su relación",
+                    "name_type_translation_portuguese":"Perguntas para fazer a alguém sobre seu relacionamento",
                     "phrases": [
                         {
                             "phrase": "Are you single?",
@@ -1249,7 +1297,8 @@
         },
         {
             "phrases": "Food",
-            "phrases-translation":"Comida",
+            "phrases_translation_spanish":"Comida",
+            "phrases_translation_portuguese":"Comida",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -1349,6 +1398,8 @@
                 },
                 {
                     "name-type": "Questions To Ask About Food and Cooking",
+                    "phrases_translation_spanish":"Preguntas para hacer acerca de la comida y de la cocina",
+                    "name_type_translation_portuguese":"Perguntas a fazer sobre comida e culinária",
                     "phrases": [
                         {
                             "phrase": "What’s your favorite food?",
@@ -1396,10 +1447,13 @@
         },
         {
             "phrases": "Weather",
-            "phrases-translation":"El Clima",
+            "phrases_translation_spanish":"El Clima",
+            "phrases_translation_portuguese":"Clima",
             "type": [
                 {
                     "name-type": "Common Phrases about the Weather",
+                    "phrases_translation_spanish":"Frases comunes acerca del Clima",
+                    "name_type_translation_portuguese":"Frases comuns sobre o clima",
                     "phrases": [
                         {
                             "phrase": "It’s sunny. ",
@@ -1445,6 +1499,8 @@
                 },
                 {
                     "name-type": "Questions to Ask About the Weather",
+                    "phrases_translation_spanish":"Preguntas para hacer acerca del clima",
+                    "name_type_translation_portuguese":"Perguntas a serem feitas sobre o clima",
                     "phrases": [
                         {
                             "phrase": "What’s the weather like today?",
@@ -1492,7 +1548,8 @@
         },
         {
             "phrases": "Transportation",
-            "phrases-translation":"Transporte",
+            "phrases_translation_spanish":"Transporte",
+            "phrases_translation_portuguese":"Transporte",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -1547,6 +1604,8 @@
                 },
                 {
                     "name-type": "Questions to Ask about Transportation",
+                    "phrases_translation_spanish":"Preguntas para hacer acerca del transporte",
+                    "name_type_translation_portuguese":"Perguntas a serem feitas sobre transporte",
                     "phrases": [
                         {
                             "phrase": "How do you get to school?",
@@ -1599,10 +1658,13 @@
         },
         {
             "phrases": "Telling Time",
-            "phrases-translation":"Decir la hora",
+            "phrases_translation_spanish":"Decir la hora",
+            "phrases_translation_portuguese":"Contando as horas",
             "type": [
                 {
                     "name-type": "Questions You Can Ask about Time",
+                    "phrases_translation_spanish":"Preguntas para hacer acerca del tiempo",
+                    "name_type_translation_portuguese":"Perguntas que você pode fazer sobre o tempo",
                     "phrases": [
                         {
                             "phrase": "What time is it?",
@@ -1645,7 +1707,8 @@
         },
         {
             "phrases": "Directions",
-            "phrases-translation":"Direcciones",
+            "phrases_translation_spanish":"Direcciones",
+            "phrases_translation_portuguese":"Instruções",
             "type": [
                 {
                     "name-type": "Example Sentences",
@@ -1675,6 +1738,8 @@
                 },
                 {
                     "name-type": "Questions Used to Ask for/Give Directions",
+                    "phrases_translation_spanish":"Preguntas utilizadas para Pedir/Dar Direcciones",
+                    "name_type_translation_portuguese":"Perguntas usadas para pedir/dar instruções",
                     "phrases": [
                         {
                             "phrase": "Where is ___________?",
@@ -1712,10 +1777,13 @@
         },
         {
             "phrases": "Calendar",
-            "phrases-translation":"Calendario",
+            "phrases_translation_spanish":"Calendario",
+            "phrases_translation_portuguese":"Calendário",
             "type": [
                 {
                     "name-type": "Questions about the Calendar",
+                    "phrases_translation_spanish":"Preguntas sobre el Calendario",
+                    "name_type_translation_portuguese":"Perguntas sobre o calendário",
                     "phrases": [
                         {
                             "phrase": "What day is today?",
@@ -1753,10 +1821,13 @@
         },
         {
             "phrases": "Numbers",
-            "phrases-translation":"Números",
+            "phrases_translation_spanish":"Números",
+            "phrases_translation_portuguese":"Números",
             "type": [
                 {
                     "name-type": "How many ______?",
+                    "phrases_translation_spanish":"Cuantos ______",
+                    "name_type_translation_portuguese":"Quantos ______?",
                     "phrases": [
                         {
                             "phrase": "How many eggs are in a dozen?",
@@ -1777,6 +1848,8 @@
                 },
                 {
                     "name-type": "How much…?",
+                    "phrases_translation_spanish":"Cuanto ...",
+                    "name_type_translation_portuguese":"Quanto…?",
                     "phrases": [
                         {
                             "phrase": "How much does a box of cookies cost?",
@@ -1814,10 +1887,13 @@
         },
         {
             "phrases": "Where are you from?/Nationalities",
-            "phrases-translation":"¿De dónde eres? / Nacionalidades?",
+            "phrases_translation_spanish":"¿De dónde eres? / Nacionalidades?",
+            "phrases_translation_portuguese":"De onde você é?/Nacionalidades",
             "type": [
                 {
                     "name-type": "Examples for stating your nationality",
+                    "phrases_translation_spanish":"Ejemplos para indicar tu nacionalidad",
+                    "name_type_translation_portuguese":"Exemplos para declarar sua nacionalidade",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -1849,6 +1925,8 @@
                 },
                 {
                     "name-type": "Where are you from?",
+                    "phrases_translation_spanish":"¿De dónde eres?",
+                    "name_type_translation_portuguese":"De onde você é?",
                     "phrases": [
                         {
                             "phrase": "I am from ___________.",
@@ -1884,6 +1962,8 @@
                 },
                 {
                     "name-type": "Where do you live now?",
+                    "phrases_translation_spanish":"¿Dónde vives ahora?",
+                    "name_type_translation_portuguese":"Onde você mora agora?",
                     "phrases": [
                         {
                             "phrase": "I live in ___________.",
@@ -1922,10 +2002,13 @@
         },
         {
             "phrases": "TV & Movies",
-            "phrases-translation":"TV y Peliculas",
+            "phrases_translation_spanish":"TV y Peliculas",
+            "phrases_translation_portuguese":"TV e filmes",
             "type": [
                 {
                     "name-type": "Common Types of TV shows",
+                    "phrases_translation_spanish":"Tipos comunes de los programas de television",
+                    "name_type_translation_portuguese":"Tipos comuns de programas de TV",
                     "phrases": [
                         {
                             "phrase": "I like to watch _________shows. ",
@@ -1956,6 +2039,8 @@
                 },
                 {
                     "name-type": "Common Movie Genres",
+                    "phrases_translation_spanish":"Géneros comunes de películas",
+                    "name_type_translation_portuguese":"Gêneros de filmes comuns",
                     "phrases": [
                         {
                             "phrase": "I heard ______ is a good/bad movie.",
@@ -1998,7 +2083,8 @@
         },
         {
             "phrases": "Neighborhoods and Houses",
-            "phrases-translation":"Vecindarios y Casas",
+            "phrases_translation_spanish":"Vecindarios y Casas",
+            "phrases_translation_portuguese":"Bairros e Casas",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -2060,10 +2146,13 @@
         ,
         {
             "phrases": "Grocery Shopping",
-            "phrases-translation":"Supermercado",
+            "phrases_translation_spanish":"Supermercado",
+            "phrases_translation_portuguese":"Compras de supermercado",
             "type": [
                 {
-                    "name-type": "Asking for something: Pedir algo",
+                    "name-type": "Asking for something",
+                    "phrases_translation_spanish":"Pedir algo",
+                    "name_type_translation_portuguese":"Pedindo por algo",
                     "phrases": [
                         {
                             "phrase": "Do you have ____________?",
@@ -2092,7 +2181,8 @@
         ,
         {
             "phrases": "Restaurant or Coffee Shop",
-            "phrases-translation":"Restaurante o Cafetería",
+            "phrases_translation_spanish":"Restaurante o Cafetería",
+            "phrases_translation_portuguese":"Restaurante ou Cafeteria",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -2110,7 +2200,9 @@
                     ]
                 },
                 {
-                    "name-type": "Ordering:",
+                    "name-type": "Ordering",
+                    "phrases_translation_spanish":"Ordenando",
+                    "name_type_translation_portuguese":"Encomenda",
                     "phrases": [
                         {
                             "phrase": "I would like to have _________.",
@@ -2136,6 +2228,8 @@
                 },
                 {
                     "name-type": "Problems/Complaints",
+                    "phrases_translation_spanish":"Problemas/Quejas",
+                    "name_type_translation_portuguese":"Problemas/Reclamações",
                     "phrases": [
                         {
                             "phrase": "This is not what I ordered.",
@@ -2161,6 +2255,8 @@
                 },
                 {
                     "name-type": "Paying",
+                    "phrases_translation_spanish":"Pagando",
+                    "name_type_translation_portuguese":"Pagando",
                     "phrases": [
                         {
                             "phrase": "Could I have the bill please?",
@@ -2176,6 +2272,8 @@
                 },
                 {
                     "name-type": "Extra food",
+                    "phrases_translation_spanish":"Comida extra",
+                    "name_type_translation_portuguese":"Comida extra",
                     "phrases": [
                         {
                             "phrase": "Can I get a to-go box?",
@@ -2198,10 +2296,13 @@
         },
         {
             "phrases": "Clothes and Shoes",
-            "phrases-translation":"Ropa y Zapatos",
+            "phrases_translation_spanish":"Ropa y Zapatos",
+            "phrases_translation_portuguese":"Roupas e Sapatos",
             "type": [
                 {
                     "name-type": "Looking for Something",
+                    "phrases_translation_spanish":"Buscando Algo",
+                    "name_type_translation_portuguese":"Procurando por algo",
                     "phrases": [
                         {
                             "phrase": "I am looking for _________. Can you tell me where to find it?",
@@ -2232,6 +2333,8 @@
                 },
                 {
                     "name-type": "Trying Clothes On",
+                    "phrases_translation_spanish":"Probándose la Ropa",
+                    "name_type_translation_portuguese":"Experimentando roupas",
                     "phrases": [
                         {
                             "phrase": "Where is the dressing room?",
@@ -2267,6 +2370,8 @@
                 },
                 {
                     "name-type": "Paying/Price",
+                    "phrases_translation_spanish":"Pagar / Precio",
+                    "name_type_translation_portuguese":"Pagamento/Preço",
                     "phrases": [
                         {
                             "phrase": "How much is it?",
@@ -2283,10 +2388,13 @@
         },
         {
             "phrases": "Being Sick, Doctors and Hospitals",
-            "phrases-translation":"Estar enfermo, médicos y hospitales",
+            "phrases_translation_spanish":"Estar enfermo, médicos y hospitales",
+            "phrases_translation_portuguese":"Estar doente, médicos e hospitais",
             "type": [
                 {
-                    "name-type": "Problems: Problemas",
+                    "name-type": "Problems",
+                    "phrases_translation_spanish":"Problemas",
+                    "name_type_translation_portuguese":"Problemas",
                     "phrases": [
                         {
                             "phrase": "I feel sick.",
@@ -2345,10 +2453,13 @@
         },
         {
             "phrases": "Crime, Safety and Police",
-            "phrases-translation":"Crimen, Seguridad y Policía",
+            "phrases_translation_spanish":"Crimen, Seguridad y Policía",
+            "phrases_translation_portuguese":"Crime, Segurança e Polícia",
             "type": [
                 {
                     "name-type": "In Case of an Emergency",
+                    "phrases_translation_spanish":"En caso de emergencia",
+                    "name_type_translation_portuguese":"Em caso de emergência",
                     "phrases": [
                         {
                             "phrase": "Call the Police!",
@@ -2364,6 +2475,8 @@
                 },
                 {
                     "name-type": "Reporting a Crime/Problem",
+                    "phrases_translation_spanish":"Reportando un Crimen/Problema",
+                    "name_type_translation_portuguese":"Denunciar um crime/problema",
                     "phrases": [
                         {
                             "phrase": "There is a fire at __________________. state location or address ",
@@ -2381,10 +2494,13 @@
         },
         {
             "phrases": "Problems/Advice",
-            "phrases-translation":"Problemas/Consejos",
+            "phrases_translation_spanish":"Problemas/Consejos",
+            "phrases_translation_portuguese":"Problemas/Conselhos",
             "type": [
                 {
                     "name-type": "Asking about a problem",
+                    "phrases_translation_spanish":"Preguntar sobre un problema",
+                    "name_type_translation_portuguese":"Perguntando sobre um problema",
                     "phrases": [
                         {
                             "phrase": "What’s wrong?",
@@ -2400,6 +2516,8 @@
                 },
                 {
                     "name-type": "Giving Advice",
+                    "phrases_translation_spanish":"Dando consejos",
+                    "name_type_translation_portuguese":"Dando conselhos",
                     "phrases": [
                         {
                             "phrase": "You should ____________.",
@@ -2420,6 +2538,8 @@
                 },
                 {
                     "name-type": "Examples of problems and advice",
+                    "phrases_translation_spanish":"Ejemplos de problemas y consejos",
+                    "name_type_translation_portuguese":"Exemplos de problemas e conselhos",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -2468,10 +2588,13 @@
         },
         {
             "phrases": "Making Plans/Making Excuses",
-            "phrases-translation":"Haciendo Planes / Haciendo Excusas",
+            "phrases_translation_spanish":"Haciendo Planes / Haciendo Excusas",
+            "phrases_translation_portuguese":"Fazendo planos/dando desculpas",
             "type": [
                 {
                     "name-type": "Ask",
+                    "phrases_translation_spanish":"Pregunte",
+                    "name_type_translation_portuguese":"Perguntar",
                     "phrases": [
                         {
                             "phrase": "Do you want to ________?",
@@ -2513,6 +2636,8 @@
                 },
                 {
                     "name-type": "Answering Yes",
+                    "phrases_translation_spanish":"Responder afirmativamente",
+                    "name_type_translation_portuguese":"Respondendo Sim",
                     "phrases": [
                         {
                             "phrase": "Yes!",
@@ -2591,10 +2716,13 @@
         },
         {
             "phrases": "Invitations",
-            "phrases-translation":"Invitaciones",
+            "phrases_translation_spanish":"Invitaciones",
+            "phrases_translation_portuguese":"Convites",
             "type": [
                 {
                     "name-type": "Inviting Someone to do Something",
+                    "phrases_translation_spanish":"Invitar a alguien a hacer algo",
+                    "name_type_translation_portuguese":"Convidando alguém para fazer algo",
                     "phrases": [
                         {
                             "phrase": "Would you like to ________ with me?",
@@ -2646,6 +2774,8 @@
                 },
                 {
                     "name-type": "Turning Down Saying ‘no’ to an Invitation",
+                    "phrases_translation_spanish":"Rechazando (Diciendo 'no' a) una invitación",
+                    "name_type_translation_portuguese":"Recusar Dizer ‘não’ a uma convite",
                     "phrases": [
                         {
                             "phrase": "I’m sorry I can’t ________. ",
@@ -2673,10 +2803,13 @@
         },
         {
             "phrases": "Talking about Your Feelings",
-            "phrases-translation":"Hablar sobre sus sentimientos",
+            "phrases_translation_spanish":"Hablar sobre sus sentimientos",
+            "phrases_translation_portuguese":"Falando sobre seus sentimentos",
             "type": [
                 {
                     "name-type": "Asking Someone ‘How they are?’",
+                    "phrases_translation_spanish":"Preguntando a alguien “¿Cómo está?”",
+                    "name_type_translation_portuguese":"Perguntando a alguém ‘Como eles estão?’",
                     "phrases": [
                         {
                             "phrase": "How are you?",
@@ -2702,6 +2835,8 @@
                 },
                 {
                     "name-type": "If Feeling Good, Say…",
+                    "phrases_translation_spanish":"Si te sientes bien, di…",
+                    "name_type_translation_portuguese":"Se estiver se sentindo bem, diga…",
                     "phrases": [
                         {
                             "phrase": "I’m good.",
@@ -2722,6 +2857,8 @@
                 },
                 {
                     "name-type": "If Feeling Bad, Say…",
+                    "phrases_translation_spanish":"Si sientes mal, di...",
+                    "name_type_translation_portuguese":"Se estiver se sentindo mal, diga…",
                     "phrases": [
                         {
                             "phrase": "I’ve been better",
@@ -2742,6 +2879,8 @@
                 },
                 {
                     "name-type": "Other Common Feelings",
+                    "phrases_translation_spanish":"Otros sentimientos communes",
+                    "name_type_translation_portuguese":"Outros sentimentos comuns",
                     "phrases": [
                         {
                             "phrase": "I’m bored.",
@@ -2777,6 +2916,8 @@
                 },
                 {
                     "name-type": "Phrases to Help You Express Your Feelings",
+                    "phrases_translation_spanish":"Frases para ayudarle a expresar sus sentimientos",
+                    "name_type_translation_portuguese":"Frases para ajudar você a expressar seus sentimentos",
                     "phrases": [
                         {
                             "phrase": "I don’t like when you _______. ",
@@ -2799,10 +2940,13 @@
         },
         {
             "phrases": "Agreeing and Disagreeing",
-            "phrases-translation":"Poniendose de acuerdo y en desacuerdo",
+            "phrases_translation_spanish":"Poniendose de acuerdo y en desacuerdo",
+            "phrases_translation_portuguese":"Concordando e discordando",
             "type": [
                 {
                     "name-type": "The most common ways to agree",
+                    "phrases_translation_spanish":"Las formas más comunes de estar de acuerdo",
+                    "name_type_translation_portuguese":"As formas mais comuns de concordar",
                     "phrases": [
                         {
                             "phrase": "“Me too.” Response to a positive statement",
@@ -2818,6 +2962,8 @@
                 },
                 {
                     "name-type": "Examples of Agreeing",
+                    "phrases_translation_spanish":"Ejemplos de Estar de acuerdo",
+                    "name_type_translation_portuguese":"Exemplos de Concordância",
                     "color-card":"color-card-example-phrases",
                     "phrases": [
                         {
@@ -2854,6 +3000,8 @@
                 },
                 {
                     "name-type": "Examples of Agreeing",
+                    "phrases_translation_spanish":"Ejemplos de Estar de acuerdo",
+                    "name_type_translation_portuguese":"Exemplos de Concordância",
                     "phrases": [
                         {
                             "phrase": "I love Mickey Mouse. Respond: “So do I.”",
@@ -2869,6 +3017,8 @@
                 },
                 {
                     "name-type": "The most common ways to disagree",
+                    "phrases_translation_spanish":"Las formas más comunes para no están de acuerdo",
+                    "name_type_translation_portuguese":"As formas mais comuns de discordar",
                     "phrases": [
                         {
                             "phrase": "“I don’t.”",
@@ -2879,6 +3029,8 @@
                 },
                 {
                     "name-type": "Examples of Disagreeing",
+                    "phrases_translation_spanish":"Ejemplos de No estar de acuerdo",
+                    "name_type_translation_portuguese":"Exemplos de discordância",
                     "phrases": [
                         {
                             "phrase": "I like pizza. Respond: “I don’t.”",
@@ -2896,10 +3048,13 @@
         },
         {
             "phrases": "Similarities and Differences",
-            "phrases-translation":"Similitudes y diferencias",
+            "phrases_translation_spanish":"Similitudes y diferencias",
+            "phrases_translation_portuguese":"Semelhanças e diferenças",
             "type": [
                 {
                     "name-type": "Sentence Starters to Talk about Similarities",
+                    "phrases_translation_spanish":"Frases para empezar a hablar de similitudes",
+                    "name_type_translation_portuguese":"Inícios de frases para falar sobre semelhanças",
                     "phrases": [
                         {
                             "phrase": "___________ is like _________. ",
@@ -2956,6 +3111,8 @@
                 },
                 {
                     "name-type": "Sentence Starters to Talk about Differences",
+                    "phrases_translation_spanish":"Frases para empezar a hablar de las diferencias",
+                    "name_type_translation_portuguese":"Iniciadores de frases para falar sobre diferenças",
                     "phrases": [
                         {
                             "phrase": "_____ is bigger than _____. ",
@@ -3013,7 +3170,8 @@
         },
         {
             "phrases": "Stating Your Opinion",
-            "phrases-translation":"Declarando Su Opinión",
+            "phrases_translation_spanish":"Declarando Su Opinión",
+            "phrases_translation_portuguese":"Declarando sua opinião",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -3140,7 +3298,8 @@
         },
         {
             "phrases": "Complaining",
-            "phrases-translation":"Quejándose",
+            "phrases_translation_spanish":"Quejándose",
+            "phrases_translation_portuguese":"Reclamando",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -3217,7 +3376,8 @@
         },
         {
             "phrases": "Requesting Information/Asking for Something",
-            "phrases-translation":"Solicitud de información/pedir algo",
+            "phrases_translation_spanish":"Solicitud de información/pedir algo",
+            "phrases_translation_portuguese":"Solicitando informações/pedindo algo",
             "type": [
                 {
                     "name-type": "Sentences",
@@ -3287,6 +3447,8 @@
                 },
                 {
                     "name-type": "Would you mind… ?",
+                    "phrases_translation_spanish":"¿Te importaría...?",
+                    "name_type_translation_portuguese":"Você se importaria…?",
                     "phrases": [
                         {
                             "phrase": "Would you mind closing the door? It’s really loud out there.",
@@ -3314,10 +3476,13 @@
         },
         {
             "phrases": "Asking Questions",
-            "phrases-translation":"Hacer preguntas",
+            "phrases_translation_spanish":"Hacer preguntas",
+            "phrases_translation_portuguese":"Fazendo perguntas",
             "type": [
                 {
                     "name-type": "Most common question words",
+                    "phrases_translation_spanish":"Palabras de preguntas",
+                    "name_type_translation_portuguese":"Palavras de perguntas mais comuns",
                     "phrases": [
                         {
                             "phrase": "Who…?",
