@@ -27,6 +27,9 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#${itemId}" aria-expanded="false" aria-controls="${itemId}">
                                     ${item.phrases} (${item['phrases-translation']})
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill accordion-icon" viewBox="0 0 16 16">
+        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+    </svg>
                                 </button>
                             </h2>
                             <div id="${itemId}" class="accordion-collapse collapse" aria-labelledby="heading${index}">
@@ -122,26 +125,30 @@ document.addEventListener('DOMContentLoaded', function () {
     // Obtener el elemento del select
     const themeSelect = document.getElementById('theme-select');
 
-    //Obtener tema almacenado en localStorage si exite
+    // Obtener el tema almacenado en localStorage si existe
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme) {
         document.body.classList.toggle('dark-mode', savedTheme === 'dark');
+        document.body.classList.toggle('light-mode', savedTheme === 'light');
         themeSelect.value = savedTheme;
     }
 
-    // Cambiar el tema segun el valodr del select
+    // Cambiar el tema según el valor del select
     themeSelect.addEventListener('change', function () {
         const selectedTheme = themeSelect.value;
         if (selectedTheme === 'dark') {
             document.body.classList.add('dark-mode');
+            document.body.classList.remove('light-mode');
             localStorage.setItem('theme', 'dark'); // Almacenar tema en localStorage
         } else if (selectedTheme === 'light') {
+            document.body.classList.add('light-mode');
             document.body.classList.remove('dark-mode');
-            this.localName.setItem('theme', 'light');
+            localStorage.setItem('theme', 'light');
         }
     });
+});
 
-})
+
 
 // MENU BAR 
 $(document).ready(function () {

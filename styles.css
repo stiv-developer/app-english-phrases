@@ -224,6 +224,50 @@ ul li a {
 
 /* END CARD SETTING */ 
 
+/* Estilo del botón del acordeón */
+.accordion-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1rem;
+}
+
+/* Ajustar ícono del acordeón */
+.accordion-icon {
+    margin-left: 10px;
+    transition: transform 0.3s ease-in-out, fill 0.3s ease-in-out;
+    fill: black; /* Por defecto en modo claro */
+}
+
+/* Cambiar color del ícono en modo oscuro */
+.dark-mode .accordion-icon {
+    fill: white; /* Blanco en modo oscuro */
+}
+
+/* Cambiar color del ícono en modo claro */
+.light-mode .accordion-icon {
+    fill: black; /* Negro en modo claro */
+}
+
+/* Rotar el ícono cuando el acordeón está abierto */
+.accordion-button:not(.collapsed) .accordion-icon {
+    transform: rotate(180deg);
+}
+
+.accordion-button::after{
+    background-image: none;
+    margin-left: none;
+    flex-shrink: none;
+    width: none;
+    height: none;
+    margin-left: none;
+    content: none;
+    background-image: none;
+    background-repeat: none;
+    background-size: none;
+    transition: none;
+}
+
 /* For mobile devices (max width 600px) */
 @media only screen and (max-width: 600px) {
    
