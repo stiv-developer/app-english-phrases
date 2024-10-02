@@ -1,8 +1,24 @@
-/* START MENU BAR */
+/* Estilos para el modo claro */
+:root {
+    --background-color: #ffffff;
+    --text-color: #000000;
+}
 
+/* Estilos para el modo oscuro */
+.dark-mode {
+    --background-color: #212121;
+    --text-color: #ffffff ;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* START MENU BAR */
 .toggle-group {
     /* border: 1px solid red; */
-    background: white;
+    background: var(--background-color);
     width: 100%;
     top: 0;
     position: fixed;
@@ -27,14 +43,14 @@
 .menu {
     /* border: 1px solid red;  */
     margin: 0;
-    padding: 0;
+    padding: 70px 15px 15px 15px;
     position: fixed;
     top: 0;
     right: -100%;
     /* width: 150%; */
     width: 320px; 
     height: 100%;
-    background: #FFF;
+    background: var(--background-color);
     z-index: 1;
     transition: 0.5s;
     box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -51,7 +67,7 @@ ul {
     text-align: left;
 }
 
-ul li {
+/* ul li {
     list-style: none;
 }
 
@@ -60,7 +76,6 @@ ul li i{
 }
 
 ul li a {
-    /* border: 1px solid green;  */
     padding: 10px;
     display: inline-block;
     font-size: 1.5em;
@@ -69,10 +84,6 @@ ul li a {
     font-family: "Roboto", system-ui;
     font-weight: 900;
     font-style: normal;
-}
-
-/* ul li a:hover {
-    background: #FFFC85
 } */
 
 .menu.active {
@@ -156,6 +167,47 @@ ul li a {
     margin-bottom: 10px;
 }
 
+/* START CARD SETTING */
+
+.card-setting{
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.card-header-setting{
+    background: #D9D9D9;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-header-setting p{
+    color: black;
+    padding: 10px;
+    font-family: "Roboto", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    margin: 0px;
+}
+
+.card-body-setting{
+    padding: 10px;
+    display: flex;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-body-setting p{
+    /* border: 1px solid red; */
+    margin: 0px;
+}
+
+
+.card-body-setting select{
+    /* border: 1px solid red; */
+    width: 150px !important;
+}
+
+/* END CARD SETTING */ 
 
 /* For mobile devices (max width 600px) */
 @media only screen and (max-width: 600px) {
