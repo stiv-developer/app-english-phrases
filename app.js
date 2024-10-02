@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             typeContainer.classList.add('group-type', typeItem['name-type'].toLowerCase().replace(/\s+/g, '-'));
 
                             // Obtener la traducción del nombre del tipo según el idioma seleccionado
-                            const nameTypeTranslation = language === 'spanish' ? typeItem.phrases_translation_spanish : typeItem.name_type_translation_portuguese;
+                            const nameTypeTranslation = language === 'spanish' ? typeItem.name_type_translation_spanish : typeItem.name_type_translation_portuguese;
                             const typeHeaderHTML = `<h5>${typeItem['name-type']} <span class="fs-6 text-success">(${nameTypeTranslation})</span></h5>`;
 
                             typeContainer.innerHTML += typeHeaderHTML;
